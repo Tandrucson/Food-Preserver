@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="vegetables">
+        <item>Artichokes</item>
+        <item>Asparagus</item>
+        <item>Beans: Green, Snap, or Wax</item>
+        <item>Beans: Lima, Butter, or Pinto</item>
+        <item>Beets</item>
+        <item>Broccoli</item>
+        <item>Brussels Sprouts</item>
+        <item>Cabbage or Chinese Cabbage</item>
+        <item>Carrots</item>
+        <item>Cauliflower</item>
+        <item>Celery</item>
+        <item>Corn</item>
+        <item>Eggplant</item>
+        <item>Greens (Including Spinach)</item>
+        <item>Garlic-in-Oil</item>
+        <item>Fresh Herbs</item>
+        <item>Kohlrabi</item>
+        <item>Mushroom</item>
+        <item>Okra</item>
+        <item>Onions</item>
+        <item>Edible Pod Peas (Sugar, Chinese, Snow Peas or Sugar Snap Peas)</item>
+        <item>Blackeye or Field Peas</item>
+        <item>Green Peas</item>
+        <item>Bell or Sweet Peppers</item>
+        <item>Hot Peppers</item>
+        <item>Pimientos</item>
+        <item>New Irish Potatoes</item>
+        <item>Sweet Potatoes</item>
+        <item>Pumpkin</item>
+        <item>Rhubarb</item>
+        <item>Rhutabagas</item>
+        <item>Chayote Squash (Vegetable Pear)</item>
+        <item>Summer Squash
+(Cocozelle, Crookneck, Pattypan, Straightneck, White Scallop, Zucchini)</item>
+        <item>Winter Squash
+(Acorn, Banana, Buttercup, Butternut, Golden Delicious, Hubbard, Spaghetti)</item>
+        <item>Tomatoes</item>
+        <item>Green Tomatoes</item>
+        <item>Turnips or Parsnips</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+
+    <string-array name="vegetables_freezing">
+        <item>Preparation – Select those with uniformly green color, compact globes and tightly adhering leaves. Remove all leaves and choke or fuzzy portion. The portion that is left at the base is the heart. Cut away the stem just below the heart and trim any woody portions. Wash hearts in cold water and drain.
+
+Water blanch 7 minutes. Cook, drain and pack, leaving no headspace. Seal and freeze.</item>
+        <item>Preparation – Select young tender spears. Wash thoroughly and sort into sizes. Trim stalks by removing scales with a sharp knife. Cut into even lengths to fit containers.
+
+Water blanch small spears 2 minutes, medium spears 3 minutes and large spears 4 minutes.
+
+Cool promptly, drain and package, leaving no headspace. Seal and freeze.</item>
+        <item>Preparation – Select young tender pods when the seed is first formed. Wash in cold water, snip and cut into 2 to 4-inch lengths.
+
+Water blanch 3 minutes. Cool promptly, drain and package, leaving 1/2-inch headspace. Seal and freeze.</item>
+        <item>Preparation – Harvest while the seed is in the green stage. Wash, shell and sort according to size.
+
+Water blanch small beans 2 minutes, medium beans 3 minutes and large beans 4 minutes. Cool promptly, drain and package, leaving 1/2-inch headspace. Seal and freeze.</item>
+        <item>Preparation – Select deep, uniformly-red, tender, young beets. Wash and sort according to size. Trim tops, leaving 1/2 inch of stems and tap root, to prevent bleeding of color during cooking.
+
+Cook in boiling water until tender-for small beets 25 to 30 minutes; for medium beets 45 to 50 minutes.
+
+Cool promptly in cold water. Peel, remove stem and tap root, and cut into slices or cubes. Package, leaving ½-inch headspace. Seal and freeze.</item>
+        <item>Preparation – Select firm, young, tender stalks with compact heads. Remove leaves and woody portions. Separate heads into convenient-size sections and immerse in brine (4 teaspoons salt to 1 gallon water) for 30 minutes to remove insects. Split lengthwise so flowerets are no more than 1 1/2 inches across.
+
+Water blanch 3 minutes in boiling water or steam blanch 5 minutes.
+
+Cool promptly, drain and package, leaving no headspace. Seal and freeze.
+
+</item>
+        <item>Preparation – Select green, firm and compact heads. Examine heads carefully to make sure they are free from insects. Trim, removing coarse outer leaves. Wash thoroughly. Sort into small, medium and large sizes.
+
+Water blanch small heads 3 minutes, medium heads 4 minutes and large heads 5 minutes. Cool promptly, drain and package, leaving no headspace. Seal and freeze.</item>
+        <item>Preparation – Frozen cabbage or Chinese cabbage are suitable for use only as a cooked vegetable.
+
+Select freshly picked, solid heads. Trim coarse outer leaves from head. Cut into medium to coarse shreds or thin wedges, or separate head into leaves. Water blanch 1½ minutes.
+
+Cool promptly, drain and package, leaving ½-inch headspace. Seal and freeze.
+
+</item>
+        <item>Preparation – Select young, tender, coreless, medium length carrots. Remove tops, wash and peel. Leave small carrots whole. Cut others into thin slices, 1/4-inch cubes or lengthwise strips.
+
+Water blanch small whole carrots 5 minutes, diced or sliced 2 minutes and lengthwise strips 2 minutes.
+
+Cool promptly, drain and package, leaving 1/2-inch headspace. Seal and freeze.</item>
+        <item>Preparation – Choose compact white heads. Trim off leaves and cut head into pieces about 1 inch across. If necessary to remove insects, soak for 30 minutes in solution of salt and water (4 teaspoons salt per gallon water). Drain.
+
+Water blanch for 3 minutes in water containing 4 teaspoons salt per gallon water.
+
+Cool promptly, drain and package, leaving no headspace. Seal and freeze.
+
+</item>
+        <item>Celery loses its crispness when frozen. The frozen product is suitable only for cooked dishes.
+
+Preparation – Select crisp, tender stalks, free from coarse strings. Wash thoroughly, trim and cut stalks into l-inch lengths.
+
+Water blanch for 3 minutes. Cool promptly, drain and package leaving no headspace. Seal and freeze.</item>
+        <item>Preparation – Select only tender, freshly-gathered corn in the milk stage. Husk and trim the ears, remove silks and wash.
+
+Corn-on-the-cob – Water blanch small ears (1¼ inches or less in diameter) 7 minutes, medium ears (1¼ to 1½ inches in diameter) 9 minutes and large ears (over 1½ inches in diameter) 11 minutes. Cool promptly and completely to prevent a "cobby" taste. Drain and package. Seal and freeze.
+
+Whole Kernel Corn – Water blanch 4 minutes. Cool promptly, drain and cut from cob. Cut kernels from cob about 2/3 the depth of the kernels. Package, leaving ½-inch headspace. Seal and freeze.
+
+Cream Style Corn – Water blanch 4 minutes. Cool promptly and drain. Cut kernel tips and scrape the cobs with the back of a knife to remove the juice and the heart of the kernel. Package, leaving ½-inch headspace. Seal and freeze.
+
+Another way to prepare cream style corn for freezing is to cut and scrape the corn from the cob without blanching. Place the cut corn in a double boiler, and heat with constant stirring for about 10 minutes or until it thickens; allow to cool by placing the pan in ice water. Package in moisture-vapor resistant containers, leaving ½-inch headspace. Seal and freeze.</item>
+        <item>Preparation – Harvest before seeds become mature and when color is uniformly dark. Wash, peel and slice 1/3-inch thick. Prepare quickly, enough eggplant for one blanching at a time.
+
+Water blanch 4 minutes in 1 gallon of boiling water containing 1/2 cup lemon juice. Cool, drain and package, leaving 1/2-inch headspace. Seal and freeze.
+
+For Frying – Pack the drained slices with freezer wrap between slices. Seal and freeze.</item>
+        <item>Preparation – Select young, tender green leaves. Wash thoroughly and cut off woody stems. Water blanch collards 3 minutes and all other greens 2 minutes.
+
+Cool, drain and package, leaving 1/2-inch headspace. Seal and freeze.</item>
+        <item>Research performed by the National Center for Home Food Preservation confirmed that mixtures of garlic in oil stored at room temperature are at risk for the development of botulism.
+
+Garlic-in-oil should be made fresh and stored in the refrigerator at 40°F or lower for no more than 4 days. It may be frozen for long term storage for up to several months. Package in glass freezer jars or plastic freezer boxes, leaving ½-inch headspace. Label, date and freeze.</item>
+        <item>Preparation – Wash, drain and pat dry with paper towels. Wrap a few sprigs or leaves in freezer wrap and place in a freezer bag. Seal and freeze.
+
+These can be chopped and used in cooked dishes. These usually are not suitable for garnish, as the frozen product becomes limp when it thaws.</item>
+        <item>Preparation – Select stems when fully grown but tender. Cut off tops and roots. Wash and peel off the tough bark. Leave whole or dice in 1/2 inch cubes. Water blanch whole 3 minutes and cubes 1 minute.
+
+Cool promptly, drain and package, leaving 1/2-inch headspace. Seal and freeze.</item>
+        <item>Preparation – Choose mushrooms free from spots and decay. Sort according to size. Wash thoroughly in cold water. Trim off ends of stems. If mushrooms are larger than 1 inch across, slice them or cut them into quarters.
+
+Mushrooms can be steamed or heated in fat in a fry pan. Steamed mushrooms will keep longer than those heated in fat.
+
+To Steam – Mushrooms to be steamed have better color if given anti-darkening treatment first. To do this, dip for 5 minutes in a solution containing 1 teaspoon lemon juice or 11/2 teaspoons citric acid to a pint of water.
+
+Then steam whole mushrooms 5 minutes, buttons or quarters 31/2 minutes and slices 3 minutes. Cool promptly, drain and package, leaving 1/2-inch headspace. Seal and freeze.
+
+To Heat in Fry Pan – Heat small quantities of mushrooms in margarine or butter in an open fry pan until almost done.
+
+Cool in air or set pan in which mushrooms were cooked in cold water. Pack into containers, leaving 1/2-inch headspace. Seal and freeze.
+
+</item>
+        <item>The smooth type varieties freeze as well as or better than the ridged varieties because they do not split as easily.
+Preparation – Select young tender pods and separate into small pods (4 inches or under) and large pods. Wash. Remove the stems at the end of the seed cells, being careful not to expose the seed cell.
+
+Water blanch small pods 3 minutes and large pods 4 minutes.
+
+Cool promptly and drain. Leave whole or slice crosswise. Package, leaving 1/2-inch headspace. Seal and freeze.
+
+For Frying – Wash and remove stems. blanch small pods 3 minutes and large pods 4 minutes. Cool promptly and drain. Slice crosswise and dredge with meal or flour. Spread in a single layer on shallow trays. Place in freezer just long enough to freeze firm. Package quickly, leaving 1/2-inch headspace. Seal and freeze.
+
+</item>
+        <item>Bulb onions store well in a cool, dry place. Freezing is usually not recommended for preserving whole onions, but see below if desired.
+
+Diced Onions – Peel, trim and clean thoroughly. Dice (about 1/4-inch pieces). No blanching is required. Either pack dry into recommended freezer bags or containers, leaving1/2-inch headspace.  Or, freeze separated pieces on a clean tray prior to packaging. Eliminate as much air as possible from the package for this method. Onions frozen this way are best used within a few months.
+
+Green Onions – Young green onions may be chopped for salads and cooking and frozen without blanching, but they will not be crisp. They will be highly flavored but may be slightly tough. They can be packaged by either of the methods above for diced onions.
+
+Whole Bulb Onions - Choose mature bulbs; peel, trim and clean thoroughly as for eating.
+Water blanch for 3 minutes (smaller onions) to 7 minutes (larger onions) or until center is completely heated.
+Cool promptly, drain well, and package, leaving 1/2-inch headspace. Seal and freeze. These would be considered suitable for cooking only.
+
+Onion Rings – Wash, peel and slice onions. Separate slices into rings. Water blanch for 10 to 15 seconds. Cool promptly, drain and coat with flour. Dip in milk. Coat with a mixture of equal parts cornmeal and pancake mix. Arrange in a single layer on a tray. Freeze. Pack into containers using plastic wrap to separate the layers. No headspace is necessary. Seal and freeze.   To prepare, fry frozen rings in 375ºF oil until golden brown.</item>
+        <item>Preparation – Select bright green, flat, tender pods. Wash. Remove stems, blossom ends and any strings. Leave whole. Water blanch 11/2 minutes for small pods; 2 minutes for large pods. (NOTE: If the peas have started to develop, follow the directions for green beans. If the peas are already developed, shell and follow the directions for green peas.) Cool, drain and package, leaving 1/2-inch headspace. Seal and freeze.
+
+</item>
+        <item>Preparation – Select pods when seeds are tender and well-filled. Wash pods. Shell and discard over-mature and immature seeds and those injured by insects. Wash shelled peas.
+
+Water blanch 2 minutes. Cool promptly, drain and package, leaving 1/2 inch headspace. Seal and freeze.</item>
+        <item>Preparation – Harvest when pods are filled with young, tender peas that have not become starchy. Wash and shell; water blanch l1/2 minutes, cool and drain. Package, leaving 1/2-inch headspace. Seal and freeze.
+
+</item>
+        <item>Preparation – Select crisp, tender, green or bright red pods. Wash, cut out stems, cut in half and remove seeds. If desired, cut into 1/2-inch strips or rings.
+
+Heated – Good for use in cooking. Water blanch halves 3 minutes, strips or rings 2 minutes. Cool promptly, drain and package, leaving 1/2-inch headspace. Seal and freeze.
+
+Unheated – Good for use in uncooked foods because they have a crisper texture, or in cooked foods. Package raw, leaving no headspace. Seal and freeze.</item>
+        <item>Preparation – Wash and stem peppers. Package, leaving no headspace. Seal and freeze.</item>
+        <item>Preparation – Select firm, crisp pimientos of deep red color. Peel by roasting in oven 400 to 450ºF for 6 to 8 minutes or until skins can be rubbed off. Wash off the charred skins, cut out stems and remove seeds. Package, leaving 1/2-inch headspace. Seal and freeze.</item>
+        <item>Preparation – Select smooth new potatoes directly from the garden. Peel or scrape and wash. Water blanch for 3 to 5 minutes, depending on the size.
+
+Cool, drain and package whole or sectioned, leaving 1/2-inch headspace. Seal and freeze.
+
+French Fried Potatoes – Select mature potatoes which have been stored 30 days. Wash, peel and cut into 1/3-inch sticks lengthwise, then crosswise into 3/8-inch strips. Rinse in cold water. Dry thoroughly. Fry small amounts in deep, hot fat (360ºF) about 5 minutes until tender but not brown. Drain on paper towel. Cool. Package, seal and freeze.
+
+At serving time, finish browning in a hot oven (475ºF).</item>
+        <item>Preparation – Choose medium to large sweet potatoes that have been cured for at least one week. Sort according to size and wash. Cook until almost tender in water, in steam, in a pressure cooker or in the oven. Let stand at room temperature until cool. Peel sweet potatoes, cut in halves, slice or mash.
+
+If desired, to prevent darkening, dip whole sweet potatoes or slices for 5 seconds in a solution of 1/2 cup lemon juice to 1 quart water.
+
+To keep mashed sweet potatoes from darkening, mix 2 tablespoons orange or lemon juice with each quart of mashed sweet potatoes.
+
+Pack into containers, leaving 1/2-inch headspace. Seal and freeze.
+
+Baked – Wash, trim and heat potatoes in oven at 350ºF without peeling until slightly soft. Cool, remove peel and wrap individually in aluminum foil. Place in polyethylene bags and freeze. Complete the baking in an oven at 350ºF immediately before serving, leaving the potatoes wrapped in foil.
+
+</item>
+        <item>Preparation – Select full-colored mature pumpkin with fine texture. Wash, cut into cooking-size sections and remove seeds.
+
+Cook until soft in boiling water, in steam, in a pressure cooker or in an oven. Remove pulp from rind and mash. To cool, place pan containing pumpkin in cold water and stir occasionally. Package, leaving ½-inch headspace. Seal and freeze.</item>
+        <item>Preparation – Choose firm, tender, well-colored stalks with good flavor and few fibers. Wash, trim and cut into lengths to fit the package. Heating rhubarb in boiling water for 1 minute and cooling promptly in cold water helps retain color and flavor.
+
+Dry Pack – Pack either raw or preheated rhubarb tightly into containers without sugar. Leave headspace. Seal and freeze.
+
+Syrup Pack – Pack either raw or preheated rhubarb tightly into containers, cover with cold 40 percent syrup. Leave headspace. Seal and freeze.</item>
+        <item>Preparation – Select young, medium-sized rutabagas. Cut off tops, wash and peel. Cubed – Cut into cubes and water blanch 3 minutes.
+
+Cool, drain and pack, leaving 1/2-inch headspace. Seal and freeze.
+
+Mashed – Cut into chunks and cook until tender in boiling water. Drain, mash, cool and pack into containers, leaving headspace. Seal and freeze.</item>
+        <item>Preparation – Select those with tender skins. Wash, remove stem and blossom end. Do not pare. Dice, removing seed. Water blanch 2 minutes.
+
+Cool, drain and package, leaving 1/2-inch headspace. Seal and freeze.</item>
+        <item>Preparation – Choose young squash with tender skin. Wash and cut in 1/2-inch slices. Water blanch 3 minutes. Cool promptly, drain and package, leaving 1/2-inch headspace. Seal and freeze.
+
+Grated Zucchini (for Baking) – Choose young tender zucchini. Wash and grate. Steam blanch in small quantities 1 to 2 minutes until translucent. Pack in measured amounts into containers, leaving 1/2-inch headspace. Cool by placing the containers in cold water. Seal and freeze.
+
+If watery when thawed, discard the liquid before using the zucchini.</item>
+        <item>Preparation – Select firm, mature squash with a hard rind. For spaghetti squash, mashing the cooked pulp is not necessary.
+
+Cook until soft in boiling water, in steam, in a pressure cooker or in an oven. Remove pulp from rind and mash. To cool, place pan containing winter squash in cold water and stir occasionally. Package, leaving ½-inch headspace. Seal and freeze.</item>
+        <item>Preparation – Select firm, ripe tomatoes with deep red color.
+
+Raw – Wash and dip in boiling water for 30 seconds to loosen skins. Core and peel. Freeze whole or in pieces. Pack into containers, leaving l-inch headspace. Seal and freeze. Use only for cooking or seasoning as tomatoes will not be solid when thawed.
+
+Juice – Wash, sort and trim firm, vine-ripened tomatoes. Cut in quarters or eighths. Simmer 5 to 10 minutes. Press through a sieve. If desired, season with 1 teaspoon salt to each quart of juice. Pour into containers, leaving headspace. Seal and freeze.
+
+Stewed – Remove stem ends, peel and quarter ripe tomatoes. Cover and cook until tender (10 to 20 minutes). Place pan containing tomatoes in cold water to cool. Pack into containers, leaving headspace. Seal and freeze.
+
+</item>
+        <item>Preparation – Select firm, sound green tomatoes. Wash, core, and slice 1/4-inch thick.
+
+For Frying – Pack the slices into containers with freezer wrap between the slices. Leave 1/2-inch headspace. Seal and freeze.</item>
+        <item>Preparation – Select small to medium, firm turnips or parsnips that are tender and have a mild flavor. Wash, peel and cut into 1/2-inch cubes. Water blanch for 2 minutes. Cool promptly in cold water and drain. Pack into containers, leaving 1/2-inch headspace. Seal and freeze.</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+
+    <string-array name="vegetables_drying">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+
+
+    <string-array name="vegetables_canning">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>
