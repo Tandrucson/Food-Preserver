@@ -1,6 +1,187 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="vegetables">
+    <Tutorials>
+        <String>https://nchfp.uga.edu/publications/uga/using_press_canners.html</String>
+        <String>https://nchfp.uga.edu/publications/usda/GUIDE01_HomeCan_rev0715.pdf</String>
+    </Tutorials>
+
+    <Vegetables>
+        <Food>
+            <name>Artichokes</name>
+            <canningMethod>This kitchen project delivers both flavor and texture unlike any store-bought artichokes. Home-canned, marinated artichoke hearts liven up pizza, a salad or a sandwich.
+
+                Beware: The tannins in raw artichoke will stain your hands. Lemon juice will remove the stain.
+
+                You'll need 3 sanitized pint jars with new lids and rings; see the NOTE, below.
+
+                Make Ahead: The artichokes need 1 month to cure, during which time their texture changes from firm to velvety while their structure is retained. If you choose to skip the water-bath canning called for here, refrigerate the sealed jars of artichokes for 1 month before serving. (Artichokes that are not water-bath-canned will not achieve the same silky texture as those that are.) The water-bath-canned jars of artichokes need to cool for 12 hours. They are shelf stable for 1 year. Once opened, the jars should be refrigerated and used within a month.SERVINGS: 9 - 15
+
+                Yield: (makes 3 pints)
+
+                INGREDIENTS
+                4 lemons
+                9 medium or 15 baby artichokes
+                1/4 cup plus 3 teaspoons kosher salt or sea salt
+                1 cup distilled white vinegar, plus more as needed
+                1/4 cup white wine vinegar
+                1/4 cup mild olive oil, or more as needed
+                1 tablespoon dried oregano
+                3/4 teaspoon crushed red pepper flakes
+                3 cloves garlic, root ends trimmed
+                Three 1-inch strips lemon zest
+
+                DIRECTIONS
+                Halve and juice the lemons. Place the spent lemon halves in a 5-quart nonreactive (not aluminum or copper) pot; fill it with cold water. Strain and reserve the juice for the marinade.
+
+                To trim the artichokes, pull the leaves from each one, snapping them where they naturally break. Use a sharp knife or vegetable peeler to peel the choke, then make a clean cut across the end of the stem, retaining the tender portion. Use a grapefruit spoon, melon baller or side of a teaspoon to scrape away the fuzzy choke, revealing the meaty part of it, then quarter the entire choke. (For baby artichokes, trim only to any inner leaves without a thorn.) As each choke is trimmed, drop it into the pot.
+
+                Add 1/4 cup of salt. Bring the pot filled with lemon water and artichokes to a boil over high heat, then reduce the heat to medium or medium-low so the water is barely bubbling. Cook, uncovered, until fork-tender, about 10 minutes.
+
+                Meanwhile, make the marinade: Combine the reserved lemon juice, vinegars, oil, oregano, crushed red pepper flakes and garlic cloves in a small saucepan over high heat. Bring to a boil; cook for 5 minutes, then remove from the heat.
+
+                Use a slotted spoon to transfer the artichokes to the sanitized jars, dividing evenly and stacking the small ones and first cutting the medium ones into quarters. Tuck them in as tightly as possible without breaking or bruising.
+
+                Whisk the marinade well and divide among the jars. If there is not enough marinade to cover, add oil as needed to leave 1/2 inch headspace at the top of each jar. Make sure 1 garlic clove, 1 strip of lemon zest and 1 teaspoon salt goes into each jar.
+
+                Run a chopstick or flat plastic knife along the inside of the jar to remove any air bubbles. Clean the rim of each jar with distilled white vinegar to cut residual oils, place the warmed lids on and finger-tighten the rings (not too tight). Process in the boiling water bath for 15 minutes (see NOTE, below). Turn off the heat and let the jars rest in the pot for 10 minutes. Use tongs to transfer the jars to a clean, folded dish towel to cool over several hours.
+
+                Store the water-bath-canned jars in a cool space to cure for 1 month.
+
+                NOTE: Water-bath canning safely seals high acid, low pH foods in jars. The time for processing in the water-bath is calculated based on the size of the jar and the consistency and density of the food. For safety's sake, do not alter the jar size, ingredients, ratios or processing time in any canning recipes. If moved to change any of these items, simply put the prepared food in the refrigerator and eat within a week.
+
+                Fill a large canning kettle or deep stockpot two-thirds full with water. To keep the jars from rattling against the pot, place a rack in the pot (a cake rack works well, or a folded dish towel is equally effective). Sanitize the jars in a short dishwasher cycle or by boiling them in a canning kettle or pot for 10 minutes. Fill a small saucepan with water and add the rings. Bring to a boil over high heat, slip in the lids and turn off the heat.
+
+                Use a jar lifter or tongs to lower the filled, sealed jars upright into the boiling water-bath. When all the jars are in place, the water should be 1 to 2 inches above the top of the jar. Add water as needed. Bring the water to a low boil before starting the timer for processing.
+
+                At the end of processing, turn off the heat and let the jars sit in the water bath until the boiling has stopped. This will reduce siphoning -- when the food burbles up under the lid, breaking the seal. Use the jar lifter or tongs to transfer the jars to a folded towel, placed upright. Leave the jars until they have completely cooled, at least 12 hours. Remove the rings and test the seal by lifting the jar by the lid. The lid should hold fast. Label and store in a cool, dry, dark space.</canningMethod>
+            <freezingMethod>Preparation – Select those with uniformly green color, compact globes and tightly adhering leaves. Remove all leaves and choke or fuzzy portion. The portion that is left at the base is the heart. Cut away the stem just below the heart and trim any woody portions. Wash hearts in cold water and drain.
+
+                Water blanch 7 minutes. Cook, drain and pack, leaving no headspace. Seal and freeze.</freezingMethod>
+            <dryingMethod></dryingMethod>
+            <canningUrl>https://www.washingtonpost.com/recipes/home-canned-artichoke-hearts/14027/</canningUrl>
+            <freezingUrl>https://nchfp.uga.edu/how/freeze/artichoke.html</freezingUrl>
+            <dryingUrl></dryingUrl>
+        </Food>
+        <Food>
+            <name>Asparagus</name>
+            <canningMethod>Quantity: An average of 24½ pounds is needed per canner load of 7 quarts; an average of 16 pounds is needed per canner load of 9 pints. A crate weighs 31 pounds and yields 7 to 12 quarts--an average of 3½ pounds per quart.
+
+                Quality: Use tender, tight-tipped spears, 4 to 6 inches long.
+
+                Please read Using Pressure Canners before beginning. If this is your first time canning, it is recommended that you read Principles of Home Canning.
+
+                Procedure: Wash asparagus and trim off tough scales. Break off tough stems and wash again. Cut into 1-inch pieces or can whole.
+
+                Hot pack – Cover asparagus with boiling water. Boil 2 or 3 minutes. Loosely fill jars with hot asparagus, leaving 1-inch headspace.
+
+                Raw pack – Fill jars with raw asparagus, packing as tightly as possible without crushing, leaving 1-inch headspace.
+
+                Add 1 teaspoon of salt per quart to the jars, if desired. Add boiling water, leaving 1-inch headspace.
+
+                Adjust lids and process as recommended in Table 1 or Table 2 according to the method of canning used.</canningMethod>
+            <freezingMethod>Preparation – Select young tender spears. Wash thoroughly and sort into sizes. Trim stalks by removing scales with a sharp knife. Cut into even lengths to fit containers.
+
+                Water blanch small spears 2 minutes, medium spears 3 minutes and large spears 4 minutes.
+
+                Cool promptly, drain and package, leaving no headspace. Seal and freeze.</freezingMethod>
+            <dryingMethod>https://nchfp.uga.edu/how/freeze/asparagus.html</dryingMethod>
+            <canningUrl>https://nchfp.uga.edu/how/can_04/asparagus_spears.html</canningUrl>
+            <freezingUrl></freezingUrl>
+            <dryingUrl></dryingUrl>
+        </Food>
+        <Food>
+            <name>Beans: Green, Snap, or Wax</name>
+            <canningMethod>Quantity: An average of 14 pounds is needed per canner load of 7 quarts; an average of 9 pounds is needed per canner load of 9 pints. A bushel weighs 30 pounds and yields 12 to 20 quarts – an average of 2 pounds per quart.
+
+                Quality: Select filled but tender, crisp pods. Remove and discard diseased and rusty pods.
+
+                Please read Using Pressure Canners before beginning. If this is your first time canning, it is recommended that you read Principles of Home Canning.
+
+                Procedure: Wash beans and trim ends. Leave whole or cut or snap into 1-inch pieces.
+
+                Hot pack –Cover with boiling water; boil 5 minutes. Fill jars loosely with beans, leaving 1-inch headspace. Add 1 teaspoon of canning salt per quart to the jar, if desired. Cover beans with hot cooking liquid, leaving 1-inch headspace.
+
+                Raw pack – Fill jars tightly with raw beans, leaving 1-inch headspace. Add 1 teaspoon of canning salt per quart to the jar, if desired. Add boiling water, leaving 1-inch headspace.
+
+                Adjust lids and process in a pressure canner following the recommendations in Table 1 or Table 2 according to the type of canner being used. (There is no safe option for processing green beans in a boiling water canner.)</canningMethod>
+            <freezingMethod>Preparation – Select young tender pods when the seed is first formed. Wash in cold water, snip and cut into 2 to 4-inch lengths.
+
+                Water blanch 3 minutes. Cool promptly, drain and package, leaving 1/2-inch headspace. Seal and freeze.</freezingMethod>
+            <dryingMethod></dryingMethod>
+            <canningUrl>https://nchfp.uga.edu/how/can_04/beans_snap_italian.html</canningUrl>
+            <freezingUrl>https://nchfp.uga.edu/how/freeze/bean_green.html</freezingUrl>
+            <dryingUrl></dryingUrl>
+        </Food>
+        <Food>
+            <name></name>
+            <canningMethod></canningMethod>
+            <freezingMethod></freezingMethod>
+            <dryingMethod></dryingMethod>
+            <canningUrl></canningUrl>
+            <freezingUrl></freezingUrl>
+            <dryingUrl></dryingUrl>
+        </Food>
+    </Vegetables>
+
+    <Fruits>
+        <Food>
+            <name></name>
+            <canningMethod></canningMethod>
+            <freezingMethod></freezingMethod>
+            <dryingMethod></dryingMethod>
+            <canningUrl></canningUrl>
+            <freezingUrl></freezingUrl>
+            <dryingUrl></dryingUrl>
+        </Food>
+        <Food>
+            <name></name>
+            <canningMethod></canningMethod>
+            <freezingMethod></freezingMethod>
+            <dryingMethod></dryingMethod>
+            <canningUrl></canningUrl>
+            <freezingUrl></freezingUrl>
+            <dryingUrl></dryingUrl>
+        </Food>
+
+    </Fruits>
+
+    <Meats>
+        <Food>
+            <name>Chicken</name>
+            <canningMethod>Chicken or Rabbit
+
+                Please read Using Pressure Canners before beginning. If this is your first time canning, it is recommended that you read Principles of Home Canning.
+
+                Procedure: Choose freshly killed and dressed, heathy animals. Large chickens are more flavorful than fryers. Dressed chicken should be chilled for 6 to 12 hours before canning. Dressed rabbits should be soaked 1 hour in water containing 1 tablespoon of salt per quart, and then rinsed. Remove excess fat. Cut the chicken or rabbit into its suitable size parts for fitting into your jars leaving required headspace. Can with or without bones. The hot pack is preferred for best liquid cover and quality during storage. Natural poultry fat and juices are usually not enough to cover the meat in raw packs.
+
+                Hot pack – Boil, steam or bake meat until about two-thirds done. Add 1 teaspoon salt per quart to the jar, if desired. Fill jars with pieces and hot broth, leaving 1-1/4 inch headspace.
+
+                Raw pack – Add 1 teaspoon salt per quart, if desired. Fill jars loosely with raw meat pieces, leaving 1-1/4 inch headspace. Do not add liquid.
+
+                Adjust lids and process following the recommendations in Table 1 or Table 2 according to the canning method used.</canningMethod>
+            <freezingMethod>Select only high quality, fresh poultry to freeze. The tender young bird is best for roasting, frying and broiling. Choose the more flavorful older birds for braising or stewing.
+
+                Package poultry in freezer paper or wrap using the drugstore or butcher wrap, or place in freezer bags. Storebought poultry needs to be over-wrapped before freezing because its clear wrap is not moisture-vapor resistant. When packaging pieces, arrange them to form a compact, square, flat package so they will stack better in the freezer. After packaging, seal and freeze immediately.
+
+                Quail, dove, duck, pheasant and other game birds should be dressed and gutted as soon as possible after shooting. Cool and clean properly. Remove excess fat on wild ducks and geese since it becomes rancid very quickly. Freeze as directed for poultry.
+
+                Do not stuff poultry or game birds before freezing them. During freezing or thawing times, bacteria that cause foodborne illness could easily grow in the stuffing. Commercially stuffed frozen poultry is prepared under special safety conditions that cannot be duplicated at home.</freezingMethod>
+            <dryingMethod></dryingMethod>
+            <canningUrl>https://nchfp.uga.edu/how/can_05/chicken_rabbit.html</canningUrl>
+            <freezingUrl>https://nchfp.uga.edu/how/freeze/poultry.html</freezingUrl>
+            <dryingUrl></dryingUrl>
+        </Food>
+        <Food>
+            <name></name>
+            <canningMethod></canningMethod>
+            <freezingMethod></freezingMethod>
+            <dryingMethod></dryingMethod>
+            <canningUrl></canningUrl>
+            <freezingUrl></freezingUrl>
+            <dryingUrl></dryingUrl>
+        </Food>
+    </Meats>
+    <!--<string-array name="vegetables">
         <item>Artichokes</item>
         <item>Asparagus</item>
         <item>Beans: Green, Snap, or Wax</item>
@@ -277,5 +458,5 @@ For Frying – Pack the slices into containers with freezer wrap between the sli
         <item></item>
         <item></item>
         <item></item>
-    </string-array>
+    </string-array>-->
 </resources>
