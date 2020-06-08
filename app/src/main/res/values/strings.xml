@@ -3,26 +3,21 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     
-    <string-array name="programming_languages">
-        <item>Apple</item>
-        <item>Java</item>
-        <item>C++</item>
-        <item>Swift</item>
-        <item>Java</item>
-        <item>C++</item>
-        <item>Swift</item>
-        <item>Java</item>
-        <item>C++</item>
-        <item>Swift</item>
-        <item>Java</item>
-        <item>C++</item>
-        <item>Swift</item>
-        <item>Java</item>
-        <item>C++</item>
+    <string-array name="fruits">
+        <item>Fruits1</item>
+        <item>Fruits2</item>
+        <item>Fruits3</item>
+        <item>Fruits4</item>
+        <item>Fruits5</item>
+        <item>Fruits6</item>
+        <item>Fruits7</item>
+        <item>Fruits8</item>
+        <item>Fruits9</item>
+        <item>Fruits10</item>
     </string-array>
 
 <!--description items need to match programming_languages items -->
-    <string-array name="description">
+    <string-array name="fruitsDescription">
         <item></item>
         <item></item>
         <item></item>
@@ -34,5 +29,64 @@
         <item></item>
         <item></item>
     </string-array>
+
+    <string-array name="vegetables">
+        <item>Vegetables1</item>
+        <item>Vegetables2</item>
+        <item>Vegetables3</item>
+        <item>Vegetables4</item>
+        <item>Vegetables5</item>
+        <item>Vegetables6</item>
+        <item>Vegetables7</item>
+        <item>Vegetables8</item>
+        <item>Vegetables9</item>
+        <item>Vegetables10</item>
+    </string-array>
+
+    <!--description items need to match programming_languages items -->
+    <string-array name="vegetablesDescription">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="meats">
+        <item>meats1</item>
+        <item>meats2</item>
+        <item>meats3</item>
+        <item>meats4</item>
+        <item>meats5</item>
+        <item>meats6</item>
+        <item>meats7</item>
+        <item>meats8</item>
+        <item>meats9</item>
+        <item>meats10</item>
+    </string-array>
+
+    <!--description items need to match programming_languages items -->
+    <string-array name="meatsDescription">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+
+
+
+
 
 </resources>

@@ -3,16 +3,12 @@ package com.example.food_preserver;
 import android.os.Bundle;
 
 import androidx.fragment.app.Fragment;
-import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.Adapter;
-import android.widget.Button;
-import android.widget.ListView;
 
 
 /**
@@ -81,10 +77,10 @@ public class FirstFragment extends Fragment {
 
 
         //recyclerview implementation in fragment
-        recyclerView = view.findViewById(R.id.recyclerView2);
+        recyclerView = view.findViewById(R.id.recyclerView_FirstFragment);
 
-        s1 = getResources().getStringArray(R.array.programming_languages);
-        s2 = getResources().getStringArray(R.array.description);
+        s1 = getResources().getStringArray(R.array.fruits);
+        s2 = getResources().getStringArray(R.array.fruitsDescription);
 
         MyAdapter myAdapter = new MyAdapter(getActivity(), s1, s2, images);
         recyclerView.setAdapter(myAdapter);
