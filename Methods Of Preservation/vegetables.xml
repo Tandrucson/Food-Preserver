@@ -56,11 +56,11 @@
                 At the end of processing, turn off the heat and let the jars sit in the water bath until the boiling has stopped. This will reduce siphoning -- when the food burbles up under the lid, breaking the seal. Use the jar lifter or tongs to transfer the jars to a folded towel, placed upright. Leave the jars until they have completely cooled, at least 12 hours. Remove the rings and test the seal by lifting the jar by the lid. The lid should hold fast. Label and store in a cool, dry, dark space.</canningMethod>
             <freezingMethod>Preparation – Select those with uniformly green color, compact globes and tightly adhering leaves. Remove all leaves and choke or fuzzy portion. The portion that is left at the base is the heart. Cut away the stem just below the heart and trim any woody portions. Wash hearts in cold water and drain.
 
-                Water blanch 7 minutes. Cook, drain and pack, leaving no headspace. Seal and freeze.</freezingMethod>
-            <dryingMethod></dryingMethod>
+                Water blanch 7 minutes. Cook, drain and pack, leaving no head space. Seal and freeze.</freezingMethod>
+            <dryingMethod>https://www.homestratosphere.com/how-to-store-artichokes/</dryingMethod>
             <canningUrl>https://www.washingtonpost.com/recipes/home-canned-artichoke-hearts/14027/</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/artichoke.html</freezingUrl>
-            <dryingUrl></dryingUrl>
+            <dryingUrl>https://www.homestratosphere.com/how-to-store-artichokes/</dryingUrl>
         </Food>
         <Food>
             <name>Asparagus</name>
@@ -84,10 +84,10 @@
                 Water blanch small spears 2 minutes, medium spears 3 minutes and large spears 4 minutes.
 
                 Cool promptly, drain and package, leaving no headspace. Seal and freeze.</freezingMethod>
-            <dryingMethod>https://nchfp.uga.edu/how/freeze/asparagus.html</dryingMethod>
+            <dryingMethod>https://preparednessmama.com/dehydrating-asparagus/</dryingMethod>
             <canningUrl>https://nchfp.uga.edu/how/can_04/asparagus_spears.html</canningUrl>
-            <freezingUrl></freezingUrl>
-            <dryingUrl></dryingUrl>
+            <freezingUrl>https://nchfp.uga.edu/how/freeze/asparagus.html</freezingUrl>
+            <dryingUrl>https://preparednessmama.com/dehydrating-asparagus/</dryingUrl>
         </Food>
         <Food>
             <name>Beans: Green, Snap, or Wax</name>
@@ -107,10 +107,10 @@
             <freezingMethod>Preparation – Select young tender pods when the seed is first formed. Wash in cold water, snip and cut into 2 to 4-inch lengths.
 
                 Water blanch 3 minutes. Cool promptly, drain and package, leaving 1/2-inch headspace. Seal and freeze.</freezingMethod>
-            <dryingMethod></dryingMethod>
+            <dryingMethod>https://www.thespruceeats.com/how-to-store-dried-beans-1389336#:~:text=Storing%20the%20Beans&text=Transfer%20your%20dried%20beans%20to,dry%20place%20away%20from%20sunlight.</dryingMethod>
             <canningUrl>https://nchfp.uga.edu/how/can_04/beans_snap_italian.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/bean_green.html</freezingUrl>
-            <dryingUrl></dryingUrl>
+            <dryingUrl>https://www.thespruceeats.com/how-to-store-dried-beans-1389336#:~:text=Storing%20the%20Beans&text=Transfer%20your%20dried%20beans%20to,dry%20place%20away%20from%20sunlight.</dryingUrl>
         </Food>
         <Food>
             <name>Beans: Lima, Butter, or Pinto</name>
@@ -217,10 +217,10 @@
                 Water blanch 3 minutes in boiling water or steam blanch 5 minutes.
 
                 Cool promptly, drain and package, leaving no headspace. Seal and freeze.</freezingMethod>
-            <dryingMethod></dryingMethod>
+            <dryingMethod>https://joybileefarm.com/drying-broccoli-food-storage/</dryingMethod>
             <canningUrl>https://cookingontheweekends.com/spicy-quick-pickled-broccoli/</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/broccoli.html</freezingUrl>
-            <dryingUrl></dryingUrl>
+            <dryingUrl>https://joybileefarm.com/drying-broccoli-food-storage/</dryingUrl>
         </Food>
         <Food>
             <name>Brussel Sprouts</name>
@@ -264,10 +264,10 @@
                 Water blanch small heads 3 minutes, medium heads 4 minutes and large heads 5 minutes. Cool promptly, drain and package, leaving no headspace. Seal and freeze.
 
             </freezingMethod>
-            <dryingMethod></dryingMethod>
+            <dryingMethod>https://apps.chhs.colostate.edu/preservesmart/produce/drying/brussels-sprouts/</dryingMethod>
             <canningUrl>https://www.allrecipes.com/recipe/220205/zesty-pickled-brussels-sprouts/</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/brussel_sprouts.html</freezingUrl>
-            <dryingUrl></dryingUrl>
+            <dryingUrl>https://apps.chhs.colostate.edu/preservesmart/produce/drying/brussels-sprouts/</dryingUrl>
         </Food>
         <Food>
             <name>Cabbage or Chinese Cabbage</name>
@@ -325,10 +325,10 @@
                 Cool promptly, drain and package, leaving ½-inch headspace. Seal and freeze.
 
             </freezingMethod>
-            <dryingMethod></dryingMethod>
+            <dryingMethod>https://thesurvivalmom.com/how-to-dehydrate-cabbage/</dryingMethod>
             <canningUrl>https://www.healthycanning.com/home-canned-sauerkraut/#The_recipe</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/cabbage.html</freezingUrl>
-            <dryingUrl></dryingUrl>
+            <dryingUrl>https://thesurvivalmom.com/how-to-dehydrate-cabbage/</dryingUrl>
         </Food>
         <Food>
             <name>Carrots</name>
@@ -353,40 +353,55 @@
                 Water blanch small whole carrots 5 minutes, diced or sliced 2 minutes and lengthwise strips 2 minutes.
 
                 Cool promptly, drain and package, leaving 1/2-inch headspace. Seal and freeze.</freezingMethod>
-            <dryingMethod></dryingMethod>
+            <dryingMethod>https://www.simplycanning.com/how-to-dry-vegetables.html</dryingMethod>
             <canningUrl>https://nchfp.uga.edu/how/can_04/carrots_sliced.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/carrot.html</freezingUrl>
-            <dryingUrl></dryingUrl>
+            <dryingUrl>https://www.simplycanning.com/how-to-dry-vegetables.html</dryingUrl>
         </Food>
         <Food>
             <name>Cauliflower</name>
-            <canningMethod></canningMethod>
+            <canningMethod>https://recipes.howstuffworks.com/pickled-cauliflower-recipe.htm</canningMethod>
             <freezingMethod>Preparation – Choose compact white heads. Trim off leaves and cut head into pieces about 1 inch across. If necessary to remove insects, soak for 30 minutes in solution of salt and water (4 teaspoons salt per gallon water). Drain.
 
                 Water blanch for 3 minutes in water containing 4 teaspoons salt per gallon water.
 
                 Cool promptly, drain and package, leaving no headspace. Seal and freeze.</freezingMethod>
-            <dryingMethod></dryingMethod>
-            <canningUrl></canningUrl>
+            <dryingMethod>https://www.trail.recipes/blog/how-to-make-dehydrated-cauliflower-rice/</dryingMethod>
+            <canningUrl>https://recipes.howstuffworks.com/pickled-cauliflower-recipe.htm</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/cauliflower.html</freezingUrl>
-            <dryingUrl></dryingUrl>
+            <dryingUrl>https://www.trail.recipes/blog/how-to-make-dehydrated-cauliflower-rice/</dryingUrl>
         </Food>
         <Food>
             <name>Celery</name>
-            <canningMethod></canningMethod>
+            <canningMethod>The USDA never backed canning plain celery or had developed directions for it. Also see https://www.healthycanning.com/canning-celery/</canningMethod>
+
             <freezingMethod>Celery loses its crispness when frozen. The frozen product is suitable only for cooked dishes.
 
                 Preparation – Select crisp, tender stalks, free from coarse strings. Wash thoroughly, trim and cut stalks into l-inch lengths.
 
                 Water blanch for 3 minutes. Cool promptly, drain and package leaving no headspace. Seal and freeze.</freezingMethod>
-            <dryingMethod></dryingMethod>
-            <canningUrl></canningUrl>
+            <dryingMethod>https://www.thespruceeats.com/how-to-make-dehydrated-celery-1327565#:~:text=Arrange%20the%20celery%20pieces%20on,takes%206%20to%208%20hours.</dryingMethod>
+            <canningUrl>https://www.healthycanning.com/canning-celery/</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/celery.html</freezingUrl>
-            <dryingUrl></dryingUrl>
+            <dryingUrl>https://www.thespruceeats.com/how-to-make-dehydrated-celery-1327565#:~:text=Arrange%20the%20celery%20pieces%20on,takes%206%20to%208%20hours.</dryingUrl>
         </Food>
         <Food>
             <name>Corn</name>
-            <canningMethod></canningMethod>
+            <canningMethod>Quantity: An average of 31½ pounds (in husk) of sweet corn is needed per canner load of 7 quarts; an average of 20 pounds is needed per canner load of 9 pints. A bushel weighs 35 pounds and yields 6 to 11 quarts – an average of 4½ pounds per quart.
+
+                Quality: Select ears containing slightly immature kernels or of ideal quality for eating fresh. Canning of some sweeter varieties or too immature kernels may cause browning. Can a small amount, check color and flavor before canning large quantities.
+
+                Please read Using Pressure Canners before beginning. If this is your first time canning, it is recommended that you read Principles of Home Canning.
+
+                Procedure: Husk corn, remove silk, and wash. Blanch 3 minutes in boiling water. Cut corn from cob at about three-fourths the depth of kernel. Caution: Do not scrape cob.
+
+                Hot pack – To each clean quart of kernels in a saucepan, add 1 cup of hot water, heat to boiling and simmer 5 minutes. Add 1 teaspoon of salt per quart to the jar, if desired. Fill jars with corn and cooking liquid, leaving 1-inch headspace.
+
+                Raw pack – Fill jars with raw kernels, leaving 1-inch headspace. Do not shake or press down. Add 1 teaspoon of salt per quart to the jar, if desired.
+
+                Add fresh boiling water, leaving 1-inch headspace.
+
+                Adjust lids and process following the recommendations in Table 1 or Table 2 according the the method of canning used.</canningMethod>
             <freezingMethod>Preparation – Select only tender, freshly-gathered corn in the milk stage. Husk and trim the ears, remove silks and wash.
 
                 Corn-on-the-cob – Water blanch small ears (1¼ inches or less in diameter) 7 minutes, medium ears (1¼ to 1½ inches in diameter) 9 minutes and large ears (over 1½ inches in diameter) 11 minutes. Cool promptly and completely to prevent a "cobby" taste. Drain and package. Seal and freeze.
@@ -398,75 +413,93 @@
                 Another way to prepare cream style corn for freezing is to cut and scrape the corn from the cob without blanching. Place the cut corn in a double boiler, and heat with constant stirring for about 10 minutes or until it thickens; allow to cool by placing the pan in ice water. Package in moisture-vapor resistant containers, leaving ½-inch headspace. Seal and freeze.
 
             </freezingMethod>
-            <dryingMethod></dryingMethod>
-            <canningUrl></canningUrl>
+            <dryingMethod>https://www.gettystewart.com/how-to-dehydrate-corn/</dryingMethod>
+            <canningUrl>https://nchfp.uga.edu/how/can_04/corn_kernel.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/corn.html</freezingUrl>
-            <dryingUrl></dryingUrl>
+            <dryingUrl>https://www.gettystewart.com/how-to-dehydrate-corn/</dryingUrl>
+        </Food>
+        <Food>
+            <name>Cucumbers</name>
+            <canningMethod>https://natashaskitchen.com/canned-dill-pickle-recipe/</canningMethod>
+            <freezingMethod>https://nchfp.uga.edu/how/freeze/squash_summer.html</freezingMethod>
+            <dryingMethod>https://www.keyingredient.com/recipes/3465755032/3-recipes-for-dried-cucumbers/</dryingMethod>
+            <canningUrl>https://natashaskitchen.com/canned-dill-pickle-recipe/</canningUrl>
+            <freezingUrl>https://nchfp.uga.edu/how/freeze/squash_summer.html</freezingUrl>
+            <dryingUrl>https://www.keyingredient.com/recipes/3465755032/3-recipes-for-dried-cucumbers/</dryingUrl>
         </Food>
         <Food>
             <name>Eggplant</name>
-            <canningMethod></canningMethod>
+            <canningMethod>https://www.eatwell101.com/canned-eggplant-recipe</canningMethod>
             <freezingMethod>Preparation – Harvest before seeds become mature and when color is uniformly dark. Wash, peel and slice 1/3-inch thick. Prepare quickly, enough eggplant for one blanching at a time.
 
                 Water blanch 4 minutes in 1 gallon of boiling water containing 1/2 cup lemon juice. Cool, drain and package, leaving 1/2-inch headspace. Seal and freeze.
 
                 For Frying – Pack the drained slices with freezer wrap between slices. Seal and freeze.</freezingMethod>
-            <dryingMethod></dryingMethod>
-            <canningUrl></canningUrl>
+            <dryingMethod>https://delishably.com/vegetable-dishes/How-to-Dry-Eggplant-An-Illustrated-Guide</dryingMethod>
+            <canningUrl>https://www.eatwell101.com/canned-eggplant-recipe</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/eggplant.html</freezingUrl>
-            <dryingUrl></dryingUrl>
+            <dryingUrl>https://delishably.com/vegetable-dishes/How-to-Dry-Eggplant-An-Illustrated-Guide</dryingUrl>
         </Food>
         <Food>
             <name>Greens (including Spinach)</name>
-            <canningMethod></canningMethod>
+            <canningMethod>https://nchfp.uga.edu/how/can_04/spinach_greens.html</canningMethod>
             <freezingMethod>Preparation – Select young, tender green leaves. Wash thoroughly and cut off woody stems. Water blanch collards 3 minutes and all other greens 2 minutes.
 
                 Cool, drain and package, leaving 1/2-inch headspace. Seal and freeze.
 
             </freezingMethod>
-            <dryingMethod></dryingMethod>
-            <canningUrl></canningUrl>
+            <dryingMethod>https://learn.eartheasy.com/articles/supercharge-your-meals-with-dehydrated-greens/#:~:text=To%20dehydrate%20the%20greens%2C%20place,the%20longer%20the%20drying%20time.</dryingMethod>
+            <canningUrl>https://nchfp.uga.edu/how/can_04/spinach_greens.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/greens.html</freezingUrl>
-            <dryingUrl></dryingUrl>
+            <dryingUrl>https://learn.eartheasy.com/articles/supercharge-your-meals-with-dehydrated-greens/#:~:text=To%20dehydrate%20the%20greens%2C%20place,the%20longer%20the%20drying%20time.</dryingUrl>
         </Food>
         <Food>
             <name>Garlic-in-Oil</name>
-            <canningMethod></canningMethod>
+            <canningMethod>https://barefeetinthekitchen.com/preserving-garlic-for-winter/</canningMethod>
             <freezingMethod>Research performed by the National Center for Home Food Preservation confirmed that mixtures of garlic in oil stored at room temperature are at risk for the development of botulism.
 
                 Garlic-in-oil should be made fresh and stored in the refrigerator at 40°F or lower for no more than 4 days. It may be frozen for long term storage for up to several months. Package in glass freezer jars or plastic freezer boxes, leaving ½-inch headspace. Label, date and freeze.</freezingMethod>
-            <dryingMethod></dryingMethod>
-            <canningUrl></canningUrl>
+            <dryingMethod>https://www.garlicfarm.ca/garlic-drying.htm</dryingMethod>
+            <canningUrl>https://barefeetinthekitchen.com/preserving-garlic-for-winter/</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/garlic_oil.html</freezingUrl>
-            <dryingUrl></dryingUrl>
+            <dryingUrl>https://www.garlicfarm.ca/garlic-drying.htm</dryingUrl>
         </Food>
         <Food>
             <name>Fresh Herbs</name>
-            <canningMethod></canningMethod>
+            <canningMethod>https://canningdiva.com/canning-mint-jelly/</canningMethod>
             <freezingMethod>Preparation – Wash, drain and pat dry with paper towels. Wrap a few sprigs or leaves in freezer wrap and place in a freezer bag. Seal and freeze.
 
                 These can be chopped and used in cooked dishes. These usually are not suitable for garnish, as the frozen product becomes limp when it thaws.
 
             </freezingMethod>
-            <dryingMethod></dryingMethod>
-            <canningUrl></canningUrl>
+            <dryingMethod>https://www.thespruce.com/how-to-dry-and-store-herbs-1403397</dryingMethod>
+            <canningUrl>https://canningdiva.com/canning-mint-jelly/</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/herbs.html</freezingUrl>
-            <dryingUrl></dryingUrl>
+            <dryingUrl>https://www.thespruce.com/how-to-dry-and-store-herbs-1403397</dryingUrl>
+        </Food>
+        <Food>
+            <name>Horseradish</name>
+            <canningMethod>https://www.food.com/recipe/horseradish-canned-30959</canningMethod>
+            <freezingMethod>https://nchfp.uga.edu/how/freeze/broccoli.html</freezingMethod>
+            <dryingMethod>https://www.leaf.tv/articles/how-to-dry-horseradish-into-powder/</dryingMethod>
+            <canningUrl>https://www.food.com/recipe/horseradish-canned-30959</canningUrl>
+            <freezingUrl>https://nchfp.uga.edu/how/freeze/broccoli.html</freezingUrl>
+            <dryingUrl>https://www.leaf.tv/articles/how-to-dry-horseradish-into-powder/</dryingUrl>
         </Food>
         <Food>
             <name>Kohlrabi</name>
-            <canningMethod></canningMethod>
+            <canningMethod>https://alexandracooks.com/2015/06/14/csa-week-1-anchovy-butter-pickled-kohlrabi-turnips-what-to-do-with-them/</canningMethod>
             <freezingMethod>Preparation – Select stems when fully grown but tender. Cut off tops and roots. Wash and peel off the tough bark. Leave whole or dice in 1/2 inch cubes. Water blanch whole 3 minutes and cubes 1 minute.
 
                 Cool promptly, drain and package, leaving 1/2-inch headspace. Seal and freeze.</freezingMethod>
-            <dryingMethod></dryingMethod>
-            <canningUrl></canningUrl>
+            <dryingMethod>https://www.onegreenplanet.org/vegan-recipe/kohlrabi-chips/</dryingMethod>
+            <canningUrl>https://alexandracooks.com/2015/06/14/csa-week-1-anchovy-butter-pickled-kohlrabi-turnips-what-to-do-with-them/</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/kohlrabi.html</freezingUrl>
-            <dryingUrl></dryingUrl>
+            <dryingUrl>https://www.onegreenplanet.org/vegan-recipe/kohlrabi-chips/</dryingUrl>
         </Food>
         <Food>
             <name>Mushrooms</name>
-            <canningMethod></canningMethod>
+            <canningMethod>https://nchfp.uga.edu/how/can_04/mushrooms.html</canningMethod>
             <freezingMethod>Preparation – Choose mushrooms free from spots and decay. Sort according to size. Wash thoroughly in cold water. Trim off ends of stems. If mushrooms are larger than 1 inch across, slice them or cut them into quarters.
 
                 Mushrooms can be steamed or heated in fat in a fry pan. Steamed mushrooms will keep longer than those heated in fat.
@@ -478,14 +511,14 @@
                 To Heat in Fry Pan – Heat small quantities of mushrooms in margarine or butter in an open fry pan until almost done.
 
                 Cool in air or set pan in which mushrooms were cooked in cold water. Pack into containers, leaving 1/2-inch headspace. Seal and freeze.</freezingMethod>
-            <dryingMethod></dryingMethod>
-            <canningUrl></canningUrl>
+            <dryingMethod>https://thewoksoflife.com/dried-mushrooms/#:~:text=Place%20in%20an%20oven%20heated%20to%20175%20degrees%20F%2F80,dried%20before%20sealing%20them%20away).</dryingMethod>
+            <canningUrl>https://nchfp.uga.edu/how/can_04/mushrooms.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/mushroom.html</freezingUrl>
-            <dryingUrl></dryingUrl>
+            <dryingUrl>https://thewoksoflife.com/dried-mushrooms/#:~:text=Place%20in%20an%20oven%20heated%20to%20175%20degrees%20F%2F80,dried%20before%20sealing%20them%20away).</dryingUrl>
         </Food>
         <Food>
             <name>Okra</name>
-            <canningMethod></canningMethod>
+            <canningMethod>https://nchfp.uga.edu/how/can_04/okra.html</canningMethod>
             <freezingMethod>The smooth type varieties freeze as well as or better than the ridged varieties because they do not split as easily. Preparation – Select young tender pods and separate into small pods (4 inches or under) and large pods. Wash. Remove the stems at the end of the seed cells, being careful not to expose the seed cell.
 
                 Water blanch small pods 3 minutes and large pods 4 minutes.
@@ -493,14 +526,14 @@
                 Cool promptly and drain. Leave whole or slice crosswise. Package, leaving 1/2-inch headspace. Seal and freeze.
 
                 For Frying – Wash and remove stems. blanch small pods 3 minutes and large pods 4 minutes. Cool promptly and drain. Slice crosswise and dredge with meal or flour. Spread in a single layer on shallow trays. Place in freezer just long enough to freeze firm. Package quickly, leaving 1/2-inch headspace. Seal and freeze.</freezingMethod>
-            <dryingMethod></dryingMethod>
-            <canningUrl></canningUrl>
+            <dryingMethod>https://www.hgtv.com/outdoors/gardens/garden-to-table/spicy-dried-okra#:~:text=Scrub%20okra%2C%20rinse%20with%20cold,okra%20in%20a%20large%20bowl.&text=Add%20salt%20and%20cayenne%20pepper%20and%20toss%20to%20coat.&text=Dry%20until%20crisp%20and%20breakable,on%20dehydrator%20and%20okra%20size).</dryingMethod>
+            <canningUrl>https://nchfp.uga.edu/how/can_04/okra.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/okra.html</freezingUrl>
-            <dryingUrl></dryingUrl>
+            <dryingUrl>https://www.hgtv.com/outdoors/gardens/garden-to-table/spicy-dried-okra#:~:text=Scrub%20okra%2C%20rinse%20with%20cold,okra%20in%20a%20large%20bowl.&text=Add%20salt%20and%20cayenne%20pepper%20and%20toss%20to%20coat.&text=Dry%20until%20crisp%20and%20breakable,on%20dehydrator%20and%20okra%20size).</dryingUrl>
         </Food>
         <Food>
             <name>Onions</name>
-            <canningMethod></canningMethod>
+            <canningMethod>https://toriavey.com/toris-kitchen/pickled-red-onions/</canningMethod>
             <freezingMethod>Bulb onions store well in a cool, dry place. Freezing is usually not recommended for preserving whole onions, but see below if desired.
 
                 Diced Onions – Peel, trim and clean thoroughly. Dice (about 1/4-inch pieces). No blanching is required. Either pack dry into recommended freezer bags or containers, leaving1/2-inch headspace.  Or, freeze separated pieces on a clean tray prior to packaging. Eliminate as much air as possible from the package for this method. Onions frozen this way are best used within a few months.
@@ -512,76 +545,76 @@
                 Cool promptly, drain well, and package, leaving 1/2-inch headspace. Seal and freeze. These would be considered suitable for cooking only.
 
                 Onion Rings – Wash, peel and slice onions. Separate slices into rings. Water blanch for 10 to 15 seconds. Cool promptly, drain and coat with flour. Dip in milk. Coat with a mixture of equal parts cornmeal and pancake mix. Arrange in a single layer on a tray. Freeze. Pack into containers using plastic wrap to separate the layers. No headspace is necessary. Seal and freeze.   To prepare, fry frozen rings in 375ºF oil until golden brown.</freezingMethod>
-            <dryingMethod></dryingMethod>
-            <canningUrl></canningUrl>
+            <dryingMethod>https://growagoodlife.com/dehydrate-onions/#:~:text=Turn%20your%20onions%20into%20dehydrated%20onion%20flakes,dried%20onions%2C%20and%20onion%20powder.&text=To%20dry%20the%20onions%3A,trays%20in%20a%20single%20layer.</dryingMethod>
+            <canningUrl>https://toriavey.com/toris-kitchen/pickled-red-onions/</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/onion.html</freezingUrl>
-            <dryingUrl></dryingUrl>
+            <dryingUrl>https://growagoodlife.com/dehydrate-onions/#:~:text=Turn%20your%20onions%20into%20dehydrated%20onion%20flakes,dried%20onions%2C%20and%20onion%20powder.&text=To%20dry%20the%20onions%3A,trays%20in%20a%20single%20layer.</dryingUrl>
         </Food>
         <Food>
             <name>Edible Pod Peas (Sugar, Chinese, Snow Peas or Sugar Snap Peas)</name>
-            <canningMethod></canningMethod>
+            <canningMethod>https://nchfp.uga.edu/how/can_04/peas_green_shelled.html</canningMethod>
             <freezingMethod>Preparation – Select bright green, flat, tender pods. Wash. Remove stems, blossom ends and any strings. Leave whole. Water blanch 11/2 minutes for small pods; 2 minutes for large pods. (NOTE: If the peas have started to develop, follow the directions for green beans. If the peas are already developed, shell and follow the directions for green peas.) Cool, drain and package, leaving 1/2-inch headspace. Seal and freeze.
 
             </freezingMethod>
-            <dryingMethod></dryingMethod>
-            <canningUrl></canningUrl>
+            <dryingMethod>https://oureverydaylife.com/how-to-dehydrate-peas-12788346.html#:~:text=Place%20the%20peas%20on%20screens,to%20allow%20for%20even%20drying.</dryingMethod>
+            <canningUrl>https://nchfp.uga.edu/how/can_04/peas_green_shelled.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/pea_pod.html</freezingUrl>
-            <dryingUrl></dryingUrl>
+            <dryingUrl>https://oureverydaylife.com/how-to-dehydrate-peas-12788346.html#:~:text=Place%20the%20peas%20on%20screens,to%20allow%20for%20even%20drying.</dryingUrl>
         </Food>
         <Food>
             <name>Blackeye or Field Peas</name>
-            <canningMethod></canningMethod>
+            <canningMethod>https://nchfp.uga.edu/how/can_04/peas_green_shelled.html</canningMethod>
             <freezingMethod>Preparation – Select pods when seeds are tender and well-filled. Wash pods. Shell and discard over-mature and immature seeds and those injured by insects. Wash shelled peas.
 
                 Water blanch 2 minutes. Cool promptly, drain and package, leaving 1/2 inch headspace. Seal and freeze.</freezingMethod>
-            <dryingMethod></dryingMethod>
-            <canningUrl></canningUrl>
+            <dryingMethod>https://oureverydaylife.com/how-to-dehydrate-peas-12788346.html#:~:text=Place%20the%20peas%20on%20screens,to%20allow%20for%20even%20drying./dryingMethod>
+            <canningUrl>https://nchfp.uga.edu/how/can_04/peas_green_shelled.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/peas_field.html</freezingUrl>
-            <dryingUrl></dryingUrl>
+            <dryingUrl>https://oureverydaylife.com/how-to-dehydrate-peas-12788346.html#:~:text=Place%20the%20peas%20on%20screens,to%20allow%20for%20even%20drying.</dryingUrl>
         </Food>
         <Food>
             <name>Green Peas</name>
-            <canningMethod></canningMethod>
+            <canningMethod>https://nchfp.uga.edu/how/can_04/peas_green_shelled.html</canningMethod>
             <freezingMethod>Preparation – Harvest when pods are filled with young, tender peas that have not become starchy. Wash and shell; water blanch l1/2 minutes, cool and drain. Package, leaving 1/2-inch headspace. Seal and freeze.</freezingMethod>
-            <dryingMethod></dryingMethod>
-            <canningUrl></canningUrl>
+            <dryingMethod>https://oureverydaylife.com/how-to-dehydrate-peas-12788346.html#:~:text=Place%20the%20peas%20on%20screens,to%20allow%20for%20even%20drying.</dryingMethod>
+            <canningUrl>https://nchfp.uga.edu/how/can_04/peas_green_shelled.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/peas_green.html</freezingUrl>
-            <dryingUrl></dryingUrl>
+            <dryingUrl>https://oureverydaylife.com/how-to-dehydrate-peas-12788346.html#:~:text=Place%20the%20peas%20on%20screens,to%20allow%20for%20even%20drying.</dryingUrl>
         </Food>
         <Food>
             <name>Bell or Sweet Peppers</name>
-            <canningMethod></canningMethod>
+            <canningMethod>https://nchfp.uga.edu/how/can_04/peppers.html</canningMethod>
             <freezingMethod>Preparation – Select crisp, tender, green or bright red pods. Wash, cut out stems, cut in half and remove seeds. If desired, cut into 1/2-inch strips or rings.
 
                 Heated – Good for use in cooking. Water blanch halves 3 minutes, strips or rings 2 minutes. Cool promptly, drain and package, leaving 1/2-inch headspace. Seal and freeze.
 
                 Unheated – Good for use in uncooked foods because they have a crisper texture, or in cooked foods. Package raw, leaving no headspace. Seal and freeze.</freezingMethod>
-            <dryingMethod></dryingMethod>
-            <canningUrl></canningUrl>
+            <dryingMethod>https://barefeetinthekitchen.com/dehydrated-bell-peppers/</dryingMethod>
+            <canningUrl>https://nchfp.uga.edu/how/can_04/peppers.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/pepper_bell.html</freezingUrl>
-            <dryingUrl></dryingUrl>
+            <dryingUrl>https://barefeetinthekitchen.com/dehydrated-bell-peppers/</dryingUrl>
         </Food>
         <Food>
             <name>Hot Peppers</name>
-            <canningMethod></canningMethod>
+            <canningMethod>https://www.thebossykitchen.com/how-to-preserve-hot-peppers-in-vinegar/</canningMethod>
             <freezingMethod>Preparation – Wash and stem peppers. Package, leaving no headspace. Seal and freeze.</freezingMethod>
-            <dryingMethod></dryingMethod>
-            <canningUrl></canningUrl>
+            <dryingMethod>https://www.cayennediane.com/how-to-dry-peppers/#:~:text=Cut%20your%20peppers%20in%20half,least%20a%20couple%20of%20inches.</dryingMethod>
+            <canningUrl>https://www.thebossykitchen.com/how-to-preserve-hot-peppers-in-vinegar/</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/pepper_hot.html</freezingUrl>
-            <dryingUrl></dryingUrl>
+            <dryingUrl>https://www.cayennediane.com/how-to-dry-peppers/#:~:text=Cut%20your%20peppers%20in%20half,least%20a%20couple%20of%20inches.</dryingUrl>
         </Food>
         <Food>
             <name>Pimientos</name>
-            <canningMethod></canningMethod>
+            <canningMethod>https://www.thebossykitchen.com/how-to-preserve-hot-peppers-in-vinegar/</canningMethod>
             <freezingMethod>Preparation – Select firm, crisp pimientos of deep red color. Peel by roasting in oven 400 to 450ºF for 6 to 8 minutes or until skins can be rubbed off. Wash off the charred skins, cut out stems and remove seeds. Package, leaving 1/2-inch headspace. Seal and freeze.</freezingMethod>
-            <dryingMethod></dryingMethod>
-            <canningUrl></canningUrl>
+            <dryingMethod>https://www.food.com/recipe/homemade-paprika-494183</dryingMethod>
+            <canningUrl>https://www.thebossykitchen.com/how-to-preserve-hot-peppers-in-vinegar/</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/pimento.html</freezingUrl>
-            <dryingUrl></dryingUrl>
+            <dryingUrl>https://www.food.com/recipe/homemade-paprika-494183</dryingUrl>
         </Food>
         <Food>
             <name>New Irish Potatoes</name>
-            <canningMethod></canningMethod>
+            <canningMethod>https://practicalselfreliance.com/canning-potatoes/</canningMethod>
             <freezingMethod>Preparation – Select smooth new potatoes directly from the garden. Peel or scrape and wash. Water blanch for 3 to 5 minutes, depending on the size.
 
                 Cool, drain and package whole or sectioned, leaving 1/2-inch headspace. Seal and freeze.
@@ -591,14 +624,14 @@
                 At serving time, finish browning in a hot oven (475ºF).
 
             </freezingMethod>
-            <dryingMethod></dryingMethod>
-            <canningUrl></canningUrl>
+            <dryingMethod>https://www.gettystewart.com/dehydrating-potatoes/</dryingMethod>
+            <canningUrl>https://practicalselfreliance.com/canning-potatoes/</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/potato_new.html</freezingUrl>
-            <dryingUrl></dryingUrl>
+            <dryingUrl>https://www.gettystewart.com/dehydrating-potatoes/</dryingUrl>
         </Food>
         <Food>
             <name>Sweet Potatoes</name>
-            <canningMethod></canningMethod>
+            <canningMethod>https://nchfp.uga.edu/how/can_04/potato_sweet.html</canningMethod>
             <freezingMethod>Preparation – Choose medium to large sweet potatoes that have been cured for at least one week. Sort according to size and wash. Cook until almost tender in water, in steam, in a pressure cooker or in the oven. Let stand at room temperature until cool. Peel sweet potatoes, cut in halves, slice or mash.
 
                 If desired, to prevent darkening, dip whole sweet potatoes or slices for 5 seconds in a solution of 1/2 cup lemon juice to 1 quart water.
@@ -610,38 +643,38 @@
                 Baked – Wash, trim and heat potatoes in oven at 350ºF without peeling until slightly soft. Cool, remove peel and wrap individually in aluminum foil. Place in polyethylene bags and freeze. Complete the baking in an oven at 350ºF immediately before serving, leaving the potatoes wrapped in foil.
 
             </freezingMethod>
-            <dryingMethod></dryingMethod>
-            <canningUrl></canningUrl>
+            <dryingMethod>https://www.platingsandpairings.com/sweet-potato-dog-chews-7/</dryingMethod>
+            <canningUrl>https://nchfp.uga.edu/how/can_04/potato_sweet.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/potato_sweet.html</freezingUrl>
-            <dryingUrl></dryingUrl>
+            <dryingUrl>https://www.platingsandpairings.com/sweet-potato-dog-chews-7/</dryingUrl>
         </Food>
         <Food>
             <name>Pumpkin</name>
-            <canningMethod></canningMethod>
+            <canningMethod>https://www.theprairiehomestead.com/2014/10/how-to-can-pumpkin.html</canningMethod>
             <freezingMethod>Preparation – Select full-colored mature pumpkin with fine texture. Wash, cut into cooking-size sections and remove seeds.
 
                 Cook until soft in boiling water, in steam, in a pressure cooker or in an oven. Remove pulp from rind and mash. To cool, place pan containing pumpkin in cold water and stir occasionally. Package, leaving ½-inch headspace. Seal and freeze.</freezingMethod>
-            <dryingMethod></dryingMethod>
-            <canningUrl></canningUrl>
+            <dryingMethod>https://texashomesteader.com/dehydrate-pumpkin/</dryingMethod>
+            <canningUrl>https://www.theprairiehomestead.com/2014/10/how-to-can-pumpkin.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/pumpkin.html</freezingUrl>
-            <dryingUrl></dryingUrl>
+            <dryingUrl>https://texashomesteader.com/dehydrate-pumpkin/</dryingUrl>
         </Food>
         <Food>
             <name>Rhubarb</name>
-            <canningMethod></canningMethod>
+            <canningMethod>https://nchfp.uga.edu/how/can_02/rhubarb_stewed.html</canningMethod>
             <freezingMethod>Preparation – Choose firm, tender, well-colored stalks with good flavor and few fibers. Wash, trim and cut into lengths to fit the package. Heating rhubarb in boiling water for 1 minute and cooling promptly in cold water helps retain color and flavor.
 
                 Dry Pack – Pack either raw or preheated rhubarb tightly into containers without sugar. Leave headspace. Seal and freeze.
 
                 Syrup Pack – Pack either raw or preheated rhubarb tightly into containers, cover with cold 40 percent syrup. Leave headspace. Seal and freeze.</freezingMethod>
-            <dryingMethod></dryingMethod>
-            <canningUrl></canningUrl>
+            <dryingMethod>https://www.gettystewart.com/how_to_dehydrate_rhubarb/</dryingMethod>
+            <canningUrl>https://nchfp.uga.edu/how/can_02/rhubarb_stewed.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/rhubarb.html</freezingUrl>
-            <dryingUrl></dryingUrl>
+            <dryingUrl>https://www.gettystewart.com/how_to_dehydrate_rhubarb/</dryingUrl>
         </Food>
         <Food>
             <name>Rutabagas</name>
-            <canningMethod></canningMethod>
+            <canningMethod>https://www.healthycanning.com/canning-rutabaga/</canningMethod>
             <freezingMethod>Preparation – Select young, medium-sized rutabagas. Cut off tops, wash and peel. Cubed – Cut into cubes and water blanch 3 minutes.
 
                 Cool, drain and pack, leaving 1/2-inch headspace. Seal and freeze.
@@ -649,40 +682,40 @@
                 Mashed – Cut into chunks and cook until tender in boiling water. Drain, mash, cool and pack into containers, leaving headspace. Seal and freeze.
 
             </freezingMethod>
-            <dryingMethod></dryingMethod>
-            <canningUrl></canningUrl>
+            <dryingMethod>https://countrifiedhicks.blogspot.com/2016/11/dehydrating-rutabagas.html#:~:text=To%20dehydrate%20a%20rutabaga%2C%20rinse%20them%20well%20and%20then%20peel%20them.&text=Using%20a%20mandolin%20or%20sharp,about%201%2F8%22%20thick.&text=Turn%20on%20your%20dehydrator%20to,are%20ready%20the%20next%20morning.</dryingMethod>
+            <canningUrl>https://www.healthycanning.com/canning-rutabaga/</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/rutabaga.html</freezingUrl>
-            <dryingUrl></dryingUrl>
+            <dryingUrl>https://countrifiedhicks.blogspot.com/2016/11/dehydrating-rutabagas.html#:~:text=To%20dehydrate%20a%20rutabaga%2C%20rinse%20them%20well%20and%20then%20peel%20them.&text=Using%20a%20mandolin%20or%20sharp,about%201%2F8%22%20thick.&text=Turn%20on%20your%20dehydrator%20to,are%20ready%20the%20next%20morning.</dryingUrl>
         </Food>
         <Food>
             <name>Summer Squash
                 (Cocozelle, Crookneck, Pattypan, Straightneck, White Scallop, Zucchini)</name>
-            <canningMethod></canningMethod>
+            <canningMethod>https://nchfp.uga.edu/how/can_04/pumpkin_winter_squash.html</canningMethod>
             <freezingMethod>Preparation – Choose young squash with tender skin. Wash and cut in 1/2-inch slices. Water blanch 3 minutes. Cool promptly, drain and package, leaving 1/2-inch headspace. Seal and freeze.
 
                 Grated Zucchini (for Baking) – Choose young tender zucchini. Wash and grate. Steam blanch in small quantities 1 to 2 minutes until translucent. Pack in measured amounts into containers, leaving 1/2-inch headspace. Cool by placing the containers in cold water. Seal and freeze.
 
                 If watery when thawed, discard the liquid before using the zucchini.</freezingMethod>
-            <dryingMethod></dryingMethod>
-            <canningUrl></canningUrl>
+            <dryingMethod>https://www.thespruceeats.com/dehydrate-zucchini-and-summer-squash-1327567#:~:text=Set%20the%20dehydrator%20for%20135,transfer%20it%20to%20airtight%20containers.</dryingMethod>
+            <canningUrl>https://nchfp.uga.edu/how/can_04/pumpkin_winter_squash.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/squash_summer.html</freezingUrl>
-            <dryingUrl></dryingUrl>
+            <dryingUrl>https://www.thespruceeats.com/dehydrate-zucchini-and-summer-squash-1327567#:~:text=Set%20the%20dehydrator%20for%20135,transfer%20it%20to%20airtight%20containers.</dryingUrl>
         </Food>
         <Food>
             <name>Winter Squash
                 (Acorn, Banana, Buttercup, Butternut, Golden Delicious, Hubbard, Spaghetti)</name>
-            <canningMethod></canningMethod>
+            <canningMethod>https://nchfp.uga.edu/how/can_04/pumpkin_winter_squash.html</canningMethod>
             <freezingMethod>Preparation – Select firm, mature squash with a hard rind. For spaghetti squash, mashing the cooked pulp is not necessary.
 
                 Cook until soft in boiling water, in steam, in a pressure cooker or in an oven. Remove pulp from rind and mash. To cool, place pan containing winter squash in cold water and stir occasionally. Package, leaving ½-inch headspace. Seal and freeze.</freezingMethod>
-            <dryingMethod></dryingMethod>
-            <canningUrl></canningUrl>
+            <dryingMethod>https://www.thespruceeats.com/dehydrate-zucchini-and-summer-squash-1327567#:~:text=Set%20the%20dehydrator%20for%20135,transfer%20it%20to%20airtight%20containers.</dryingMethod>
+            <canningUrl>https://nchfp.uga.edu/how/can_04/pumpkin_winter_squash.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/squash_winter.html</freezingUrl>
-            <dryingUrl></dryingUrl>
+            <dryingUrl>https://www.thespruceeats.com/dehydrate-zucchini-and-summer-squash-1327567#:~:text=Set%20the%20dehydrator%20for%20135,transfer%20it%20to%20airtight%20containers.</dryingUrl>
         </Food>
         <Food>
             <name>Tomatoes</name>
-            <canningMethod></canningMethod>
+            <canningMethod>https://food52.com/recipes/347-grandma-s-canned-tomatoes</canningMethod>
             <freezingMethod>Preparation – Select firm, ripe tomatoes with deep red color.
 
                 Raw – Wash and dip in boiling water for 30 seconds to loosen skins. Core and peel. Freeze whole or in pieces. Pack into containers, leaving l-inch headspace. Seal and freeze. Use only for cooking or seasoning as tomatoes will not be solid when thawed.
@@ -692,46 +725,337 @@
                 Stewed – Remove stem ends, peel and quarter ripe tomatoes. Cover and cook until tender (10 to 20 minutes). Place pan containing tomatoes in cold water to cool. Pack into containers, leaving headspace. Seal and freeze.
 
             </freezingMethod>
-            <dryingMethod></dryingMethod>
-            <canningUrl></canningUrl>
+            <dryingMethod>https://www.wholesomeyum.com/how-to-make-sun-dried-tomatoes-in-the-oven/</dryingMethod>
+            <canningUrl>https://food52.com/recipes/347-grandma-s-canned-tomatoes</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/tomato.html</freezingUrl>
-            <dryingUrl></dryingUrl>
+            <dryingUrl>https://www.wholesomeyum.com/how-to-make-sun-dried-tomatoes-in-the-oven/</dryingUrl>
         </Food>
         <Food>
             <name>Green Tomatoes</name>
-            <canningMethod></canningMethod>
+            <canningMethod>https://food52.com/recipes/347-grandma-s-canned-tomatoes</canningMethod>
             <freezingMethod>Preparation – Select firm, sound green tomatoes. Wash, core, and slice 1/4-inch thick.
 
                 For Frying – Pack the slices into containers with freezer wrap between the slices. Leave 1/2-inch headspace. Seal and freeze.
 
             </freezingMethod>
-            <dryingMethod></dryingMethod>
-            <canningUrl></canningUrl>
+            <dryingMethod>https://www.wholesomeyum.com/how-to-make-sun-dried-tomatoes-in-the-oven/</dryingMethod>
+            <canningUrl>https://food52.com/recipes/347-grandma-s-canned-tomatoes</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/tomato_green.html</freezingUrl>
-            <dryingUrl></dryingUrl>
+            <dryingUrl>https://www.wholesomeyum.com/how-to-make-sun-dried-tomatoes-in-the-oven/</dryingUrl>
         </Food>
         <Food>
             <name>Turnips or Parsnips</name>
-            <canningMethod></canningMethod>
+            <canningMethod>https://nchfp.uga.edu/how/can_04/spinach_greens.html</canningMethod>
             <freezingMethod>Preparation – Select small to medium, firm turnips or parsnips that are tender and have a mild flavor. Wash, peel and cut into 1/2-inch cubes. Water blanch for 2 minutes. Cool promptly in cold water and drain. Pack into containers, leaving 1/2-inch headspace. Seal and freeze,
 
             </freezingMethod>
-            <dryingMethod></dryingMethod>
-            <canningUrl></canningUrl>
+            <dryingMethod>https://www.thespruceeats.com/drying-turnips-in-a-dehydrator-1327548#:~:text=Once%20the%20turnips%20are%20cool,at%20150%20F%2F65%20C.</dryingMethod>
+            <canningUrl>https://nchfp.uga.edu/how/can_04/spinach_greens.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/turnip.html</freezingUrl>
-            <dryingUrl></dryingUrl>
+            <dryingUrl>https://www.thespruceeats.com/drying-turnips-in-a-dehydrator-1327548#:~:text=Once%20the%20turnips%20are%20cool,at%20150%20F%2F65%20C.</dryingUrl>
+        </Food>
+        <Food>
+            <name>Zucchini</name>
+            <canningMethod>https://nchfp.uga.edu/how/can_04/mixed_vegetables.html</canningMethod>
+            <freezingMethod>https://nchfp.uga.edu/how/freeze/squash_summer.html</freezingMethod>
+            <dryingMethod>https://www.christinascucina.com/dried-zucchini-save-some-for-winter/</dryingMethod>
+            <canningUrl>https://nchfp.uga.edu/how/can_04/mixed_vegetables.html</canningUrl>
+            <freezingUrl>https://nchfp.uga.edu/how/freeze/squash_summer.html</freezingUrl>
+            <dryingUrl>https://www.christinascucina.com/dried-zucchini-save-some-for-winter/</dryingUrl>
         </Food>
     </Vegetables>
 
     <Fruits>
         <Food>
-            <name></name>
-            <canningMethod></canningMethod>
-            <freezingMethod></freezingMethod>
-            <dryingMethod></dryingMethod>
-            <canningUrl></canningUrl>
-            <freezingUrl></freezingUrl>
-            <dryingUrl></dryingUrl>
+            <name>Apples</name>
+            <canningMethod>Quantity: An average of 19 pounds is needed per canner load of 7 quarts; an average of 12-1/4 pounds is needed per canner load of 9 pints. A bushel weighs 48 pounds and yields 16 to 19 quarts-an average of 2-3/4 pounds per quart.
+                Quality: Select apples that are juicy, crispy, and preferably both sweet and tart.
+
+                Please read Using Pressure Canners and Using Boiling Water Canners before beginning. If this is your first time canning, it is recommended that you read Principles of Home Canning.
+
+                Procedure: Wash, peel, and core apples. To prevent discoloration, slice apples into water containing ascorbic acid. Raw packs make poor quality products. Place drained slices in large saucepan and add 1 pint water or very light, light, or medium syrup per 5 pounds of sliced apples. Boil 5 minutes, stirring occasionally to prevent burning. Fill jars with hot slices and hot syrup or water, leaving 1/2-inch headspace. Adjust lids and process.
+
+                Processing directions for canning sliced apples in a boiling-water, a dial, or a weighted-gauge canner are given in Table 1, Table 2, and Table 3. Tables at URl</canningMethod>
+            <freezingMethod>Preparation – Syrup Pack is preferred for apples to be used for uncooked desserts or fruit cocktail. A sugar or dry pack is good for pie making.
+
+                Select full-flavored apples that are crisp and firm, not mealy in texture. Wash, peel and core. Slice medium apples into twelfths, large ones into sixteenths.
+
+                Syrup Pack – Use cold 40 percent syrup. To prevent browning, add 1/2 teaspoon (1500 mg) ascorbic acid to each quart of syrup.
+
+                Slice apples directly into syrup in container starting with 1/2 cup syrup to a pint container. Press fruit down in containers and add enough syrup to cover. Leave headspace. Place a small piece of crumpled water-resistant paper on top to hold fruit down. Seal and freeze.
+
+                Sugar Pack – To prevent darkening, dissolve 1/2 teaspoon (1500 mg) ascorbic acid in 3 tablespoons water. Sprinkle over the fruit. Or, apple slices can be steam blanched for 11/2 to 2 minutes.
+
+                Mix 1/2 cup sugar with 1 quart (1 1/4 pounds) of fruit. Pack apples into containers and press fruit down, leaving headspace. Seal and freeze.
+
+                Dry Pack – Follow the directions for Sugar Pack, omitting the sugar. Treated apple slices can also be frozen first on a tray and then packed into containers as soon as they are frozen. For more information, see other unsweetened packs.</freezingMethod>
+            <dryingMethod>https://www.shelovesbiscotti.com/homemade-oven-baked-apple-chips/</dryingMethod>
+            <canningUrl>https://nchfp.uga.edu/how/can_02/apple_sliced.html</canningUrl>
+            <freezingUrl>https://nchfp.uga.edu/how/freeze/apple.html</freezingUrl>
+            <dryingUrl>https://www.shelovesbiscotti.com/homemade-oven-baked-apple-chips/</dryingUrl>
+        </Food>
+        <Food>
+            <name>Apricots</name>
+            <canningMethod>Quantity: An average of 16 pounds is needed per canner load of 7 quarts; an average of 10 pounds is needed per canner load of 9 pints. A bushel weighs 50 pounds and yields 20 to 25 quarts-an average of 2¼ pounds per quart.
+
+                Quality: Select firm, well-colored mature fruit of ideal quality for eating fresh.
+
+                Please read Using Pressure Canners and Using Boiling Water Canners before beginning. If this is your first time canning, it is recommended that you read Principles of Home Canning.
+
+                Procedure: Wash fruit well if skins are not removed. (Optional procedure for removal of skins - Dip washed fruit in boiling water for 30 to 60 seconds until skins loosen. Dip quickly in cold water and slip off skins.) Cut prepared apricots in half, remove pits and slice if desired. To prevent darkening, keep peeled fruit in ascorbic acid solution. Prepare and boil a very light, light, or medium syrup or pack apricots in water, apple juice, or white grape juice.
+
+                Raw packs make poor quality apricots.
+
+                Hot pack – In a large saucepan place drained fruit in syrup, water, or juice and bring to boil. Fill jars with hot fruit and cooking liquid, leaving ½-inch headspace. Place halves in layers, cut side down.
+
+                Raw pack – Fill jars with raw fruit, cut side down, and add hot water, juice, or syrup, leaving ½-inch headspace.
+
+                Adjust lids and process.
+
+                Processing directions for canning apricots in a boiling-water canner are given in Table 1.
+
+                Processing directions for canning apricots in a dial or weighted-gauge canner are given in Table 2 and Table 3.Tables info in URL.</canningMethod>
+            <freezingMethod>Preparation – Select firm, ripe, uniformly yellow apricots. Sort, wash, halve and pit. Peel and slice if desired. If apricots are not peeled, heat them in boiling water 1/2 minute to keep skins from toughening during freezing. Cool in cold water and drain.
+
+                Syrup Pack – Use cold 40 percent syrup. For a better quality frozen product, add 3/4 teaspoon (2250 mg) ascorbic acid to each quart of syrup. Pack apricots directly into containers. Cover with syrup, leaving headspace. Place a small piece of crumpled water-resistant paper on top to hold fruit down. Seal and freeze.
+
+                Sugar Pack – Before combining apricots with sugar, give the fruit the following treatment to prevent darkening:
+
+                Dissolve 1/4 teaspoon (750 mg) ascorbic acid in 3 tablespoons cold water and sprinkle over 1 quart (7/8 pound) of fruit. Mix 1/2 cup sugar with each quart of fruit. Stir until sugar is dissolved. Pack apricots into containers and press down until fruit is covered with juice, leaving headspace. Place a small piece of crumpled water-resistant paper on top to hold fruit down. Seal and freeze.</freezingMethod>
+            <dryingMethod>https://www.wikihow.com/Dry-Apricots#:~:text=Line%20a%20baking%20sheet%20with,to%20dry%20apricots%2C%20read%20on!</dryingMethod>
+            <canningUrl>https://nchfp.uga.edu/how/can_02/apricot_sliced.html</canningUrl>
+            <freezingUrl>https://nchfp.uga.edu/how/freeze/apricot.html</freezingUrl>
+            <dryingUrl>https://www.wikihow.com/Dry-Apricots#:~:text=Line%20a%20baking%20sheet%20with,to%20dry%20apricots%2C%20read%20on!</dryingUrl>
+        </Food>
+        <Food>
+            <name>Avocados</name>
+            <canningMethod>Here’s a quick and easy pickling solution. Multiply by the number of avocados you have.
+
+                Ingredients
+
+                1 ripe but firm avocado
+                4 tablespoons vinegar
+                2 tablespoons water (optional)
+                1 to 2 teaspoons sugar (or to taste)
+                1/2 teaspoon salt (or to taste)
+                (see variations below)
+
+                Directions
+
+                Choose firm but ripe avocados. Peel, pit, and slice or cube the avocado flesh.
+                In a bowl large enough to hold the avocado pieces, stir together vinegar, water, sugar, and salt until sugar and salt are completely dissolved.
+                Pour vinegar mixture over slices or cubes of avocado.
+                Cover, refrigerate, and use within 3 days.</canningMethod>
+            <freezingMethod>Preparation – Select avocados that yield to gentle pressure with rinds free from dark blemishes. Peel fruit, cut in half and remove pit.
+
+                Avocados are best frozen as purée – unsweetened for salads and sandwiches, sweetened for other uses. Avocados are not satisfactorily frozen whole or sliced. For a better quality product, add 1/4 teaspoon (750 mg) ascorbic acid to each quart of purée or add 1 tablespoon lemon juice for each 2 avocados.
+
+                Pack into container, leaving headspace. Seal and freeze.
+
+            </freezingMethod>
+            <dryingMethod>https://www.dryingallfoods.com/dehydrating-avocado/</dryingMethod>
+            <canningUrl>http://www.homepreservingbible.com/2724-avocado-preserving-methods/</canningUrl>
+            <freezingUrl>https://nchfp.uga.edu/how/freeze/avocado.html</freezingUrl>
+            <dryingUrl>https://www.dryingallfoods.com/dehydrating-avocado/</dryingUrl>
+        </Food>
+        <Food>
+            <name>Bananas</name>
+            <canningMethod>Bananas can be used as an ingredient in home canning, but they can’t be canned plain on their own.</canningMethod>
+            <freezingMethod>Preparation – Select firm ripe bananas. Peel; mash thoroughly. Add 1/2 teaspoon (1500 mg) ascorbic acid per cup of mashed banana. Package in moisture-vapor resistant container. Seal and freeze.
+
+            </freezingMethod>
+            <dryingMethod>https://naturallyella.com/baked-banana-chips/#:~:text=Slice%20bananas%20into%201%2F16,out%2C%202%2D3%20hours.</dryingMethod>
+            <canningUrl>https://www.healthycanning.com/canning-bananas/</canningUrl>
+            <freezingUrl>https://nchfp.uga.edu/how/freeze/banana.html</freezingUrl>
+            <dryingUrl>https://naturallyella.com/baked-banana-chips/#:~:text=Slice%20bananas%20into%201%2F16,out%2C%202%2D3%20hours.</dryingUrl>
+        </Food>
+        <Food>
+            <name>Berries</name>
+            <canningMethod>https://nchfp.uga.edu/how/can_02/berries_whole.html</canningMethod>
+            <freezingMethod>Preparation – Select full-flavored, ripe berries. Remove leaves, stems and immature or defective berries.
+
+                Dry Pack – Do not wash berries. Washing results in a tougher skinned product. Pack berries into containers, leaving headspace. Berries can also be frozen first on a tray and then packed into containers as soon as they are frozen. Seal and freeze. Wash before using.
+
+                Crushed or Puréed – Wash the berries. Crush, press berries through a fine sieve, or purée in a blender or food processor. Mix 1 to 1 1/8 cups of sugar with each quart (2 pounds) of crushed berries or purée. Stir until sugar is dissolved. Pack into containers, leaving headspace. Seal and freeze.</freezingMethod>
+            <dryingMethod>https://jomygosh.com/2015/01/easiest-way-to-dry-blueberries-ever/</dryingMethod>
+            <canningUrl>https://nchfp.uga.edu/how/can_02/berries_whole.html</canningUrl>
+            <freezingUrl>https://nchfp.uga.edu/how/freeze/blueberry.html</freezingUrl>
+            <dryingUrl>https://jomygosh.com/2015/01/easiest-way-to-dry-blueberries-ever/</dryingUrl>
+        </Food>
+        <Food>
+            <name>Cherries</name>
+            <canningMethod>Sweet or Sour Cherries - Whole
+                Quantity: An average of 17½ pounds is needed per canner load of 7 quarts; an average of 11 pounds is needed per canner load of 9 pints. A lug weighs 25 pounds and yields 8 to 12 quarts – an average of 2½ pounds per quart.
+
+                Quality: Select bright, uniformly colored cherries that are mature (of ideal quality for eating fresh or cooking).
+
+                Please read Using Pressure Canners and Using Boiling Water Canners before beginning. If this is your first time canning, it is recommended that you read Principles of Home Canning.
+
+                Procedure: Stem and wash cherries. Remove pits if desired. If pitted, place cherries in water containing ascorbic acid to prevent stem-end discoloration. If canned unpitted, prick skins on opposite sides with a clean needle to prevent splitting. Cherries may be canned in water, apple juice, white-grape juice, or syrup. If syrup is desired, select and prepare preferred type as directed.Hot pack – In a large saucepan add ½ cup water, juice, or syrup for each quart of drained fruit and bring to boil. Fill jars with cherries and cooking liquid, leaving ½-inch headspace.
+
+                Raw pack – Add ½ cup hot water, juice, or syrup to each jar. Fill jars with drained cherries, shaking down gently as you fill. Add more hot liquid, leaving ½-inch headspace. Adjust lids and process.
+
+                Processing directions for canning cherries in a boiling-water, a dial, or a weighted-gauge canner are given in Table 1, Table 2, and Table 3. Tables at URL</canningMethod>
+            <freezingMethod>Preparation – Select bright, fully ripened cherries of dark colored varieties. Wash, stem and pit.
+
+                Syrup Pack – Use cold, 40 percent syrup. For a better quality product add 1/2 teaspoon (1500 mg) ascorbic acid to each quart syrup. Pack fruit and cover with syrup, leaving headspace. Seal and freeze.</freezingMethod>
+            <dryingMethod>https://www.thespruceeats.com/how-to-dry-cherries-dehydrator-method-1327532</dryingMethod>
+            <canningUrl>https://nchfp.uga.edu/how/can_02/cherry_whole.html</canningUrl>
+            <freezingUrl>https://nchfp.uga.edu/how/freeze/cherry_sweet.html</freezingUrl>
+            <dryingUrl>https://www.thespruceeats.com/how-to-dry-cherries-dehydrator-method-1327532</dryingUrl>
+        </Food>
+        <Food>
+            <name>Chokecherries</name>
+            <canningMethod>ChokeCherry Jelly
+
+                Ingredients
+                4 cups chokecherry juice
+                1/4 cup of lemon juice
+                1 1/2– 2 cups sugar OR 1 1/2 cups honey
+                4 t. Pomona’s Pectin (like this)
+                4 t. calcium water (included in Pomona’s pectin)
+
+                Instructions
+                Step 1: *How to Make Chokecherry Juice* If you have a juicer, use it! I don’t, so I use this method:
+                Clean, wash, and remove stems from berries
+                Place in a large pot filled with enough water to just cover the fruit
+                Simmer 15-30 minutes until fruit softens
+                Use a potato masher to mash the juice out
+                Strain through a cheesecloth-lined colander or jelly strainer
+                Save the juice and discard pulp/pits
+                Step 2: Mix chokecherry juice, lemon juice, and 4 teaspoons calcium water in a pot
+                Thoroughly mix sugar or honey in separate bowl with 4 teaspoons pectin & set aside
+                Step 3: Bring juice mixture to a boil
+                Add pectin/sugar mixture, mix until completely incorporated, then return to a boil
+                Remove from heat, get ready to place it in your sterilized canning jars
+                Step 4: Fill the jars, leaving 1/4″ headspace
+                Boil in a hot-water bath canner 10 minutes (add an extra minute for every 1,000 feet you are above sea level)</canningMethod>
+            <freezingMethod>Preparation – Select bright red, tree ripened cherries. Wash, stem and pit.
+
+                Syrup Pack – Pack cherries into containers and cover with cold 50 per cent syrup. Leave headspace. Seal and freeze.
+
+                Sugar Pack – To 1 quart (1 and 1/3 pounds) cherries add 3/4 cup sugar. Mix until sugar is dissolved. Pack into containers, leaving headspace. Seal and freeze.</freezingMethod>
+            <dryingMethod>https://openprairie.sdstate.edu/cgi/viewcontent.cgi?article=1485&context=extension_extra#:~:text=Lay%20the%20patties%20on%20a,hot%2C%20soapy%20water%20and%20dried.&text=Leave%20about%201%2F2%20inch,occur%20throughout%20the%20drying%20process.&text=Chokecherry%20patties%20will%20take%2012%2D16%20hours%20to%20dry.</dryingMethod>
+            <canningUrl>https://www.theprairiehomestead.com/2012/08/how-to-make-chokecherry-jelly-low-sugar-and-honey-variations.html</canningUrl>
+            <freezingUrl>https://nchfp.uga.edu/how/freeze/cherry_sour.html</freezingUrl>
+            <dryingUrl>https://openprairie.sdstate.edu/cgi/viewcontent.cgi?article=1485&context=extension_extra#:~:text=Lay%20the%20patties%20on%20a,hot%2C%20soapy%20water%20and%20dried.&text=Leave%20about%201%2F2%20inch,occur%20throughout%20the%20drying%20process.&text=Chokecherry%20patties%20will%20take%2012%2D16%20hours%20to%20dry.</dryingUrl>
+        </Food>
+        <Food>
+            <name>Citrus Fruits</name> //lemon curd
+            <canningMethod>https://nchfp.uga.edu/how/can_02/lemon_curd.html</canningMethod>
+            <freezingMethod>https://nchfp.uga.edu/how/freeze/freezer_lemoncurd.html</freezingMethod>
+            <dryingMethod>https://www.trail.recipes/dehydrating123/dehydrating123-why-and-how-to-dehydrate-citrus-fruits/</dryingMethod>
+            <canningUrl>https://nchfp.uga.edu/how/can_02/lemon_curd.html</canningUrl>
+            <freezingUrl>https://nchfp.uga.edu/how/freeze/freezer_lemoncurd.html</freezingUrl>
+            <dryingUrl>https://www.trail.recipes/dehydrating123/dehydrating123-why-and-how-to-dehydrate-citrus-fruits/</dryingUrl>
+        </Food>
+        <Food>
+            <name>Crabapple</name>
+            <canningMethod>https://nchfp.uga.edu/how/can_02/crab_apple_spiced.html</canningMethod>
+            <freezingMethod>https://nchfp.uga.edu/how/freeze/apple.html</freezingMethod>
+            <dryingMethod>https://homecookedvegan.blogspot.com/2016/01/dehydrated-crab-apples.html</dryingMethod>
+            <canningUrl>https://nchfp.uga.edu/how/can_02/crab_apple_spiced.html</canningUrl>
+            <freezingUrl>https://nchfp.uga.edu/how/freeze/apple.html</freezingUrl>
+            <dryingUrl>https://homecookedvegan.blogspot.com/2016/01/dehydrated-crab-apples.html</dryingUrl>
+        </Food>
+        <Food>
+            <name>Currants Figs</name>
+            <canningMethod>https://nchfp.uga.edu/how/can_02/fig.html</canningMethod>
+            <freezingMethod>https://nchfp.uga.edu/how/freeze/fig.html</freezingMethod>
+            <dryingMethod>https://www.wikihow.com/Dry-Figs#:~:text=To%20dry%20figs%2C%20start%20by,for%20up%20to%2036%20hours.</dryingMethod>
+            <canningUrl>https://nchfp.uga.edu/how/can_02/fig.html</canningUrl>
+            <freezingUrl>https://nchfp.uga.edu/how/freeze/fig.html</freezingUrl>
+            <dryingUrl>https://www.wikihow.com/Dry-Figs#:~:text=To%20dry%20figs%2C%20start%20by,for%20up%20to%2036%20hours.</dryingUrl>
+        </Food>
+        <Food>
+            <name>Grapes</name>
+            <canningMethod>https://nchfp.uga.edu/how/can_02/grapes_whole.html</canningMethod>
+            <freezingMethod>https://nchfp.uga.edu/how/freeze/grape.html</freezingMethod>
+            <dryingMethod>https://www.seriouseats.com/recipes/2017/02/oven-dried-grapes-raisins-recipe.html</dryingMethod>
+            <canningUrl>https://nchfp.uga.edu/how/can_02/grapes_whole.html</canningUrl>
+            <freezingUrl>https://nchfp.uga.edu/how/freeze/grape.html</freezingUrl>
+            <dryingUrl>https://www.seriouseats.com/recipes/2017/02/oven-dried-grapes-raisins-recipe.html</dryingUrl>
+        </Food>
+        <Food>
+            <name>Melons</name>
+            <canningMethod>https://nchfp.uga.edu/how/can_02/green_mangoes.html</canningMethod>
+            <freezingMethod>https://nchfp.uga.edu/how/freeze/melon.html</freezingMethod>
+            <dryingMethod>http://www.homepreservingbible.com/888-how-to-dry-melon-slices/</dryingMethod>
+            <canningUrl>https://nchfp.uga.edu/how/can_02/green_mangoes.html</canningUrl>
+            <freezingUrl>https://nchfp.uga.edu/how/freeze/melon.html</freezingUrl>
+            <dryingUrl>http://www.homepreservingbible.com/888-how-to-dry-melon-slices/</dryingUrl>
+        </Food>
+        <Food>
+            <name>Mint/Herbs</name>
+            <canningMethod>https://canningdiva.com/canning-mint-jelly/</canningMethod>
+            <freezingMethod>https://nchfp.uga.edu/how/freeze/herbs.html</freezingMethod>
+            <dryingMethod>https://www.thespruce.com/how-to-dry-and-store-herbs-1403397</dryingMethod>
+            <canningUrl>https://canningdiva.com/canning-mint-jelly/</canningUrl>
+            <freezingUrl>https://nchfp.uga.edu/how/freeze/herbs.html</freezingUrl>
+            <dryingUrl>https://www.thespruce.com/how-to-dry-and-store-herbs-1403397</dryingUrl>
+        </Food>
+        <Food>
+            <name>Peaches</name>
+            <canningMethod>https://nchfp.uga.edu/how/can_02/peach_sliced.html</canningMethod>
+            <freezingMethod>https://nchfp.uga.edu/how/freeze/peach.html</freezingMethod>
+            <dryingMethod>https://www.thespruceeats.com/dry-peaches-in-a-dehydrator-1327526</dryingMethod>
+            <canningUrl>https://nchfp.uga.edu/how/can_02/peach_sliced.html</canningUrl>
+            <freezingUrl>https://nchfp.uga.edu/how/freeze/peach.html</freezingUrl>
+            <dryingUrl>https://www.thespruceeats.com/dry-peaches-in-a-dehydrator-1327526</dryingUrl>
+        </Food>
+        <Food>
+            <name>Pears</name>
+            <canningMethod>https://nchfp.uga.edu/how/can_02/pear_halved.html</canningMethod>
+            <freezingMethod>https://nchfp.uga.edu/how/freeze/pear.html</freezingMethod>
+            <dryingMethod>https://www.thespruceeats.com/how-to-dry-pears-in-dehydrator-1327580</dryingMethod>
+            <canningUrl>https://nchfp.uga.edu/how/can_02/pear_halved.html</canningUrl>
+            <freezingUrl>https://nchfp.uga.edu/how/freeze/pear.html</freezingUrl>
+            <dryingUrl>https://www.thespruceeats.com/how-to-dry-pears-in-dehydrator-1327580</dryingUrl>
+        </Food>
+        <Food>
+            <name>Pineapple</name>
+            <canningMethod>https://nchfp.uga.edu/how/can_02/pineapple.html</canningMethod>
+            <freezingMethod>https://nchfp.uga.edu/how/freeze/pineapple.html</freezingMethod>
+            <dryingMethod>https://selfproclaimedfoodie.com/oven-dried-pineapple/</dryingMethod>
+            <canningUrl>https://nchfp.uga.edu/how/can_02/pineapple.html</canningUrl>
+            <freezingUrl>https://nchfp.uga.edu/how/freeze/pineapple.html</freezingUrl>
+            <dryingUrl>https://selfproclaimedfoodie.com/oven-dried-pineapple/</dryingUrl>
+        </Food>
+        <Food>
+            <name>Plums</name>
+            <canningMethod>https://nchfp.uga.edu/how/can_02/plum_halved.html</canningMethod>
+            <freezingMethod>https://nchfp.uga.edu/how/freeze/plum.html</freezingMethod>
+            <dryingMethod>https://frugalfamilyhome.com/food/drying-foods/how-to-dry-plums</dryingMethod>
+            <canningUrl>https://nchfp.uga.edu/how/can_02/plum_halved.html</canningUrl>
+            <freezingUrl>https://nchfp.uga.edu/how/freeze/plum.html</freezingUrl>
+            <dryingUrl>https://frugalfamilyhome.com/food/drying-foods/how-to-dry-plums</dryingUrl>
+        </Food>
+        <Food>
+            <name>Quince</name>
+            <canningMethod>https://nchfp.uga.edu/how/can_02/asian_pears.html</canningMethod>
+            <freezingMethod>https://nchfp.uga.edu/how/freeze/pear.html</freezingMethod>
+            <dryingMethod>http://www.homepreservingbible.com/wp-content/uploads/2013/11/Preserving-Apples-Pears-and-Quince.pdf</dryingMethod>
+            <canningUrl>https://nchfp.uga.edu/how/can_02/asian_pears.html</canningUrl>
+            <freezingUrl>https://nchfp.uga.edu/how/freeze/pear.html</freezingUrl>
+            <dryingUrl>http://www.homepreservingbible.com/wp-content/uploads/2013/11/Preserving-Apples-Pears-and-Quince.pdf</dryingUrl>
+        </Food>
+        <Food>
+            <name>Rhubarb</name>
+            <canningMethod>https://nchfp.uga.edu/how/can_02/rhubarb_stewed.html</canningMethod>
+            <freezingMethod>https://nchfp.uga.edu/how/freeze/rhubarb.html</freezingMethod>
+            <dryingMethod>https://madaboutmacarons.com/dried-rhubarb-chips/</dryingMethod>
+            <canningUrl>https://nchfp.uga.edu/how/can_02/rhubarb_stewed.html</canningUrl>
+            <freezingUrl>https://nchfp.uga.edu/how/freeze/rhubarb.html</freezingUrl>
+            <dryingUrl>https://madaboutmacarons.com/dried-rhubarb-chips/</dryingUrl>
+        </Food>
+        <Food>
+            <name>Strawberries</name>
+            <canningMethod>https://nchfp.uga.edu/how/can_02/berries_whole.html</canningMethod>
+            <freezingMethod>https://nchfp.uga.edu/how/freeze/strawberry.html</freezingMethod>
+            <dryingMethod>https://www.shelovesbiscotti.com/oven-dried-strawberries/</dryingMethod>
+            <canningUrl>https://nchfp.uga.edu/how/can_02/berries_whole.html</canningUrl>
+            <freezingUrl>https://nchfp.uga.edu/how/freeze/strawberry.html</freezingUrl>
+            <dryingUrl>https://www.shelovesbiscotti.com/oven-dried-strawberries/</dryingUrl>
         </Food>
         <Food>
             <name></name>
