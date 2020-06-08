@@ -6,11 +6,10 @@
     tools:context=".SecondFragment">
 
     <!-- TODO: Update blank fragment layout -->
-    <TextView
-        android:id="@+id/secondFragment"
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView_SecondFragment"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:gravity="center"
-        android:text="Second Fragment" />
+        android:layout_height="match_parent" />
 
 </FrameLayout>

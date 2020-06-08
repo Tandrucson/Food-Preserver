@@ -3,6 +3,8 @@ package com.example.food_preserver;
 import android.os.Bundle;
 
 import androidx.fragment.app.Fragment;
+import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -15,6 +17,13 @@ import android.view.ViewGroup;
  * create an instance of this fragment.
  */
 public class ThirdFragment extends Fragment {
+
+    //global variables for recyclerview
+    RecyclerView recyclerView;
+    String s1[], s2[];
+    int images[] = {R.drawable.ic_carrot, R.drawable.ic_fruit, R.drawable.ic_meat,R.drawable.ic_carrot, R.drawable.ic_fruit, R.drawable.ic_meat, R.drawable.ic_meat,R.drawable.ic_carrot, R.drawable.ic_fruit, R.drawable.ic_meat};
+
+
     // TODO: Rename parameter arguments, choose names that match
     // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
     private static final String ARG_PARAM1 = "param1";
@@ -59,6 +68,19 @@ public class ThirdFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_third, container, false);
+        View view = inflater.inflate(R.layout.fragment_third, container, false);
+
+        //recyclerview implementation in fragment
+        recyclerView = view.findViewById(R.id.recyclerView_ThirdFragment);
+
+        s1 = getResources().getStringArray(R.array.meats);
+        s2 = getResources().getStringArray(R.array.meatsDescription);
+
+        MyAdapter myAdapter = new MyAdapter(getActivity(), s1, s2, images);
+        recyclerView.setAdapter(myAdapter);
+        recyclerView.setLayoutManager(new LinearLayoutManager(getActivity()));
+
+        return view;
+
     }
 }
