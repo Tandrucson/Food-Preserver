@@ -4,16 +4,27 @@
     <!-- TODO: Remove or change this placeholder text -->
     
     <string-array name="fruits">
-        <item>Fruits1</item>
-        <item>Fruits2</item>
-        <item>Fruits3</item>
-        <item>Fruits4</item>
-        <item>Fruits5</item>
-        <item>Fruits6</item>
-        <item>Fruits7</item>
-        <item>Fruits8</item>
-        <item>Fruits9</item>
-        <item>Fruits10</item>
+        <item>Apples</item>
+        <item>Apricots</item>
+        <item>Avocados</item>
+        <item>Banana</item>
+        <item>Berries</item>
+        <item>Cherries</item>
+        <item>Chokecherries</item>
+        <item>Citrus Fruits</item>
+        <item>Crabapple</item>
+        <item>Currants  Figs</item>
+        <item>Grapes</item>
+        <item>Melons</item>
+        <item>Mint</item>
+        <item>Peaches</item>
+        <item>Pears</item>
+        <item>Pineapple</item>
+        <item>Plums</item>
+        <item>Quince</item>
+        <item>Rhubarb</item>
+        <item>Strawberries</item>
+
     </string-array>
 
 <!--description items need to match programming_languages items -->
@@ -28,6 +39,17 @@
         <item></item>
         <item></item>
         <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+
     </string-array>
 
     <string-array name="vegetables">
