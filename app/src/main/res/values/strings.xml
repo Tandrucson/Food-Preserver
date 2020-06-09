@@ -53,16 +53,48 @@
     </string-array>
 
     <string-array name="vegetables">
-        <item>Vegetables1</item>
-        <item>Vegetables2</item>
-        <item>Vegetables3</item>
-        <item>Vegetables4</item>
-        <item>Vegetables5</item>
-        <item>Vegetables6</item>
-        <item>Vegetables7</item>
-        <item>Vegetables8</item>
-        <item>Vegetables9</item>
-        <item>Vegetables10</item>
+        <item>Artichokes</item>
+        <item>Asparagus</item>
+        <item>Beans: Green, Snap, or Wax</item>
+        <item>Beans: Lima, Butter, or Pinto</item>
+        <item>Beets</item>
+        <item>Broccoli</item>
+        <item>Brussel Sprouts</item>
+        <item>Cabbage or Chinese Cabbage</item>
+        <item>Carrots</item>
+        <item>Cauliflower</item>
+        <item>Celery</item>
+        <item>Corn</item>
+        <item>Cucumbers</item>
+        <item>Eggplant</item>
+        <item>Garlic-in-Oil</item>
+        <item>Greens (including Spinach)</item>
+        <item>Fresh Herbs</item>
+        <item>Horseradish</item>
+        <item>Kohlrabi</item>
+        <item>Mushrooms</item>
+        <item>Okra</item>
+        <item>Onions</item>
+        <item>Peas Blackeye or Field</item>
+        <item>Peas Green</item>
+        <item>Peas Pods Edible (Sugar, Chinese, Snow Peas or Sugar Snap Peas)</item>
+        <item>Peppers Bell or Sweet</item>
+        <item>Peppers Hot</item>
+        <item>Pimientos</item>
+        <item>Potatoes New Irish</item>
+        <item>Potatoes Sweet</item>
+        <item>Pumpkin</item>
+        <item>Rhubarb</item>
+        <item>Rutabagas</item>
+        <item>Squash Summer
+                (Cocozelle, Crookneck, Pattypan, Straightneck, White Scallop, Zucchini)</item>
+        <item>Squash Winter
+                (Acorn, Banana, Buttercup, Butternut, Golden Delicious, Hubbard, Spaghetti)</item>
+        <item>Tomatoes</item>
+        <item>Tomatoes Green</item>
+        <item>Turnips or Parsnips</item>
+        <item>Zucchini</item>
+
     </string-array>
 
     <!--description items need to match programming_languages items -->
@@ -77,6 +109,36 @@
         <item></item>
         <item></item>
         <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+
     </string-array>
 
     <string-array name="meats">
