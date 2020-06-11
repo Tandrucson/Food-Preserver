@@ -21,7 +21,9 @@ public class FirstFragment extends Fragment {
     //global variables for recyclerview
     RecyclerView recyclerView;
     String s1[], s2[];
-    int images[] = {R.drawable.ic_carrot, R.drawable.ic_fruit, R.drawable.ic_meat,R.drawable.ic_carrot, R.drawable.ic_fruit, R.drawable.ic_meat, R.drawable.ic_meat,R.drawable.ic_carrot, R.drawable.ic_fruit, R.drawable.ic_meat};
+    int images[] = {R.drawable.apples, R.drawable.apricots, R.drawable.avocados,R.drawable.banana, R.drawable.berries, R.drawable.cherries, R.drawable.chokecherries,
+            R.drawable.citrus_fruits, R.drawable.crabapple, R.drawable.currants_figs, R.drawable.grapes, R.drawable.melons, R.drawable.mint, R.drawable.peaches,
+            R.drawable.pears, R.drawable.pineapple, R.drawable.plums, R.drawable.quince, R.drawable.rhubarb,R.drawable.strawberries};
 
 
 
