@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Food_item_instructions">
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/methods"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="148dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:menu="@menu/methods_menu" />
+
+    <fragment
+        android:id="@+id/fragment_container"
+        android:name="androidx.navigation.fragment.NavHostFragment"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:defaultNavHost="false"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/methods"
+        app:navGraph="@navigation/preserving_methods"/>
+
+    <LinearLayout
+        android:id="@+id/food_layout"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="#9EFB5B"
+        android:backgroundTint="#9EFB5B"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toTopOf="@+id/methods"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/food_name"
+            android:layout_width="185dp"
+            android:layout_height="wrap_content"
+            android:text="@string/food_name" />
+
+        <ImageView
+            android:id="@+id/food_image"
+            android:layout_width="155dp"
+            android:layout_height="112dp" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
