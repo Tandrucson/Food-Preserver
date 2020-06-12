@@ -10,6 +10,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+import java.util.ArrayList;
+import java.util.List;
+
 
 /**
  * A simple {@link Fragment} subclass.
@@ -17,10 +20,13 @@ import android.view.ViewGroup;
  * create an instance of this fragment.
  */
 public class SecondFragment extends Fragment {
-
-    RecyclerView recyclerView;
+/*
     String s1[], s2[];
     int images[] = {R.drawable.ic_carrot, R.drawable.ic_fruit, R.drawable.ic_meat,R.drawable.ic_carrot, R.drawable.ic_fruit, R.drawable.ic_meat, R.drawable.ic_meat,R.drawable.ic_carrot, R.drawable.ic_fruit, R.drawable.ic_meat};
+*/
+
+    RecyclerView recyclerView;
+    List<Food> vegetablesList;
 
 
     // TODO: Rename parameter arguments, choose names that match
@@ -69,16 +75,19 @@ public class SecondFragment extends Fragment {
         // Inflate the layout for this fragment
         View view = inflater.inflate(R.layout.fragment_second, container, false);
 
+        vegetablesList = new ArrayList<>();
 
         //recyclerview implementation in fragment
         recyclerView = view.findViewById(R.id.recyclerView_SecondFragment);
 
-        s1 = getResources().getStringArray(R.array.vegetables);
-        s2 = getResources().getStringArray(R.array.vegetablesDescription);
-
-        MyAdapter myAdapter = new MyAdapter(getActivity(), s1, s2, images);
+        MyAdapter myAdapter = new MyAdapter(vegetablesList);
         recyclerView.setAdapter(myAdapter);
         recyclerView.setLayoutManager(new LinearLayoutManager(getActivity()));
+
+        vegetablesList.add(new Food("tomato", "tomato", R.drawable.tomatoes));
+        vegetablesList.add(new Food("tomato", "tomato", R.drawable.tomatoes));
+        vegetablesList.add(new Food("tomato", "tomato", R.drawable.tomatoes));
+
 
         return view;
     }

@@ -2,7 +2,7 @@
     <string name="app_name">Food-Preserver</string>
 
     <!-- TODO: Remove or change this placeholder text -->
-    
+
     <string-array name="fruits">
         <item>Apples</item>
         <item>Apricots</item>
@@ -27,7 +27,7 @@
 
     </string-array>
 
-<!--description items need to match programming_languages items -->
+    <!--description items need to match programming_languages items -->
     <string-array name="fruitsDescription">
         <item></item>
         <item></item>
@@ -105,10 +105,6 @@
         <item></item>
         <item></item>
     </string-array>
-
-
-
-
 
 
 </resources>
