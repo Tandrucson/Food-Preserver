@@ -10,6 +10,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+import java.util.ArrayList;
+import java.util.List;
+
 
 /**
  * A simple {@link Fragment} subclass.
@@ -17,11 +20,15 @@ import android.view.ViewGroup;
  * create an instance of this fragment.
  */
 public class ThirdFragment extends Fragment {
-
+/*
     //global variables for recyclerview
-    RecyclerView recyclerView;
+
     String s1[], s2[];
     int images[] = {R.drawable.ic_carrot, R.drawable.ic_fruit, R.drawable.ic_meat,R.drawable.ic_carrot, R.drawable.ic_fruit, R.drawable.ic_meat, R.drawable.ic_meat,R.drawable.ic_carrot, R.drawable.ic_fruit, R.drawable.ic_meat};
+*/
+
+    RecyclerView recyclerView;
+    List<Food> meatsList;
 
 
     // TODO: Rename parameter arguments, choose names that match
@@ -67,18 +74,26 @@ public class ThirdFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
+
         // Inflate the layout for this fragment
         View view = inflater.inflate(R.layout.fragment_third, container, false);
+
+        meatsList = new ArrayList<>();
 
         //recyclerview implementation in fragment
         recyclerView = view.findViewById(R.id.recyclerView_ThirdFragment);
 
-        s1 = getResources().getStringArray(R.array.meats);
-        s2 = getResources().getStringArray(R.array.meatsDescription);
-
-        MyAdapter myAdapter = new MyAdapter(getActivity(), s1, s2, images);
+        MyAdapter myAdapter = new MyAdapter(meatsList);
         recyclerView.setAdapter(myAdapter);
         recyclerView.setLayoutManager(new LinearLayoutManager(getActivity()));
+
+
+        meatsList.add(new Food("chicken", "chicken", R.drawable.chicken));
+        meatsList.add(new Food("chicken", "chicken", R.drawable.chicken));
+        meatsList.add(new Food("chicken", "chicken", R.drawable.chicken));
+
+
+
 
         return view;
 

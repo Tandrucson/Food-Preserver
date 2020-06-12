@@ -10,6 +10,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+import java.util.ArrayList;
+import java.util.List;
+
 
 /**
  * A simple {@link Fragment} subclass.
@@ -17,15 +20,16 @@ import android.view.ViewGroup;
  * create an instance of this fragment.
  */
 public class FirstFragment extends Fragment {
-
+/*
     //global variables for recyclerview
     RecyclerView recyclerView;
     String s1[], s2[];
     int images[] = {R.drawable.apples, R.drawable.apricots, R.drawable.avocados,R.drawable.banana, R.drawable.berries, R.drawable.cherries, R.drawable.chokecherries,
             R.drawable.citrus_fruits, R.drawable.crabapple, R.drawable.currants_figs, R.drawable.grapes, R.drawable.melons, R.drawable.mint, R.drawable.peaches,
             R.drawable.pears, R.drawable.pineapple, R.drawable.plums, R.drawable.quince, R.drawable.rhubarb,R.drawable.strawberries};
-
-
+*/
+    RecyclerView recyclerView;
+    List<Food> fruitsList;
 
     // TODO: Rename parameter arguments, choose names that match
     // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
@@ -77,16 +81,20 @@ public class FirstFragment extends Fragment {
         // Inflate the layout for this fragment
         View view = inflater.inflate(R.layout.fragment_first, container, false);
 
+        fruitsList = new ArrayList<>();
 
         //recyclerview implementation in fragment
         recyclerView = view.findViewById(R.id.recyclerView_FirstFragment);
-
-        s1 = getResources().getStringArray(R.array.fruits);
-        s2 = getResources().getStringArray(R.array.fruitsDescription);
-
-        MyAdapter myAdapter = new MyAdapter(getActivity(), s1, s2, images);
+        MyAdapter myAdapter = new MyAdapter(fruitsList);
         recyclerView.setAdapter(myAdapter);
         recyclerView.setLayoutManager(new LinearLayoutManager(getActivity()));
+
+
+        // add fruit items into the arrayList
+        fruitsList.add(new Food("Apples", "Apples", R.drawable.apples));
+        fruitsList.add(new Food("Apples", "Apples", R.drawable.apples));
+        fruitsList.add(new Food("Apples", "Apples", R.drawable.apples));
+
 
         return view;
 

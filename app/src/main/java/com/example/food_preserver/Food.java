@@ -8,6 +8,17 @@ public class Food {
     private String canningUrl;
     private String freezingUrl;
     private String dryingUrl;
+    private String foodName;
+    private String description;
+    private int image;
+
+
+    public Food(String foodName, String description, int image) {
+        this.foodName = foodName;
+        this.description = description;
+        this.image = image;
+    }
+
 
     //Constructors shouldn't be needed
     /* public Food() {
@@ -57,6 +68,18 @@ public class Food {
         return dryingUrl;
     }
 
+    public String getFoodName() {
+        return foodName;
+    }
+
+    public String getDescription() {
+        return description;
+    }
+
+    public int getImage() {
+        return image;
+    }
+
     //Set methods shouldn't be needed
     /* public void setName(String name) {
         this.name = name;
@@ -90,4 +113,6 @@ public class Food {
     public String toString() {
         return name + canningMethod + freezingMethod + dryingMethod + canningUrl + freezingUrl + dryingUrl;
     }
+
+
 }
