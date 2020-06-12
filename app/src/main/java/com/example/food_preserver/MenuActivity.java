@@ -5,7 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.Button;
 
-public class Menu extends AppCompatActivity {
+public class MenuActivity extends AppCompatActivity {
     Button settings;
     Button profile;
     Button about;
