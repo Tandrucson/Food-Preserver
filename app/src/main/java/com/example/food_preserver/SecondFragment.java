@@ -10,9 +10,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import java.util.ArrayList;
-import java.util.List;
-
 
 /**
  * A simple {@link Fragment} subclass.
@@ -20,13 +17,13 @@ import java.util.List;
  * create an instance of this fragment.
  */
 public class SecondFragment extends Fragment {
-/*
-    String s1[], s2[];
-    int images[] = {R.drawable.ic_carrot, R.drawable.ic_fruit, R.drawable.ic_meat,R.drawable.ic_carrot, R.drawable.ic_fruit, R.drawable.ic_meat, R.drawable.ic_meat,R.drawable.ic_carrot, R.drawable.ic_fruit, R.drawable.ic_meat};
-*/
 
     RecyclerView recyclerView;
-    List<Food> vegetablesList;
+    String s1[], s2[];
+    int images[] = {R.drawable.artichokes, R.drawable.asparagus, R.drawable.beans_green_snap_or_wax,R.drawable.beans_lima, R.drawable.beets, R.drawable.broccoli, R.drawable.brussel_sprouts,R.drawable.cabbage_or_chinese_cabbage, R.drawable.carrots, R.drawable.cauliflower,
+            R.drawable.celery, R.drawable.corn, R.drawable.cucumbers,R.drawable.eggplant, R.drawable.garlic_in_oil, R.drawable.greens_including_spinach, R.drawable.fresh_herbs,R.drawable.horseradish, R.drawable.kohlrabi, R.drawable.mushrooms,
+            R.drawable.okra, R.drawable.onions, R.drawable.blackeye_or_field_peas,R.drawable.green_peas, R.drawable.peas_pods, R.drawable.bell_or_sweet_peppers, R.drawable.hot_peppers,R.drawable.pimientos, R.drawable.new_irish_potatoes, R.drawable.sweet_potatoes,
+            R.drawable.pumpkin, R.drawable.rhubarb, R.drawable.rutabagas,R.drawable.summer_squash, R.drawable.winter_squash, R.drawable.tomatoes, R.drawable.green_tomatoes,R.drawable.turnips_or_parsnips, R.drawable.zucchini};
 
 
     // TODO: Rename parameter arguments, choose names that match
@@ -75,19 +72,16 @@ public class SecondFragment extends Fragment {
         // Inflate the layout for this fragment
         View view = inflater.inflate(R.layout.fragment_second, container, false);
 
-        vegetablesList = new ArrayList<>();
 
         //recyclerview implementation in fragment
         recyclerView = view.findViewById(R.id.recyclerView_SecondFragment);
 
-        MyAdapter myAdapter = new MyAdapter(vegetablesList);
+        s1 = getResources().getStringArray(R.array.vegetables);
+        s2 = getResources().getStringArray(R.array.vegetablesDescription);
+
+        MyAdapter myAdapter = new MyAdapter(getActivity(), s1, s2, images);
         recyclerView.setAdapter(myAdapter);
         recyclerView.setLayoutManager(new LinearLayoutManager(getActivity()));
-
-        vegetablesList.add(new Food("tomato", "tomato", R.drawable.tomatoes));
-        vegetablesList.add(new Food("tomato", "tomato", R.drawable.tomatoes));
-        vegetablesList.add(new Food("tomato", "tomato", R.drawable.tomatoes));
-
 
         return view;
     }

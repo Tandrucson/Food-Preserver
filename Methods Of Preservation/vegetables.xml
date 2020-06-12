@@ -441,6 +441,17 @@
             <dryingUrl>https://delishably.com/vegetable-dishes/How-to-Dry-Eggplant-An-Illustrated-Guide</dryingUrl>
         </Food>
         <Food>
+            <name>Garlic-in-Oil</name>
+            <canningMethod>https://barefeetinthekitchen.com/preserving-garlic-for-winter/</canningMethod>
+            <freezingMethod>Research performed by the National Center for Home Food Preservation confirmed that mixtures of garlic in oil stored at room temperature are at risk for the development of botulism.
+
+                Garlic-in-oil should be made fresh and stored in the refrigerator at 40°F or lower for no more than 4 days. It may be frozen for long term storage for up to several months. Package in glass freezer jars or plastic freezer boxes, leaving ½-inch headspace. Label, date and freeze.</freezingMethod>
+            <dryingMethod>https://www.garlicfarm.ca/garlic-drying.htm</dryingMethod>
+            <canningUrl>https://barefeetinthekitchen.com/preserving-garlic-for-winter/</canningUrl>
+            <freezingUrl>https://nchfp.uga.edu/how/freeze/garlic_oil.html</freezingUrl>
+            <dryingUrl>https://www.garlicfarm.ca/garlic-drying.htm</dryingUrl>
+        </Food>
+        <Food>
             <name>Greens (including Spinach)</name>
             <canningMethod>https://nchfp.uga.edu/how/can_04/spinach_greens.html</canningMethod>
             <freezingMethod>Preparation – Select young, tender green leaves. Wash thoroughly and cut off woody stems. Water blanch collards 3 minutes and all other greens 2 minutes.
@@ -452,17 +463,6 @@
             <canningUrl>https://nchfp.uga.edu/how/can_04/spinach_greens.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/greens.html</freezingUrl>
             <dryingUrl>https://learn.eartheasy.com/articles/supercharge-your-meals-with-dehydrated-greens/#:~:text=To%20dehydrate%20the%20greens%2C%20place,the%20longer%20the%20drying%20time.</dryingUrl>
-        </Food>
-        <Food>
-            <name>Garlic-in-Oil</name>
-            <canningMethod>https://barefeetinthekitchen.com/preserving-garlic-for-winter/</canningMethod>
-            <freezingMethod>Research performed by the National Center for Home Food Preservation confirmed that mixtures of garlic in oil stored at room temperature are at risk for the development of botulism.
-
-                Garlic-in-oil should be made fresh and stored in the refrigerator at 40°F or lower for no more than 4 days. It may be frozen for long term storage for up to several months. Package in glass freezer jars or plastic freezer boxes, leaving ½-inch headspace. Label, date and freeze.</freezingMethod>
-            <dryingMethod>https://www.garlicfarm.ca/garlic-drying.htm</dryingMethod>
-            <canningUrl>https://barefeetinthekitchen.com/preserving-garlic-for-winter/</canningUrl>
-            <freezingUrl>https://nchfp.uga.edu/how/freeze/garlic_oil.html</freezingUrl>
-            <dryingUrl>https://www.garlicfarm.ca/garlic-drying.htm</dryingUrl>
         </Food>
         <Food>
             <name>Fresh Herbs</name>
@@ -551,18 +551,7 @@
             <dryingUrl>https://growagoodlife.com/dehydrate-onions/#:~:text=Turn%20your%20onions%20into%20dehydrated%20onion%20flakes,dried%20onions%2C%20and%20onion%20powder.&text=To%20dry%20the%20onions%3A,trays%20in%20a%20single%20layer.</dryingUrl>
         </Food>
         <Food>
-            <name>Edible Pod Peas (Sugar, Chinese, Snow Peas or Sugar Snap Peas)</name>
-            <canningMethod>https://nchfp.uga.edu/how/can_04/peas_green_shelled.html</canningMethod>
-            <freezingMethod>Preparation – Select bright green, flat, tender pods. Wash. Remove stems, blossom ends and any strings. Leave whole. Water blanch 11/2 minutes for small pods; 2 minutes for large pods. (NOTE: If the peas have started to develop, follow the directions for green beans. If the peas are already developed, shell and follow the directions for green peas.) Cool, drain and package, leaving 1/2-inch headspace. Seal and freeze.
-
-            </freezingMethod>
-            <dryingMethod>https://oureverydaylife.com/how-to-dehydrate-peas-12788346.html#:~:text=Place%20the%20peas%20on%20screens,to%20allow%20for%20even%20drying.</dryingMethod>
-            <canningUrl>https://nchfp.uga.edu/how/can_04/peas_green_shelled.html</canningUrl>
-            <freezingUrl>https://nchfp.uga.edu/how/freeze/pea_pod.html</freezingUrl>
-            <dryingUrl>https://oureverydaylife.com/how-to-dehydrate-peas-12788346.html#:~:text=Place%20the%20peas%20on%20screens,to%20allow%20for%20even%20drying.</dryingUrl>
-        </Food>
-        <Food>
-            <name>Blackeye or Field Peas</name>
+            <name>Peas Blackeye or Field</name>
             <canningMethod>https://nchfp.uga.edu/how/can_04/peas_green_shelled.html</canningMethod>
             <freezingMethod>Preparation – Select pods when seeds are tender and well-filled. Wash pods. Shell and discard over-mature and immature seeds and those injured by insects. Wash shelled peas.
 
@@ -573,7 +562,7 @@
             <dryingUrl>https://oureverydaylife.com/how-to-dehydrate-peas-12788346.html#:~:text=Place%20the%20peas%20on%20screens,to%20allow%20for%20even%20drying.</dryingUrl>
         </Food>
         <Food>
-            <name>Green Peas</name>
+            <name>Peas Green</name>
             <canningMethod>https://nchfp.uga.edu/how/can_04/peas_green_shelled.html</canningMethod>
             <freezingMethod>Preparation – Harvest when pods are filled with young, tender peas that have not become starchy. Wash and shell; water blanch l1/2 minutes, cool and drain. Package, leaving 1/2-inch headspace. Seal and freeze.</freezingMethod>
             <dryingMethod>https://oureverydaylife.com/how-to-dehydrate-peas-12788346.html#:~:text=Place%20the%20peas%20on%20screens,to%20allow%20for%20even%20drying.</dryingMethod>
@@ -582,7 +571,18 @@
             <dryingUrl>https://oureverydaylife.com/how-to-dehydrate-peas-12788346.html#:~:text=Place%20the%20peas%20on%20screens,to%20allow%20for%20even%20drying.</dryingUrl>
         </Food>
         <Food>
-            <name>Bell or Sweet Peppers</name>
+            <name>Peas Pods Edible (Sugar, Chinese, Snow Peas or Sugar Snap Peas)</name>
+            <canningMethod>https://nchfp.uga.edu/how/can_04/peas_green_shelled.html</canningMethod>
+            <freezingMethod>Preparation – Select bright green, flat, tender pods. Wash. Remove stems, blossom ends and any strings. Leave whole. Water blanch 11/2 minutes for small pods; 2 minutes for large pods. (NOTE: If the peas have started to develop, follow the directions for green beans. If the peas are already developed, shell and follow the directions for green peas.) Cool, drain and package, leaving 1/2-inch headspace. Seal and freeze.
+
+            </freezingMethod>
+            <dryingMethod>https://oureverydaylife.com/how-to-dehydrate-peas-12788346.html#:~:text=Place%20the%20peas%20on%20screens,to%20allow%20for%20even%20drying.</dryingMethod>
+            <canningUrl>https://nchfp.uga.edu/how/can_04/peas_green_shelled.html</canningUrl>
+            <freezingUrl>https://nchfp.uga.edu/how/freeze/pea_pod.html</freezingUrl>
+            <dryingUrl>https://oureverydaylife.com/how-to-dehydrate-peas-12788346.html#:~:text=Place%20the%20peas%20on%20screens,to%20allow%20for%20even%20drying.</dryingUrl>
+        </Food>
+        <Food>
+            <name>Peppers Bell or Sweet</name>
             <canningMethod>https://nchfp.uga.edu/how/can_04/peppers.html</canningMethod>
             <freezingMethod>Preparation – Select crisp, tender, green or bright red pods. Wash, cut out stems, cut in half and remove seeds. If desired, cut into 1/2-inch strips or rings.
 
@@ -595,7 +595,7 @@
             <dryingUrl>https://barefeetinthekitchen.com/dehydrated-bell-peppers/</dryingUrl>
         </Food>
         <Food>
-            <name>Hot Peppers</name>
+            <name>Peppers Hot</name>
             <canningMethod>https://www.thebossykitchen.com/how-to-preserve-hot-peppers-in-vinegar/</canningMethod>
             <freezingMethod>Preparation – Wash and stem peppers. Package, leaving no headspace. Seal and freeze.</freezingMethod>
             <dryingMethod>https://www.cayennediane.com/how-to-dry-peppers/#:~:text=Cut%20your%20peppers%20in%20half,least%20a%20couple%20of%20inches.</dryingMethod>
@@ -613,7 +613,7 @@
             <dryingUrl>https://www.food.com/recipe/homemade-paprika-494183</dryingUrl>
         </Food>
         <Food>
-            <name>New Irish Potatoes</name>
+            <name>Potatoes New Irish</name>
             <canningMethod>https://practicalselfreliance.com/canning-potatoes/</canningMethod>
             <freezingMethod>Preparation – Select smooth new potatoes directly from the garden. Peel or scrape and wash. Water blanch for 3 to 5 minutes, depending on the size.
 
@@ -630,7 +630,7 @@
             <dryingUrl>https://www.gettystewart.com/dehydrating-potatoes/</dryingUrl>
         </Food>
         <Food>
-            <name>Sweet Potatoes</name>
+            <name>Potatoes Sweet</name>
             <canningMethod>https://nchfp.uga.edu/how/can_04/potato_sweet.html</canningMethod>
             <freezingMethod>Preparation – Choose medium to large sweet potatoes that have been cured for at least one week. Sort according to size and wash. Cook until almost tender in water, in steam, in a pressure cooker or in the oven. Let stand at room temperature until cool. Peel sweet potatoes, cut in halves, slice or mash.
 
@@ -688,7 +688,7 @@
             <dryingUrl>https://countrifiedhicks.blogspot.com/2016/11/dehydrating-rutabagas.html#:~:text=To%20dehydrate%20a%20rutabaga%2C%20rinse%20them%20well%20and%20then%20peel%20them.&text=Using%20a%20mandolin%20or%20sharp,about%201%2F8%22%20thick.&text=Turn%20on%20your%20dehydrator%20to,are%20ready%20the%20next%20morning.</dryingUrl>
         </Food>
         <Food>
-            <name>Summer Squash
+            <name>Squash Summer
                 (Cocozelle, Crookneck, Pattypan, Straightneck, White Scallop, Zucchini)</name>
             <canningMethod>https://nchfp.uga.edu/how/can_04/pumpkin_winter_squash.html</canningMethod>
             <freezingMethod>Preparation – Choose young squash with tender skin. Wash and cut in 1/2-inch slices. Water blanch 3 minutes. Cool promptly, drain and package, leaving 1/2-inch headspace. Seal and freeze.
@@ -702,7 +702,7 @@
             <dryingUrl>https://www.thespruceeats.com/dehydrate-zucchini-and-summer-squash-1327567#:~:text=Set%20the%20dehydrator%20for%20135,transfer%20it%20to%20airtight%20containers.</dryingUrl>
         </Food>
         <Food>
-            <name>Winter Squash
+            <name>Squash Winter
                 (Acorn, Banana, Buttercup, Butternut, Golden Delicious, Hubbard, Spaghetti)</name>
             <canningMethod>https://nchfp.uga.edu/how/can_04/pumpkin_winter_squash.html</canningMethod>
             <freezingMethod>Preparation – Select firm, mature squash with a hard rind. For spaghetti squash, mashing the cooked pulp is not necessary.
@@ -731,7 +731,7 @@
             <dryingUrl>https://www.wholesomeyum.com/how-to-make-sun-dried-tomatoes-in-the-oven/</dryingUrl>
         </Food>
         <Food>
-            <name>Green Tomatoes</name>
+            <name>Tomatoes Green</name>
             <canningMethod>https://food52.com/recipes/347-grandma-s-canned-tomatoes</canningMethod>
             <freezingMethod>Preparation – Select firm, sound green tomatoes. Wash, core, and slice 1/4-inch thick.
 
