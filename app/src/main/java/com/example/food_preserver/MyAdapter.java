@@ -1,6 +1,5 @@
 package com.example.food_preserver;
 
-import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -8,29 +7,20 @@ import android.widget.Filter;
 import android.widget.Filterable;
 import android.widget.ImageView;
 import android.widget.TextView;
-
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collection;
 import java.util.List;
 
-public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder>  {
+public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder> implements Filterable {
 
-   //  String data1[], data2[];
-  //   int images[];
      List<Food> foodList;
-
+     List<Food> foodListAll;
 
     public MyAdapter(List<Food> fruitsList) {
-    //     context = ct;
-    //    data1 = s1;
-    //    data2 = s2;
-    //    images = img;
         this.foodList = fruitsList;
+        foodListAll = new ArrayList<>(fruitsList);
     }
 
     @NonNull
@@ -55,8 +45,6 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder>  {
 
     }
 
-    /*
-
     @Override
     public Filter getFilter() {
         return filter;
@@ -65,20 +53,17 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder>  {
     Filter filter = new Filter() {
         @Override
         protected FilterResults performFiltering(CharSequence constraint) {
-            List<String> filteredList = new ArrayList<>();
+
+            List<Food> filteredList = new ArrayList<>();
 
             if (constraint == null || constraint.length() == 0) {
-                filteredList.addAll(dataFullList);
+                filteredList.addAll(foodListAll);
             } else {
                 String filterPattern = constraint.toString().toLowerCase().trim();
-
-
-                for (String item : dataFullList) {
-                    if (item.toLowerCase().contains(filterPattern)) {
+                for (Food item : foodListAll) {
+                    if (item.getFoodName().toLowerCase().contains(filterPattern)) {
                         filteredList.add(item);
                     }
-
-
                 }
 
             }
@@ -89,22 +74,15 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder>  {
 
         @Override
         protected void publishResults(CharSequence constraint, FilterResults results) {
-                dataList.clear();
-                dataList.addAll((List) results.values);
+                foodList.clear();
+                foodList.addAll((List) results.values);
                 notifyDataSetChanged();
-
-
         }
     };
-
-
-*/
-
 
     public class MyViewHolder extends RecyclerView.ViewHolder{
         TextView mytext1, mytext2;
         ImageView myImage;
-
 
 
         public MyViewHolder(@NonNull View itemView) {
