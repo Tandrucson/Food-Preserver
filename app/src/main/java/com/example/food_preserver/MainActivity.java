@@ -39,6 +39,9 @@ public class MainActivity extends AppCompatActivity {
                 startIntent.putExtra("com.example.test.SOMETHING", "Hello world");
                 startActivity(startIntent);
 
+                // override the transition for each activity
+                overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left);
+
             }
         });
 

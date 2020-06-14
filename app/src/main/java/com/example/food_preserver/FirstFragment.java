@@ -69,10 +69,7 @@ public class FirstFragment extends Fragment {
         if (getArguments() != null) {
             mParam1 = getArguments().getString(ARG_PARAM1);
             mParam2 = getArguments().getString(ARG_PARAM2);
-
-
         }
-
     }
 
     @Override
@@ -91,9 +88,28 @@ public class FirstFragment extends Fragment {
 
 
         // add fruit items into the arrayList
-        fruitsList.add(new Food("Apples", "Apples", R.drawable.apples));
-        fruitsList.add(new Food("Apples", "Apples", R.drawable.apples));
-        fruitsList.add(new Food("Apples", "Apples", R.drawable.apples));
+        fruitsList.add(new Food("Apples", "", R.drawable.apples));
+        fruitsList.add(new Food("Apricots", "", R.drawable.apricots));
+        fruitsList.add(new Food("Avocados", "", R.drawable.avocados));
+        fruitsList.add(new Food("Banana", "", R.drawable.banana));
+        fruitsList.add(new Food("Berries", "", R.drawable.berries));
+        fruitsList.add(new Food("Cherries", "", R.drawable.cherries));
+        fruitsList.add(new Food("Chokecherries", "", R.drawable.chokecherries));
+        fruitsList.add(new Food("Citrus Fruits", "", R.drawable.citrus_fruits));
+        fruitsList.add(new Food("Crabapple", "", R.drawable.crabapple));
+        fruitsList.add(new Food("Currants Figs", "", R.drawable.currants_figs));
+        fruitsList.add(new Food("Grapes", "", R.drawable.grapes));
+        fruitsList.add(new Food("Melons", "", R.drawable.melons));
+        fruitsList.add(new Food("Mint", "", R.drawable.mint));
+        fruitsList.add(new Food("Peaches", "", R.drawable.peaches));
+        fruitsList.add(new Food("Pears", "", R.drawable.pears));
+        fruitsList.add(new Food("Pineapples", "", R.drawable.pineapple));
+        fruitsList.add(new Food("Plums", "", R.drawable.plums));
+        fruitsList.add(new Food("Quince", "", R.drawable.quince));
+        fruitsList.add(new Food("Rhubarb", "", R.drawable.rhubarb));
+        fruitsList.add(new Food("Strawberries", "", R.drawable.strawberries));
+
+
 
 
 

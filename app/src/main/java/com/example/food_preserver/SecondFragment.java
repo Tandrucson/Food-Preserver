@@ -19,7 +19,9 @@ import java.util.List;
 public class SecondFragment extends Fragment {
 /*
     String s1[], s2[];
-    int images[] = {R.drawable.ic_carrot, R.drawable.ic_fruit, R.drawable.ic_meat,R.drawable.ic_carrot, R.drawable.ic_fruit, R.drawable.ic_meat, R.drawable.ic_meat,R.drawable.ic_carrot, R.drawable.ic_fruit, R.drawable.ic_meat};
+    int images[] = {R.drawable.ic_carrot, R.drawable.ic_fruit, R.drawable.ic_meat,
+    R.drawable.ic_carrot, R.drawable.ic_fruit, R.drawable.ic_meat, R.drawable.ic_meat,
+    R.drawable.ic_carrot, R.drawable.ic_fruit, R.drawable.ic_meat};
 */
 
     RecyclerView recyclerView;
@@ -81,9 +83,49 @@ public class SecondFragment extends Fragment {
         recyclerView.setAdapter(myAdapter);
         recyclerView.setLayoutManager(new LinearLayoutManager(getActivity()));
 
-        vegetablesList.add(new Food("tomato", "tomato", R.drawable.tomatoes));
-        vegetablesList.add(new Food("tomato", "tomato", R.drawable.tomatoes));
-        vegetablesList.add(new Food("tomato", "tomato", R.drawable.tomatoes));
+        vegetablesList.add(new Food("Artichokes", "", R.drawable.artichokes));
+        vegetablesList.add(new Food("Asparagus", "", R.drawable.asparagus));
+        vegetablesList.add(new Food("Beans: Green, Snap, or Wax", "", R.drawable.beans_green_snap_or_wax));
+        vegetablesList.add(new Food("Beans: Lima, Butter, or Pinto", "", R.drawable.beans_lima));
+        vegetablesList.add(new Food("Beets", "", R.drawable.beets));
+        vegetablesList.add(new Food("Broccoli", "", R.drawable.broccoli));
+        vegetablesList.add(new Food("Brussel Sprouts", "", R.drawable.brussel_sprouts));
+        vegetablesList.add(new Food("Cabbage or Chinese Cabbage", "", R.drawable.cabbage_or_chinese_cabbage));
+        vegetablesList.add(new Food("Carrots", "", R.drawable.carrots));
+        vegetablesList.add(new Food("Cauliflower", "", R.drawable.cauliflower));
+        vegetablesList.add(new Food("Celery", "", R.drawable.celery));
+        vegetablesList.add(new Food("Corn", "", R.drawable.corn));
+        vegetablesList.add(new Food("Cucumbers", "", R.drawable.cucumbers));
+        vegetablesList.add(new Food("Eggplant", "", R.drawable.eggplant));
+        vegetablesList.add(new Food("Garlic-in-Oil", "", R.drawable.garlic_in_oil));
+        vegetablesList.add(new Food("Greens (including Spinach)", "", R.drawable.greens_including_spinach));
+        vegetablesList.add(new Food("Fresh Herbs", "", R.drawable.fresh_herbs));
+        vegetablesList.add(new Food("Horseradish", "", R.drawable.horseradish));
+        vegetablesList.add(new Food("Kohlrabi", "", R.drawable.kohlrabi));
+        vegetablesList.add(new Food("Mushrooms", "", R.drawable.mushrooms));
+        vegetablesList.add(new Food("Okra", "", R.drawable.okra));
+        vegetablesList.add(new Food("Onions", "", R.drawable.onions));
+        vegetablesList.add(new Food("Peas Blackeye or Field", "", R.drawable.blackeye_or_field_peas));
+        vegetablesList.add(new Food("Peas Green", "", R.drawable.green_peas));
+        vegetablesList.add(new Food("Peas Pods Edible (Sugar, Chinese, Snow Peas or Sugar Snap Peas)", "", R.drawable.peas_pods));
+        vegetablesList.add(new Food("Peppers Bell or Sweet", "", R.drawable.bell_or_sweet_peppers));
+        vegetablesList.add(new Food("Peppers Hot", "", R.drawable.hot_peppers));
+        vegetablesList.add(new Food("Pimientos", "", R.drawable.pimientos));
+        vegetablesList.add(new Food("Potatoes New Irish", "", R.drawable.new_irish_potatoes));
+        vegetablesList.add(new Food("Potatoes Sweet", "", R.drawable.sweet_potatoes));
+        vegetablesList.add(new Food("Pumpkin", "", R.drawable.pumpkin));
+        vegetablesList.add(new Food("Rhubarb", "", R.drawable.rhubarb));
+        vegetablesList.add(new Food("Rutabagas", "", R.drawable.rutabagas));
+        vegetablesList.add(new Food("Squash Summer", "", R.drawable.summer_squash));
+        vegetablesList.add(new Food("Squash Winter", "", R.drawable.winter_squash));
+        vegetablesList.add(new Food("Tomatoes", "", R.drawable.tomatoes));
+        vegetablesList.add(new Food("Tomatoes Green", "", R.drawable.green_tomatoes));
+        vegetablesList.add(new Food("Turnips or Parsnips", "", R.drawable.turnips_or_parsnips));
+        vegetablesList.add(new Food("Zucchini", "", R.drawable.zucchini));
+
+
+
+
 
         //myAdapter.setOnItemClickListener(onItemClickListener);
 
