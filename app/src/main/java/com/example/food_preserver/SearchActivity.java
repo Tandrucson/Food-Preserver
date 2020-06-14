@@ -89,7 +89,7 @@ public class SearchActivity extends AppCompatActivity {
 
 
         recyclerView = findViewById(R.id.recycler_search);
-        myAdapter = new MyAdapter(foodList);
+        myAdapter = new MyAdapter(this, foodList);
         recyclerView.setAdapter(myAdapter);
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
 
@@ -103,6 +103,7 @@ public class SearchActivity extends AppCompatActivity {
         }
     }
 
+    // search function
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate(R.menu.search_menu, menu);
@@ -122,4 +123,14 @@ public class SearchActivity extends AppCompatActivity {
         });
         return super.onCreateOptionsMenu(menu);
     }
+
+    // override the transition going back in an activity
+    @Override
+    public void finish() {
+        super.finish();
+
+        overridePendingTransition(R.anim.slide_in_left, R.anim.slide_out_right);
+
+    }
+
 }
