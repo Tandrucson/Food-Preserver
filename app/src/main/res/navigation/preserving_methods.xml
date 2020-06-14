@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/preserving_methods"
+    app:startDestination="@id/canning">
+
+    <fragment
+        android:id="@+id/canning"
+        android:name="com.example.food_preserver.canningFragment"
+        android:label="fragment_canning"
+        tools:layout="@layout/fragment_canning" >
+        <action
+            android:id="@+id/action_canning_scroll_to_drying_scroll"
+            app:destination="@id/drying" />
+    </fragment>
+    <fragment
+        android:id="@+id/drying"
+        android:name="com.example.food_preserver.dryingFragment"
+        android:label="fragment_drying"
+        tools:layout="@layout/fragment_drying" >
+        <action
+            android:id="@+id/action_drying_scroll_to_freezing_scroll"
+            app:destination="@id/freezing" />
+    </fragment>
+    <fragment
+        android:id="@+id/freezing"
+        android:name="com.example.food_preserver.freezingFragment"
+        android:label="fragment_freezing"
+        tools:layout="@layout/fragment_freezing" />
+
+</navigation>
