@@ -82,7 +82,7 @@ public class FirstFragment extends Fragment {
 
         //recyclerview implementation in fragment
         recyclerView = view.findViewById(R.id.recyclerView_FirstFragment);
-        MyAdapter myAdapter = new MyAdapter(fruitsList);
+        MyAdapter myAdapter = new MyAdapter(getContext(), fruitsList);
         recyclerView.setAdapter(myAdapter);
         recyclerView.setLayoutManager(new LinearLayoutManager(getActivity()));
 

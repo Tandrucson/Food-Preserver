@@ -61,4 +61,5 @@ public class dryingFragment extends Fragment {
         // Inflate the layout for this fragment
         return inflater.inflate(R.layout.fragment_drying, container, false);
     }
+
 }

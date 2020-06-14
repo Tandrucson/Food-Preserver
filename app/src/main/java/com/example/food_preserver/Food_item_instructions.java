@@ -11,7 +11,7 @@ import android.view.MenuItem;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
-public class Food_item_instructions extends AppCompatActivity {
+public class Food_item_instructions extends AppCompatActivity{
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -21,6 +21,8 @@ public class Food_item_instructions extends AppCompatActivity {
         BottomNavigationView nav = findViewById(R.id.methods);
         NavHostFragment navHostFragment = (NavHostFragment) this.getSupportFragmentManager().findFragmentById(R.id.fragment_container);
         NavigationUI.setupWithNavController(nav,navHostFragment.getNavController());
+
+        //xmlpullparser code here
 
 //        nav.setOnNavigationItemSelectedListener(navListener);
 //

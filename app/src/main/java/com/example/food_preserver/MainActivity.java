@@ -14,7 +14,6 @@ public class MainActivity extends AppCompatActivity {
 
 
 /* recyclerview initial values
-
      RecyclerView recyclerView;
      String s1[], s2[];
      int images[] = {R.drawable.ic_carrot, R.drawable.ic_fruit, R.drawable.ic_meat};
@@ -57,7 +56,6 @@ public class MainActivity extends AppCompatActivity {
 
 
 /*     recyclerview implementation in MainActivity Template
-
           recyclerView = findViewById(R.id.recyclerView);
           s1 = getResources().getStringArray(R.array.programming_languages);
           s2 = getResources().getStringArray(R.array.description);

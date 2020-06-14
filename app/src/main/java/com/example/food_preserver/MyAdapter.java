@@ -1,5 +1,7 @@
 package com.example.food_preserver;
 
+import android.content.Context;
+import android.content.Intent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -18,9 +20,17 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder> impl
      List<Food> foodList;
      List<Food> foodListAll;
 
-    public MyAdapter(List<Food> fruitsList) {
-        this.foodList = fruitsList;
-        foodListAll = new ArrayList<>(fruitsList);
+     private View.OnClickListener mOnItemClickListener;
+     Context context;
+
+    public MyAdapter(Context context, List<Food> foodList) {
+    //     context = ct;
+    //    data1 = s1;
+    //    data2 = s2;
+    //    images = img;
+        foodListAll = new ArrayList<>(foodList);
+        this.foodList = foodList;
+        this.context = context;
     }
 
     @NonNull
@@ -32,18 +42,29 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder> impl
     }
 
     @Override
-    public void onBindViewHolder(@NonNull MyViewHolder holder, int position) {
+    public void onBindViewHolder(@NonNull final MyViewHolder holder, int position) {
         holder.mytext1.setText(foodList.get(position).getFoodName());
         holder.mytext2.setText(foodList.get(position).getDescription());
         holder.myImage.setImageResource(foodList.get(position).getImage());
+        holder.itemView.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                int position = holder.getAdapterPosition();
+                final Intent intent;
+                intent = new Intent(context, Food_item_instructions.class);
+                //intent.putExtra("image", mCurrent.imageUrl);
+                intent.putExtra("position", position);
+                context.startActivity(intent);
+            }
+        });
     }
 
     @Override
     public int getItemCount() {
         return foodList.size();
-
-
     }
+
+
 
     @Override
     public Filter getFilter() {
@@ -91,7 +112,8 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder> impl
             mytext2 = itemView.findViewById(R.id.myText2);
             myImage = itemView.findViewById(R.id.myImageView);
 
-
+            itemView.setTag(this);
+            itemView.setOnClickListener(mOnItemClickListener);
         }
     }
 }

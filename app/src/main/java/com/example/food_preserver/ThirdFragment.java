@@ -80,7 +80,7 @@ public class ThirdFragment extends Fragment {
         //recyclerview implementation in fragment
         recyclerView = view.findViewById(R.id.recyclerView_ThirdFragment);
 
-        MyAdapter myAdapter = new MyAdapter(meatsList);
+        MyAdapter myAdapter = new MyAdapter(getContext(), meatsList);
         recyclerView.setAdapter(myAdapter);
         recyclerView.setLayoutManager(new LinearLayoutManager(getActivity()));
 
@@ -88,9 +88,6 @@ public class ThirdFragment extends Fragment {
         meatsList.add(new Food("chicken", "chicken", R.drawable.chicken));
         //meatsList.add(new Food("", "chicken", R.drawable.));
         //meatsList.add(new Food("", "chicken", R.drawable.));
-
-
-
 
         return view;
 

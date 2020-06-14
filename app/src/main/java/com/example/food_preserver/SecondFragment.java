@@ -79,7 +79,7 @@ public class SecondFragment extends Fragment {
         //recyclerview implementation in fragment
         recyclerView = view.findViewById(R.id.recyclerView_SecondFragment);
 
-        MyAdapter myAdapter = new MyAdapter(vegetablesList);
+        MyAdapter myAdapter = new MyAdapter(getContext(), vegetablesList);
         recyclerView.setAdapter(myAdapter);
         recyclerView.setLayoutManager(new LinearLayoutManager(getActivity()));
 
@@ -127,6 +127,7 @@ public class SecondFragment extends Fragment {
 
 
 
+        //myAdapter.setOnItemClickListener(onItemClickListener);
 
         return view;
     }
