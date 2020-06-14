@@ -1,7 +1,6 @@
 package com.example.food_preserver;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 
 public class Menu extends AppCompatActivity {

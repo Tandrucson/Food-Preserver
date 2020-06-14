@@ -1,18 +1,14 @@
 package com.example.food_preserver;
-
+import android.os.Bundle;
+import android.view.Menu;
+import android.view.MenuItem;
+import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.SearchView;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
-import android.view.View;
-import android.widget.TextView;
-
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class SearchActivity extends AppCompatActivity {
@@ -20,25 +16,27 @@ public class SearchActivity extends AppCompatActivity {
     //global variables for recyclerview
     RecyclerView recyclerView;
     MyAdapter myAdapter;
+    List<Food> foodList;
 
-
-    /*
-    String s1[], s2[];
-    int images[] = {R.drawable.apples, R.drawable.apricots, R.drawable.avocados,R.drawable.banana, R.drawable.berries, R.drawable.cherries, R.drawable.chokecherries,
-            R.drawable.citrus_fruits, R.drawable.crabapple, R.drawable.currants_figs, R.drawable.grapes, R.drawable.melons, R.drawable.mint, R.drawable.peaches,
-            R.drawable.pears, R.drawable.pineapple, R.drawable.plums, R.drawable.quince, R.drawable.rhubarb,R.drawable.strawberries};
-*/
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_search);
-/*
-        recyclerView = findViewById(R.id.recycler_search);
 
-        MyAdapter myAdapter = new MyAdapter();
+        foodList = new ArrayList<>();
+
+        foodList.add(new Food("Apples", "Apples", R.drawable.apples));
+        foodList.add(new Food("Grapes", "Apples", R.drawable.apples));
+        foodList.add(new Food("Banana", "Apples", R.drawable.apples));
+
+
+        recyclerView = findViewById(R.id.recycler_search);
+        myAdapter = new MyAdapter(foodList);
         recyclerView.setAdapter(myAdapter);
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
+
+
 
 
 
@@ -48,10 +46,6 @@ public class SearchActivity extends AppCompatActivity {
             String text = getIntent().getExtras().getString("com.example.test.SOMETHING");
 
         }
-
-
-
-
     }
 
     @Override
@@ -67,16 +61,10 @@ public class SearchActivity extends AppCompatActivity {
 
             @Override
             public boolean onQueryTextChange(String newText) {
-                if (myAdapter != null) {
                     myAdapter.getFilter().filter(newText);
-                }
                 return false;
-
             }
         });
-
         return super.onCreateOptionsMenu(menu);
-*/
-
     }
 }
