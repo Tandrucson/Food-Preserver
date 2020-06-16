@@ -1,6 +1,5 @@
 package com.example.food_preserver;
 
-import android.app.Activity;
 import android.os.Bundle;
 import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.LinearLayoutManager;
@@ -8,13 +7,6 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-
-import org.xmlpull.v1.XmlPullParser;
-import org.xmlpull.v1.XmlPullParserException;
-import org.xmlpull.v1.XmlPullParserFactory;
-
-import java.io.IOException;
-import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -33,11 +25,7 @@ public class ThirdFragment extends Fragment {
 */
 
     RecyclerView recyclerView;
-
-    ArrayList<Food> foodList = new ArrayList<>();
-    Food foods;
-    int imageURI;
-    Activity act;
+    List<Food> meatsList;
 
 
     // TODO: Rename parameter arguments, choose names that match
@@ -87,59 +75,20 @@ public class ThirdFragment extends Fragment {
         // Inflate the layout for this fragment
         View view = inflater.inflate(R.layout.fragment_third, container, false);
 
-        act = getActivity();
-
-        try {
-            InputStream inputStream = getActivity().getAssets().open("meats.xml");
-            XmlPullParserFactory parserFactory = XmlPullParserFactory.newInstance();
-            XmlPullParser parser = parserFactory.newPullParser();
-            parser.setFeature(XmlPullParser.FEATURE_PROCESS_NAMESPACES,false);
-            parser.setInput(inputStream,null);
-            String tag = "" , text = "";
-            int event = parser.getEventType();
-            while (event!= XmlPullParser.END_DOCUMENT){
-                tag = parser.getName();
-                switch (event) {
-                    case XmlPullParser.START_TAG:
-                        if(tag.equals("Food"))
-                            foods = new Food();
-                        break;
-                    case XmlPullParser.TEXT:
-                        text=parser.getText();
-                        break;
-                    case XmlPullParser.END_TAG:
-                        switch (tag) {
-                            case "name": foods.setName(text);
-                                break;
-                            case "image": foods.setImageURL(text);
-                                imageURI = act.getResources().getIdentifier(text, "drawable", act.getPackageName());
-                                foods.setImage(imageURI);
-                                break;
-                            case "type": foods.setType(text);
-                                break;
-                            case "Food":
-                                if(foods!=null)
-                                    foodList.add(foods);
-                                break;
-                        }
-                        break;
-                }
-                event = parser.next();
-            }
-        }
-        catch (IOException e) {
-            e.printStackTrace();
-        } catch (XmlPullParserException e) {
-            e.printStackTrace();
-        }
-
+        meatsList = new ArrayList<>();
 
         //recyclerview implementation in fragment
         recyclerView = view.findViewById(R.id.recyclerView_ThirdFragment);
 
-        MyAdapter myAdapter = new MyAdapter(getContext(), foodList);
+        MyAdapter myAdapter = new MyAdapter(getContext(), meatsList);
         recyclerView.setAdapter(myAdapter);
         recyclerView.setLayoutManager(new LinearLayoutManager(getActivity()));
+
+        //1 meat item
+        meatsList.add(new Food("Chicken", "Meat", R.drawable.chicken));
+        meatsList.add(new Food("Red Meat", "Meat", R.drawable.red_meat));
+        meatsList.add(new Food("Fish", "Meat", R.drawable.fish));
+        //meatsList.add(new Food("", "chicken", R.drawable.));
 
         return view;
 
