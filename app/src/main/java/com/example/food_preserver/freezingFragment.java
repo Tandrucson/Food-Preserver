@@ -32,9 +32,10 @@ public class freezingFragment extends Fragment {
 
     private static final String ARG_TEXT = "argText";
     private static final String ARG_NUMBER = "argNumber";
-    ArrayList<Methods> foodList = new ArrayList<>();
-    Methods foods;
+    ArrayList<Food> foodList = new ArrayList<>();
+    Food foods;
     TextView freezingDetails;
+    int vegetable, fruit, meat;
 
     // TODO: Rename and change types of parameters
     private String mParam1;
@@ -83,7 +84,7 @@ public class freezingFragment extends Fragment {
                 switch (event) {
                     case XmlPullParser.START_TAG:
                         if(tag.equals("Food"))
-                            foods = new Methods();
+                            foods = new Food();
                         break;
                     case XmlPullParser.TEXT:
                         text=parser.getText();
@@ -95,6 +96,15 @@ public class freezingFragment extends Fragment {
                             case "freezingMethod": foods.setFreezingMethod(text);
                                 break;
                             case "type": foods.setType(text);
+                                if(text.equals("vegetable")) {
+                                    vegetable++;
+                                }
+                                if(text.equals("fruit")) {
+                                    fruit++;
+                                }
+                                if(text.equals("meat")) {
+                                    meat++;
+                                }
                                 break;
                             case "Food":
                                 if(foods!=null)
@@ -132,9 +142,9 @@ public class freezingFragment extends Fragment {
         if(type.toLowerCase().equals("vegetable"))
             freezing = foodList.get(position).getFreezingMethod();
         if(type.toLowerCase().equals("fruit"))
-            freezing = foodList.get(position + 39).getFreezingMethod();
+            freezing = foodList.get(position + vegetable).getFreezingMethod();
         if(type.toLowerCase().equals("meat"))
-            freezing = foodList.get(position + 59).getFreezingMethod();
+            freezing = foodList.get(position + vegetable + fruit).getFreezingMethod();
 
         freezingDetails = v.findViewById(R.id.freezing);
 

@@ -11,9 +11,10 @@ public class Food {
     private String foodName;
     private String description;
     private int image;
+    private String imageURL;
+    private String type;
 
-
-    public Food(String foodName, String description, int image) {
+    public Food() {
         this.foodName = foodName;
         this.description = description;
         this.image = image;
@@ -78,6 +79,38 @@ public class Food {
 
     public int getImage() {
         return image;
+    }
+
+    public String getimageURL() {return imageURL; }
+
+    public String getType() { return type; }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setImageURL(String imageURL) {
+        this.imageURL = imageURL;
+    }
+
+    public void setImage(int image) {
+        this.image = image;
+    }
+
+    public void setType(String type) {
+        this.type = type;
+    }
+
+    public void setCanningMethod(String canningMethod) {
+        this.canningMethod = canningMethod;
+    }
+
+    public void setFreezingMethod(String freezingMethod) {
+        this.freezingMethod = freezingMethod;
+    }
+
+    public void setDryingMethod(String dryingMethod) {
+        this.dryingMethod = dryingMethod;
     }
 
     //Set methods shouldn't be needed

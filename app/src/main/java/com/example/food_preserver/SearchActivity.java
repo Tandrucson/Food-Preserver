@@ -1,4 +1,5 @@
 package com.example.food_preserver;
+import android.app.Activity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -8,6 +9,12 @@ import androidx.appcompat.widget.SearchView;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import org.xmlpull.v1.XmlPullParser;
+import org.xmlpull.v1.XmlPullParserException;
+import org.xmlpull.v1.XmlPullParserFactory;
+
+import java.io.IOException;
+import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -18,6 +25,9 @@ public class SearchActivity extends AppCompatActivity {
     MyAdapter myAdapter;
     List<Food> foodList;
 
+    Food foods;
+    int imageURI;
+    int vegetable, fruit, meat;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -26,68 +36,58 @@ public class SearchActivity extends AppCompatActivity {
 
         foodList = new ArrayList<>();
 
-        foodList.add(new Food("Apples", "", R.drawable.apples));
-        foodList.add(new Food("Apricots", "", R.drawable.apricots));
-        foodList.add(new Food("Artichokes", "", R.drawable.artichokes));
-        foodList.add(new Food("Asparagus", "", R.drawable.asparagus));
-        foodList.add(new Food("Avocados", "", R.drawable.avocados));
-        foodList.add(new Food("Banana", "", R.drawable.banana));
-        foodList.add(new Food("Beans: Green, Snap, or Wax", "", R.drawable.beans_green_snap_or_wax));
-        foodList.add(new Food("Beans: Lima, Butter, or Pinto", "", R.drawable.beans_lima));
-        foodList.add(new Food("Beets", "", R.drawable.beets));
-        foodList.add(new Food("Berries", "", R.drawable.berries));
-        foodList.add(new Food("Broccoli", "", R.drawable.broccoli));
-        foodList.add(new Food("Brussel Sprouts", "", R.drawable.brussel_sprouts));
-        foodList.add(new Food("Cabbage or Chinese Cabbage", "", R.drawable.cabbage_or_chinese_cabbage));
-        foodList.add(new Food("Carrots", "", R.drawable.carrots));
-        foodList.add(new Food("Cauliflower", "", R.drawable.cauliflower));
-        foodList.add(new Food("Celery", "", R.drawable.celery));
-        foodList.add(new Food("Cherries", "", R.drawable.cherries));
-        foodList.add(new Food("Chicken", "", R.drawable.chicken));
-        foodList.add(new Food("Chokecherries", "", R.drawable.chokecherries));
-        foodList.add(new Food("Citrus Fruits", "", R.drawable.citrus_fruits));
-        foodList.add(new Food("Corn", "", R.drawable.corn));
-        foodList.add(new Food("Crabapple", "", R.drawable.crabapple));
-        foodList.add(new Food("Cucumbers", "", R.drawable.cucumbers));
-        foodList.add(new Food("Currants Figs", "", R.drawable.currants_figs));
-        foodList.add(new Food("Eggplant", "", R.drawable.eggplant));
-        foodList.add(new Food("Garlic-in-Oil", "", R.drawable.garlic_in_oil));
-        foodList.add(new Food("Grapes", "", R.drawable.grapes));
-        foodList.add(new Food("Greens (including Spinach)", "", R.drawable.greens_including_spinach));
-        foodList.add(new Food("Fresh Herbs", "", R.drawable.fresh_herbs));
-        foodList.add(new Food("Horseradish", "", R.drawable.horseradish));
-        foodList.add(new Food("Kohlrabi", "", R.drawable.kohlrabi));
-        foodList.add(new Food("Melons", "", R.drawable.melons));
-        foodList.add(new Food("Mint", "", R.drawable.mint));
-        foodList.add(new Food("Mushrooms", "", R.drawable.mushrooms));
-        foodList.add(new Food("Okra", "", R.drawable.okra));
-        foodList.add(new Food("Onions", "", R.drawable.onions));
-        foodList.add(new Food("Peaches", "", R.drawable.peaches));
-        foodList.add(new Food("Pears", "", R.drawable.pears));
-        foodList.add(new Food("Peas Blackeye or Field", "", R.drawable.blackeye_or_field_peas));
-        foodList.add(new Food("Peas Green", "", R.drawable.green_peas));
-        foodList.add(new Food("Peas Pods Edible (Sugar, Chinese, Snow Peas or Sugar Snap Peas)", "", R.drawable.peas_pods));
-        foodList.add(new Food("Peppers Bell or Sweet", "", R.drawable.bell_or_sweet_peppers));
-        foodList.add(new Food("Peppers Hot", "", R.drawable.hot_peppers));
-        foodList.add(new Food("Pimientos", "", R.drawable.pimientos));
-        foodList.add(new Food("Pineapples", "", R.drawable.pineapple));
-        foodList.add(new Food("Plums", "", R.drawable.plums));
-        foodList.add(new Food("Potatoes New Irish", "", R.drawable.new_irish_potatoes));
-        foodList.add(new Food("Potatoes Sweet", "", R.drawable.sweet_potatoes));
-        foodList.add(new Food("Pumpkin", "", R.drawable.pumpkin));
-        foodList.add(new Food("Quince", "", R.drawable.quince));
-        foodList.add(new Food("Red Meat", "", R.drawable.red_meat));
-        foodList.add(new Food("Rhubarb", "", R.drawable.rhubarb));
-        foodList.add(new Food("Rutabagas", "", R.drawable.rutabagas));
-        foodList.add(new Food("Squash Summer", "", R.drawable.summer_squash));
-        foodList.add(new Food("Squash Winter", "", R.drawable.winter_squash));
-        foodList.add(new Food("Strawberries", "", R.drawable.strawberries));
-        foodList.add(new Food("Tomatoes", "", R.drawable.tomatoes));
-        foodList.add(new Food("Tomatoes Green", "", R.drawable.green_tomatoes));
-        foodList.add(new Food("Turnips or Parsnips", "", R.drawable.turnips_or_parsnips));
-        foodList.add(new Food("Zucchini", "", R.drawable.zucchini));
-
-
+        try {
+            InputStream inputStream = getAssets().open("vegetablesv1.xml");
+            XmlPullParserFactory parserFactory = XmlPullParserFactory.newInstance();
+            XmlPullParser parser = parserFactory.newPullParser();
+            parser.setFeature(XmlPullParser.FEATURE_PROCESS_NAMESPACES,false);
+            parser.setInput(inputStream,null);
+            String tag = "" , text = "";
+            int event = parser.getEventType();
+            while (event!= XmlPullParser.END_DOCUMENT){
+                tag = parser.getName();
+                switch (event) {
+                    case XmlPullParser.START_TAG:
+                        if(tag.equals("Food"))
+                            foods = new Food();
+                        break;
+                    case XmlPullParser.TEXT:
+                        text=parser.getText();
+                        break;
+                    case XmlPullParser.END_TAG:
+                        switch (tag) {
+                            case "name": foods.setName(text);
+                                break;
+                            case "image": foods.setImageURL(text);
+                                imageURI = getResources().getIdentifier(text, "drawable", getPackageName());
+                                foods.setImage(imageURI);
+                                break;
+                            case "type": foods.setType(text);
+                                if(text.equals("vegetable")) {
+                                    vegetable++;
+                                }
+                                if(text.equals("fruit")) {
+                                    fruit++;
+                                }
+                                if(text.equals("meat")) {
+                                    meat++;
+                                }
+                                break;
+                            case "Food":
+                                if(foods!=null)
+                                    foodList.add(foods);
+                                break;
+                        }
+                        break;
+                }
+                event = parser.next();
+            }
+        }
+        catch (IOException e) {
+            e.printStackTrace();
+        } catch (XmlPullParserException e) {
+            e.printStackTrace();
+        }
 
         recyclerView = findViewById(R.id.recycler_search);
         myAdapter = new MyAdapter(this, foodList);

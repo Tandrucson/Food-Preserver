@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <Fruits>
-        <Food>
-            <name>Apples</name>
-            <image>apples</image>
-            <canningMethod>Quantity: An average of 19 pounds is needed per canner load of 7 quarts; an average of 12-1/4 pounds is needed per canner load of 9 pints. A bushel weighs 48 pounds and yields 16 to 19 quarts-an average of 2-3/4 pounds per quart.
-                Quality: Select apples that are juicy, crispy, and preferably both sweet and tart.
+    <Food>
+        <name>Apples</name>
+        <image>apples</image>
+        <canningMethod>Quantity: An average of 19 pounds is needed per canner load of 7 quarts; an average of 12-1/4 pounds is needed per canner load of 9 pints. A bushel weighs 48 pounds and yields 16 to 19 quarts-an average of 2-3/4 pounds per quart.
+            Quality: Select apples that are juicy, crispy, and preferably both sweet and tart.
 
                 Please read Using Pressure Canners and Using Boiling Water Canners before beginning. If this is your first time canning, it is recommended that you read Principles of Home Canning.
 
@@ -29,11 +29,12 @@
             <canningUrl>https://nchfp.uga.edu/how/can_02/apple_sliced.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/apple.html</freezingUrl>
             <dryingUrl>https://www.shelovesbiscotti.com/homemade-oven-baked-apple-chips/</dryingUrl>
+            <type>fruit</type>
         </Food>
-        <Food>
-            <name>Apricots</name>
-            <image>apricots</image>
-            <canningMethod>Quantity: An average of 16 pounds is needed per canner load of 7 quarts; an average of 10 pounds is needed per canner load of 9 pints. A bushel weighs 50 pounds and yields 20 to 25 quarts-an average of 2¼ pounds per quart.
+    <Food>
+        <name>Apricots</name>
+        <image>apricots</image>
+        <canningMethod>Quantity: An average of 16 pounds is needed per canner load of 7 quarts; an average of 10 pounds is needed per canner load of 9 pints. A bushel weighs 50 pounds and yields 20 to 25 quarts-an average of 2¼ pounds per quart.
 
                 Quality: Select firm, well-colored mature fruit of ideal quality for eating fresh.
 
@@ -59,11 +60,12 @@
                 Sugar Pack – Before combining apricots with sugar, give the fruit the following treatment to prevent darkening:
 
                 Dissolve 1/4 teaspoon (750 mg) ascorbic acid in 3 tablespoons cold water and sprinkle over 1 quart (7/8 pound) of fruit. Mix 1/2 cup sugar with each quart of fruit. Stir until sugar is dissolved. Pack apricots into containers and press down until fruit is covered with juice, leaving headspace. Place a small piece of crumpled water-resistant paper on top to hold fruit down. Seal and freeze.</freezingMethod>
-            <dryingMethod>https://www.wikihow.com/Dry-Apricots#:~:text=Line%20a%20baking%20sheet%20with,to%20dry%20apricots%2C%20read%20on!</dryingMethod>
-            <canningUrl>https://nchfp.uga.edu/how/can_02/apricot_sliced.html</canningUrl>
-            <freezingUrl>https://nchfp.uga.edu/how/freeze/apricot.html</freezingUrl>
-            <dryingUrl>https://www.wikihow.com/Dry-Apricots#:~:text=Line%20a%20baking%20sheet%20with,to%20dry%20apricots%2C%20read%20on!</dryingUrl>
-        </Food>
+        <dryingMethod>https://www.wikihow.com/Dry-Apricots#:~:text=Line%20a%20baking%20sheet%20with,to%20dry%20apricots%2C%20read%20on!</dryingMethod>
+        <canningUrl>https://nchfp.uga.edu/how/can_02/apricot_sliced.html</canningUrl>
+        <freezingUrl>https://nchfp.uga.edu/how/freeze/apricot.html</freezingUrl>
+        <dryingUrl>https://www.wikihow.com/Dry-Apricots#:~:text=Line%20a%20baking%20sheet%20with,to%20dry%20apricots%2C%20read%20on!</dryingUrl>
+        <type>fruit</type>
+    </Food>
         <Food>
             <name>Avocados</name>
             <image>avocados</image>
@@ -95,6 +97,7 @@
             <canningUrl>http://www.homepreservingbible.com/2724-avocado-preserving-methods/</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/avocado.html</freezingUrl>
             <dryingUrl>https://www.dryingallfoods.com/dehydrating-avocado/</dryingUrl>
+            <type>fruit</type>
         </Food>
         <Food>
             <name>Bananas</name>
@@ -107,6 +110,7 @@
             <canningUrl>https://www.healthycanning.com/canning-bananas/</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/banana.html</freezingUrl>
             <dryingUrl>https://naturallyella.com/baked-banana-chips/#:~:text=Slice%20bananas%20into%201%2F16,out%2C%202%2D3%20hours.</dryingUrl>
+            <type>fruit</type>
         </Food>
         <Food>
             <name>Berries</name>
@@ -121,6 +125,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_02/berries_whole.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/blueberry.html</freezingUrl>
             <dryingUrl>https://jomygosh.com/2015/01/easiest-way-to-dry-blueberries-ever/</dryingUrl>
+            <type>fruit</type>
         </Food>
         <Food>
             <name>Cherries</name>
@@ -144,6 +149,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_02/cherry_whole.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/cherry_sweet.html</freezingUrl>
             <dryingUrl>https://www.thespruceeats.com/how-to-dry-cherries-dehydrator-method-1327532</dryingUrl>
+            <type>fruit</type>
         </Food>
         <Food>
             <name>Chokecherries</name>
@@ -181,6 +187,7 @@
             <canningUrl>https://www.theprairiehomestead.com/2012/08/how-to-make-chokecherry-jelly-low-sugar-and-honey-variations.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/cherry_sour.html</freezingUrl>
             <dryingUrl>https://openprairie.sdstate.edu/cgi/viewcontent.cgi?article=1485&amp;context=extension_extra#:~:text=Lay%20the%20patties%20on%20a,hot%2C%20soapy%20water%20and%20dried.&amp;text=Leave%20about%201%2F2%20inch,occur%20throughout%20the%20drying%20process.&amp;text=Chokecherry%20patties%20will%20take%2012%2D16%20hours%20to%20dry.</dryingUrl>
+            <type>fruit</type>
         </Food>
         <Food>
             <name>Citrus Fruits</name> <!--lemon curd-->
@@ -191,6 +198,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_02/lemon_curd.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/freezer_lemoncurd.html</freezingUrl>
             <dryingUrl>https://www.trail.recipes/dehydrating123/dehydrating123-why-and-how-to-dehydrate-citrus-fruits/</dryingUrl>
+            <type>fruit</type>
         </Food>
         <Food>
             <name>Crabapple</name>
@@ -201,6 +209,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_02/crab_apple_spiced.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/apple.html</freezingUrl>
             <dryingUrl>https://homecookedvegan.blogspot.com/2016/01/dehydrated-crab-apples.html</dryingUrl>
+            <type>fruit</type>
         </Food>
         <Food>
             <name>Currants Figs</name>
@@ -211,6 +220,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_02/fig.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/fig.html</freezingUrl>
             <dryingUrl>https://www.wikihow.com/Dry-Figs#:~:text=To%20dry%20figs%2C%20start%20by,for%20up%20to%2036%20hours.</dryingUrl>
+            <type>fruit</type>
         </Food>
         <Food>
             <name>Grapes</name>
@@ -221,6 +231,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_02/grapes_whole.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/grape.html</freezingUrl>
             <dryingUrl>https://www.seriouseats.com/recipes/2017/02/oven-dried-grapes-raisins-recipe.html</dryingUrl>
+            <type>fruit</type>
         </Food>
         <Food>
             <name>Melons</name>
@@ -231,6 +242,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_02/green_mangoes.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/melon.html</freezingUrl>
             <dryingUrl>http://www.homepreservingbible.com/888-how-to-dry-melon-slices/</dryingUrl>
+            <type>fruit</type>
         </Food>
         <Food>
             <name>Mint/Herbs</name>
@@ -241,6 +253,7 @@
             <canningUrl>https://canningdiva.com/canning-mint-jelly/</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/herbs.html</freezingUrl>
             <dryingUrl>https://www.thespruce.com/how-to-dry-and-store-herbs-1403397</dryingUrl>
+            <type>fruit</type>
         </Food>
         <Food>
             <name>Peaches</name>
@@ -251,6 +264,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_02/peach_sliced.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/peach.html</freezingUrl>
             <dryingUrl>https://www.thespruceeats.com/dry-peaches-in-a-dehydrator-1327526</dryingUrl>
+            <type>fruit</type>
         </Food>
         <Food>
             <name>Pears</name>
@@ -261,6 +275,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_02/pear_halved.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/pear.html</freezingUrl>
             <dryingUrl>https://www.thespruceeats.com/how-to-dry-pears-in-dehydrator-1327580</dryingUrl>
+            <type>fruit</type>
         </Food>
         <Food>
             <name>Pineapple</name>
@@ -271,6 +286,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_02/pineapple.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/pineapple.html</freezingUrl>
             <dryingUrl>https://selfproclaimedfoodie.com/oven-dried-pineapple/</dryingUrl>
+            <type>fruit</type>
         </Food>
         <Food>
             <name>Plums</name>
@@ -281,6 +297,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_02/plum_halved.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/plum.html</freezingUrl>
             <dryingUrl>https://frugalfamilyhome.com/food/drying-foods/how-to-dry-plums</dryingUrl>
+            <type>fruit</type>
         </Food>
         <Food>
             <name>Quince</name>
@@ -291,17 +308,19 @@
             <canningUrl>https://nchfp.uga.edu/how/can_02/asian_pears.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/pear.html</freezingUrl>
             <dryingUrl>http://www.homepreservingbible.com/wp-content/uploads/2013/11/Preserving-Apples-Pears-and-Quince.pdf</dryingUrl>
+            <type>fruit</type>
         </Food>
-        <Food>
-            <name>Rhubarb</name>
-            <image>rhubarb</image>
-            <canningMethod>https://nchfp.uga.edu/how/can_02/rhubarb_stewed.html</canningMethod>
-            <freezingMethod>https://nchfp.uga.edu/how/freeze/rhubarb.html</freezingMethod>
-            <dryingMethod>https://madaboutmacarons.com/dried-rhubarb-chips/</dryingMethod>
-            <canningUrl>https://nchfp.uga.edu/how/can_02/rhubarb_stewed.html</canningUrl>
-            <freezingUrl>https://nchfp.uga.edu/how/freeze/rhubarb.html</freezingUrl>
-            <dryingUrl>https://madaboutmacarons.com/dried-rhubarb-chips/</dryingUrl>
-        </Food>
+<!--        <Food>-->
+<!--            <name>Rhubarb</name>-->
+<!--            <image>rhubarb</image>-->
+<!--            <canningMethod>https://nchfp.uga.edu/how/can_02/rhubarb_stewed.html</canningMethod>-->
+<!--            <freezingMethod>https://nchfp.uga.edu/how/freeze/rhubarb.html</freezingMethod>-->
+<!--            <dryingMethod>https://madaboutmacarons.com/dried-rhubarb-chips/</dryingMethod>-->
+<!--            <canningUrl>https://nchfp.uga.edu/how/can_02/rhubarb_stewed.html</canningUrl>-->
+<!--            <freezingUrl>https://nchfp.uga.edu/how/freeze/rhubarb.html</freezingUrl>-->
+<!--            <dryingUrl>https://madaboutmacarons.com/dried-rhubarb-chips/</dryingUrl>-->
+<!--            <type>fruit</type>-->
+<!--        </Food>-->
         <Food>
             <name>Strawberries</name>
             <image>strawberries</image>
@@ -311,7 +330,8 @@
             <canningUrl>https://nchfp.uga.edu/how/can_02/berries_whole.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/strawberry.html</freezingUrl>
             <dryingUrl>https://www.shelovesbiscotti.com/oven-dried-strawberries/</dryingUrl>
+            <type>fruit</type>
         </Food>
-
     </Fruits>
+
 </resources>

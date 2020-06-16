@@ -31,8 +31,9 @@ public class canningFragment extends Fragment {
     // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
     private static final String ARG_TEXT = "argText";
     private static final String ARG_NUMBER = "argNumber";
-    ArrayList<Methods> foodList = new ArrayList<>();
-    Methods foods;
+    ArrayList<Food> foodList = new ArrayList<>();
+    Food foods;
+    int vegetable, fruit, meat;
 
     TextView canningDetails;
 
@@ -83,7 +84,7 @@ public class canningFragment extends Fragment {
                 switch (event) {
                     case XmlPullParser.START_TAG:
                         if(tag.equals("Food"))
-                            foods = new Methods();
+                            foods = new Food();
                         break;
                     case XmlPullParser.TEXT:
                         text=parser.getText();
@@ -95,6 +96,15 @@ public class canningFragment extends Fragment {
                             case "canningMethod": foods.setCanningMethod(text);
                                 break;
                             case "type": foods.setType(text);
+                                if(text.equals("vegetable")) {
+                                    vegetable++;
+                                }
+                                if(text.equals("fruit")) {
+                                    fruit++;
+                                }
+                                if(text.equals("meat")) {
+                                    meat++;
+                                }
                                 break;
                             case "Food":
                                 if(foods!=null)
@@ -140,9 +150,9 @@ public class canningFragment extends Fragment {
         if(type.toLowerCase().equals("vegetable"))
             canning = foodList.get(position).getCanningMethod();
         if(type.toLowerCase().equals("fruit"))
-            canning = foodList.get(position + 39).getCanningMethod();
+            canning = foodList.get(position + vegetable).getCanningMethod();
         if(type.toLowerCase().equals("meat"))
-            canning = foodList.get(position + 59).getCanningMethod();
+            canning = foodList.get(position + vegetable + fruit).getCanningMethod();
 
         canningDetails = v.findViewById(R.id.canning);
 

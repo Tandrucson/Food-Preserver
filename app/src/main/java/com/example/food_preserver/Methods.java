@@ -1,11 +1,12 @@
 package com.example.food_preserver;
 
-public class Methods {
+public class Methods extends Food{
     private String name;
     private String canningMethod;
     private String freezingMethod;
     private String dryingMethod;
     private String type;
+    private String image;
 
     public Methods() {
 
@@ -37,18 +38,6 @@ public class Methods {
 
     public void setType(String type) {
         this.type = type;
-    }
-
-    public void setCanningMethod(String canningMethod) {
-        this.canningMethod = canningMethod;
-    }
-
-    public void setFreezingMethod(String freezingMethod) {
-        this.freezingMethod = freezingMethod;
-    }
-
-    public void setDryingMethod(String dryingMethod) {
-        this.dryingMethod = dryingMethod;
     }
 
     @Override
