@@ -61,6 +61,7 @@
             <canningUrl>https://www.washingtonpost.com/recipes/home-canned-artichoke-hearts/14027/</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/artichoke.html</freezingUrl>
             <dryingUrl>https://www.homestratosphere.com/how-to-store-artichokes/</dryingUrl>
+            <type>vegetable</type>
         </Food>
         <Food>
             <name>Asparagus</name>
@@ -88,6 +89,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_04/asparagus_spears.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/asparagus.html</freezingUrl>
             <dryingUrl>https://preparednessmama.com/dehydrating-asparagus/</dryingUrl>
+            <type>vegetable</type>
         </Food>
         <Food>
             <name>Beans: Green, Snap, or Wax</name>
@@ -111,6 +113,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_04/beans_snap_italian.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/bean_green.html</freezingUrl>
             <dryingUrl>https://www.thespruceeats.com/how-to-store-dried-beans-1389336#:~:text=Storing%20the%20Beans&amp;text=Transfer%20your%20dried%20beans%20to,dry%20place%20away%20from%20sunlight.</dryingUrl>
+            <type>vegetable</type>
         </Food>
         <Food>
             <name>Beans: Lima, Butter, or Pinto</name>
@@ -147,6 +150,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_04/beans_peas_shelled.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/bean_lima.html</freezingUrl>
             <dryingUrl>https://www.allotment-garden.org/recipe/drying-dehydrating/drying-beans-peas/</dryingUrl>
+            <type>vegetable</type>
         </Food>
         <Food>
             <name>Beets</name>
@@ -189,6 +193,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_04/beets.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/beet.html</freezingUrl>
             <dryingUrl>https://homesteady.com/13406978/how-to-dry-out-beets</dryingUrl>
+            <type>vegetable</type>
         </Food>
         <Food>
             <name>Broccoli</name>
@@ -221,6 +226,7 @@
             <canningUrl>https://cookingontheweekends.com/spicy-quick-pickled-broccoli/</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/broccoli.html</freezingUrl>
             <dryingUrl>https://joybileefarm.com/drying-broccoli-food-storage/</dryingUrl>
+            <type>vegetable</type>
         </Food>
         <Food>
             <name>Brussel Sprouts</name>
@@ -268,6 +274,7 @@
             <canningUrl>https://www.allrecipes.com/recipe/220205/zesty-pickled-brussels-sprouts/</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/brussel_sprouts.html</freezingUrl>
             <dryingUrl>https://apps.chhs.colostate.edu/preservesmart/produce/drying/brussels-sprouts/</dryingUrl>
+            <type>vegetable</type>
         </Food>
         <Food>
             <name>Cabbage or Chinese Cabbage</name>
@@ -329,6 +336,7 @@
             <canningUrl>https://www.healthycanning.com/home-canned-sauerkraut/#The_recipe</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/cabbage.html</freezingUrl>
             <dryingUrl>https://thesurvivalmom.com/how-to-dehydrate-cabbage/</dryingUrl>
+            <type>vegetable</type>
         </Food>
         <Food>
             <name>Carrots</name>
@@ -357,6 +365,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_04/carrots_sliced.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/carrot.html</freezingUrl>
             <dryingUrl>https://www.simplycanning.com/how-to-dry-vegetables.html</dryingUrl>
+            <type>vegetable</type>
         </Food>
         <Food>
             <name>Cauliflower</name>
@@ -370,6 +379,7 @@
             <canningUrl>https://recipes.howstuffworks.com/pickled-cauliflower-recipe.htm</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/cauliflower.html</freezingUrl>
             <dryingUrl>https://www.trail.recipes/blog/how-to-make-dehydrated-cauliflower-rice/</dryingUrl>
+            <type>vegetable</type>
         </Food>
         <Food>
             <name>Celery</name>
@@ -384,6 +394,7 @@
             <canningUrl>https://www.healthycanning.com/canning-celery/</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/celery.html</freezingUrl>
             <dryingUrl>https://www.thespruceeats.com/how-to-make-dehydrated-celery-1327565#:~:text=Arrange%20the%20celery%20pieces%20on,takes%206%20to%208%20hours.</dryingUrl>
+            <type>vegetable</type>
         </Food>
         <Food>
             <name>Corn</name>
@@ -417,6 +428,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_04/corn_kernel.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/corn.html</freezingUrl>
             <dryingUrl>https://www.gettystewart.com/how-to-dehydrate-corn/</dryingUrl>
+            <type>vegetable</type>
         </Food>
         <Food>
             <name>Cucumbers</name>
@@ -426,6 +438,7 @@
             <canningUrl>https://natashaskitchen.com/canned-dill-pickle-recipe/</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/squash_summer.html</freezingUrl>
             <dryingUrl>https://www.keyingredient.com/recipes/3465755032/3-recipes-for-dried-cucumbers/</dryingUrl>
+            <type>vegetable</type>
         </Food>
         <Food>
             <name>Eggplant</name>
@@ -439,6 +452,7 @@
             <canningUrl>https://www.eatwell101.com/canned-eggplant-recipe</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/eggplant.html</freezingUrl>
             <dryingUrl>https://delishably.com/vegetable-dishes/How-to-Dry-Eggplant-An-Illustrated-Guide</dryingUrl>
+            <type>vegetable</type>
         </Food>
         <Food>
             <name>Garlic-in-Oil</name>
@@ -450,6 +464,7 @@
             <canningUrl>https://barefeetinthekitchen.com/preserving-garlic-for-winter/</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/garlic_oil.html</freezingUrl>
             <dryingUrl>https://www.garlicfarm.ca/garlic-drying.htm</dryingUrl>
+            <type>vegetable</type>
         </Food>
         <Food>
             <name>Greens (including Spinach)</name>
@@ -463,6 +478,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_04/spinach_greens.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/greens.html</freezingUrl>
             <dryingUrl>https://learn.eartheasy.com/articles/supercharge-your-meals-with-dehydrated-greens/#:~:text=To%20dehydrate%20the%20greens%2C%20place,the%20longer%20the%20drying%20time.</dryingUrl>
+            <type>vegetable</type>
         </Food>
         <Food>
             <name>Fresh Herbs</name>
@@ -476,6 +492,7 @@
             <canningUrl>https://canningdiva.com/canning-mint-jelly/</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/herbs.html</freezingUrl>
             <dryingUrl>https://www.thespruce.com/how-to-dry-and-store-herbs-1403397</dryingUrl>
+            <type>vegetable</type>
         </Food>
         <Food>
             <name>Horseradish</name>
@@ -485,6 +502,7 @@
             <canningUrl>https://www.food.com/recipe/horseradish-canned-30959</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/broccoli.html</freezingUrl>
             <dryingUrl>https://www.leaf.tv/articles/how-to-dry-horseradish-into-powder/</dryingUrl>
+            <type>vegetable</type>
         </Food>
         <Food>
             <name>Kohlrabi</name>
@@ -496,6 +514,7 @@
             <canningUrl>https://alexandracooks.com/2015/06/14/csa-week-1-anchovy-butter-pickled-kohlrabi-turnips-what-to-do-with-them/</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/kohlrabi.html</freezingUrl>
             <dryingUrl>https://www.onegreenplanet.org/vegan-recipe/kohlrabi-chips/</dryingUrl>
+            <type>vegetable</type>
         </Food>
         <Food>
             <name>Mushrooms</name>
@@ -515,6 +534,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_04/mushrooms.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/mushroom.html</freezingUrl>
             <dryingUrl>https://thewoksoflife.com/dried-mushrooms/#:~:text=Place%20in%20an%20oven%20heated%20to%20175%20degrees%20F%2F80,dried%20before%20sealing%20them%20away).</dryingUrl>
+            <type>vegetable</type>
         </Food>
         <Food>
             <name>Okra</name>
@@ -530,6 +550,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_04/okra.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/okra.html</freezingUrl>
             <dryingUrl>https://www.hgtv.com/outdoors/gardens/garden-to-table/spicy-dried-okra#:~:text=Scrub%20okra%2C%20rinse%20with%20cold,okra%20in%20a%20large%20bowl.&amp;text=Add%20salt%20and%20cayenne%20pepper%20and%20toss%20to%20coat.&amp;text=Dry%20until%20crisp%20and%20breakable,on%20dehydrator%20and%20okra%20size).</dryingUrl>
+            <type>vegetable</type>
         </Food>
         <Food>
             <name>Onions</name>
@@ -549,6 +570,7 @@
             <canningUrl>https://toriavey.com/toris-kitchen/pickled-red-onions/</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/onion.html</freezingUrl>
             <dryingUrl>https://growagoodlife.com/dehydrate-onions/#:~:text=Turn%20your%20onions%20into%20dehydrated%20onion%20flakes,dried%20onions%2C%20and%20onion%20powder.&amp;text=To%20dry%20the%20onions%3A,trays%20in%20a%20single%20layer.</dryingUrl>
+            <type>vegetable</type>
         </Food>
         <Food>
             <name>Peas Blackeye or Field</name>
@@ -560,6 +582,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_04/peas_green_shelled.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/peas_field.html</freezingUrl>
             <dryingUrl>https://oureverydaylife.com/how-to-dehydrate-peas-12788346.html#:~:text=Place%20the%20peas%20on%20screens,to%20allow%20for%20even%20drying.</dryingUrl>
+            <type>vegetable</type>
         </Food>
         <Food>
             <name>Peas Green</name>
@@ -569,6 +592,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_04/peas_green_shelled.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/peas_green.html</freezingUrl>
             <dryingUrl>https://oureverydaylife.com/how-to-dehydrate-peas-12788346.html#:~:text=Place%20the%20peas%20on%20screens,to%20allow%20for%20even%20drying.</dryingUrl>
+            <type>vegetable</type>
         </Food>
         <Food>
             <name>Peas Pods Edible (Sugar, Chinese, Snow Peas or Sugar Snap Peas)</name>
@@ -580,6 +604,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_04/peas_green_shelled.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/pea_pod.html</freezingUrl>
             <dryingUrl>https://oureverydaylife.com/how-to-dehydrate-peas-12788346.html#:~:text=Place%20the%20peas%20on%20screens,to%20allow%20for%20even%20drying.</dryingUrl>
+            <type>vegetable</type>
         </Food>
         <Food>
             <name>Peppers Bell or Sweet</name>
@@ -593,6 +618,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_04/peppers.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/pepper_bell.html</freezingUrl>
             <dryingUrl>https://barefeetinthekitchen.com/dehydrated-bell-peppers/</dryingUrl>
+            <type>vegetable</type>
         </Food>
         <Food>
             <name>Peppers Hot</name>
@@ -602,6 +628,7 @@
             <canningUrl>https://www.thebossykitchen.com/how-to-preserve-hot-peppers-in-vinegar/</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/pepper_hot.html</freezingUrl>
             <dryingUrl>https://www.cayennediane.com/how-to-dry-peppers/#:~:text=Cut%20your%20peppers%20in%20half,least%20a%20couple%20of%20inches.</dryingUrl>
+            <type>vegetable</type>
         </Food>
         <Food>
             <name>Pimientos</name>
@@ -611,6 +638,7 @@
             <canningUrl>https://www.thebossykitchen.com/how-to-preserve-hot-peppers-in-vinegar/</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/pimento.html</freezingUrl>
             <dryingUrl>https://www.food.com/recipe/homemade-paprika-494183</dryingUrl>
+            <type>vegetable</type>
         </Food>
         <Food>
             <name>Potatoes New Irish</name>
@@ -628,6 +656,7 @@
             <canningUrl>https://practicalselfreliance.com/canning-potatoes/</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/potato_new.html</freezingUrl>
             <dryingUrl>https://www.gettystewart.com/dehydrating-potatoes/</dryingUrl>
+            <type>vegetable</type>
         </Food>
         <Food>
             <name>Potatoes Sweet</name>
@@ -647,6 +676,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_04/potato_sweet.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/potato_sweet.html</freezingUrl>
             <dryingUrl>https://www.platingsandpairings.com/sweet-potato-dog-chews-7/</dryingUrl>
+            <type>vegetable</type>
         </Food>
         <Food>
             <name>Pumpkin</name>
@@ -658,6 +688,7 @@
             <canningUrl>https://www.theprairiehomestead.com/2014/10/how-to-can-pumpkin.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/pumpkin.html</freezingUrl>
             <dryingUrl>https://texashomesteader.com/dehydrate-pumpkin/</dryingUrl>
+            <type>vegetable</type>
         </Food>
         <Food>
             <name>Rhubarb</name>
@@ -671,6 +702,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_02/rhubarb_stewed.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/rhubarb.html</freezingUrl>
             <dryingUrl>https://www.gettystewart.com/how_to_dehydrate_rhubarb/</dryingUrl>
+            <type>vegetable</type>
         </Food>
         <Food>
             <name>Rutabagas</name>
@@ -686,6 +718,7 @@
             <canningUrl>https://www.healthycanning.com/canning-rutabaga/</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/rutabaga.html</freezingUrl>
             <dryingUrl>https://countrifiedhicks.blogspot.com/2016/11/dehydrating-rutabagas.html#:~:text=To%20dehydrate%20a%20rutabaga%2C%20rinse%20them%20well%20and%20then%20peel%20them.&amp;text=Using%20a%20mandolin%20or%20sharp,about%201%2F8%22%20thick.&amp;text=Turn%20on%20your%20dehydrator%20to,are%20ready%20the%20next%20morning.</dryingUrl>
+            <type>vegetable</type>
         </Food>
         <Food>
             <name>Squash Summer
@@ -700,6 +733,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_04/pumpkin_winter_squash.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/squash_summer.html</freezingUrl>
             <dryingUrl>https://www.thespruceeats.com/dehydrate-zucchini-and-summer-squash-1327567#:~:text=Set%20the%20dehydrator%20for%20135,transfer%20it%20to%20airtight%20containers.</dryingUrl>
+            <type>vegetable</type>
         </Food>
         <Food>
             <name>Squash Winter
@@ -712,6 +746,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_04/pumpkin_winter_squash.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/squash_winter.html</freezingUrl>
             <dryingUrl>https://www.thespruceeats.com/dehydrate-zucchini-and-summer-squash-1327567#:~:text=Set%20the%20dehydrator%20for%20135,transfer%20it%20to%20airtight%20containers.</dryingUrl>
+            <type>vegetable</type>
         </Food>
         <Food>
             <name>Tomatoes</name>
@@ -729,6 +764,7 @@
             <canningUrl>https://food52.com/recipes/347-grandma-s-canned-tomatoes</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/tomato.html</freezingUrl>
             <dryingUrl>https://www.wholesomeyum.com/how-to-make-sun-dried-tomatoes-in-the-oven/</dryingUrl>
+            <type>vegetable</type>
         </Food>
         <Food>
             <name>Tomatoes Green</name>
@@ -742,6 +778,7 @@
             <canningUrl>https://food52.com/recipes/347-grandma-s-canned-tomatoes</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/tomato_green.html</freezingUrl>
             <dryingUrl>https://www.wholesomeyum.com/how-to-make-sun-dried-tomatoes-in-the-oven/</dryingUrl>
+            <type>vegetable</type>
         </Food>
         <Food>
             <name>Turnips or Parsnips</name>
@@ -753,6 +790,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_04/spinach_greens.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/turnip.html</freezingUrl>
             <dryingUrl>https://www.thespruceeats.com/drying-turnips-in-a-dehydrator-1327548#:~:text=Once%20the%20turnips%20are%20cool,at%20150%20F%2F65%20C.</dryingUrl>
+            <type>vegetable</type>
         </Food>
         <Food>
             <name>Zucchini</name>
@@ -762,6 +800,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_04/mixed_vegetables.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/squash_summer.html</freezingUrl>
             <dryingUrl>https://www.christinascucina.com/dried-zucchini-save-some-for-winter/</dryingUrl>
+            <type>vegetable</type>
         </Food>
     </Vegetables>
 
@@ -793,6 +832,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_02/apple_sliced.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/apple.html</freezingUrl>
             <dryingUrl>https://www.shelovesbiscotti.com/homemade-oven-baked-apple-chips/</dryingUrl>
+            <type>fruit</type>
         </Food>
         <Food>
             <name>Apricots</name>
@@ -826,6 +866,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_02/apricot_sliced.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/apricot.html</freezingUrl>
             <dryingUrl>https://www.wikihow.com/Dry-Apricots#:~:text=Line%20a%20baking%20sheet%20with,to%20dry%20apricots%2C%20read%20on!</dryingUrl>
+            <type>fruit</type>
         </Food>
         <Food>
             <name>Avocados</name>
@@ -857,6 +898,7 @@
             <canningUrl>http://www.homepreservingbible.com/2724-avocado-preserving-methods/</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/avocado.html</freezingUrl>
             <dryingUrl>https://www.dryingallfoods.com/dehydrating-avocado/</dryingUrl>
+            <type>fruit</type>
         </Food>
         <Food>
             <name>Bananas</name>
@@ -868,6 +910,7 @@
             <canningUrl>https://www.healthycanning.com/canning-bananas/</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/banana.html</freezingUrl>
             <dryingUrl>https://naturallyella.com/baked-banana-chips/#:~:text=Slice%20bananas%20into%201%2F16,out%2C%202%2D3%20hours.</dryingUrl>
+            <type>fruit</type>
         </Food>
         <Food>
             <name>Berries</name>
@@ -881,6 +924,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_02/berries_whole.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/blueberry.html</freezingUrl>
             <dryingUrl>https://jomygosh.com/2015/01/easiest-way-to-dry-blueberries-ever/</dryingUrl>
+            <type>fruit</type>
         </Food>
         <Food>
             <name>Cherries</name>
@@ -903,6 +947,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_02/cherry_whole.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/cherry_sweet.html</freezingUrl>
             <dryingUrl>https://www.thespruceeats.com/how-to-dry-cherries-dehydrator-method-1327532</dryingUrl>
+            <type>fruit</type>
         </Food>
         <Food>
             <name>Chokecherries</name>
@@ -939,6 +984,7 @@
             <canningUrl>https://www.theprairiehomestead.com/2012/08/how-to-make-chokecherry-jelly-low-sugar-and-honey-variations.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/cherry_sour.html</freezingUrl>
             <dryingUrl>https://openprairie.sdstate.edu/cgi/viewcontent.cgi?article=1485&amp;context=extension_extra#:~:text=Lay%20the%20patties%20on%20a,hot%2C%20soapy%20water%20and%20dried.&amp;text=Leave%20about%201%2F2%20inch,occur%20throughout%20the%20drying%20process.&amp;text=Chokecherry%20patties%20will%20take%2012%2D16%20hours%20to%20dry.</dryingUrl>
+            <type>fruit</type>
         </Food>
         <Food>
             <name>Citrus Fruits</name> //lemon curd
@@ -948,6 +994,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_02/lemon_curd.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/freezer_lemoncurd.html</freezingUrl>
             <dryingUrl>https://www.trail.recipes/dehydrating123/dehydrating123-why-and-how-to-dehydrate-citrus-fruits/</dryingUrl>
+            <type>fruit</type>
         </Food>
         <Food>
             <name>Crabapple</name>
@@ -957,6 +1004,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_02/crab_apple_spiced.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/apple.html</freezingUrl>
             <dryingUrl>https://homecookedvegan.blogspot.com/2016/01/dehydrated-crab-apples.html</dryingUrl>
+            <type>fruit</type>
         </Food>
         <Food>
             <name>Currants Figs</name>
@@ -966,6 +1014,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_02/fig.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/fig.html</freezingUrl>
             <dryingUrl>https://www.wikihow.com/Dry-Figs#:~:text=To%20dry%20figs%2C%20start%20by,for%20up%20to%2036%20hours.</dryingUrl>
+            <type>fruit</type>
         </Food>
         <Food>
             <name>Grapes</name>
@@ -975,6 +1024,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_02/grapes_whole.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/grape.html</freezingUrl>
             <dryingUrl>https://www.seriouseats.com/recipes/2017/02/oven-dried-grapes-raisins-recipe.html</dryingUrl>
+            <type>fruit</type>
         </Food>
         <Food>
             <name>Melons</name>
@@ -984,6 +1034,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_02/green_mangoes.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/melon.html</freezingUrl>
             <dryingUrl>http://www.homepreservingbible.com/888-how-to-dry-melon-slices/</dryingUrl>
+            <type>fruit</type>
         </Food>
         <Food>
             <name>Mint/Herbs</name>
@@ -993,6 +1044,7 @@
             <canningUrl>https://canningdiva.com/canning-mint-jelly/</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/herbs.html</freezingUrl>
             <dryingUrl>https://www.thespruce.com/how-to-dry-and-store-herbs-1403397</dryingUrl>
+            <type>fruit</type>
         </Food>
         <Food>
             <name>Peaches</name>
@@ -1002,6 +1054,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_02/peach_sliced.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/peach.html</freezingUrl>
             <dryingUrl>https://www.thespruceeats.com/dry-peaches-in-a-dehydrator-1327526</dryingUrl>
+            <type>fruit</type>
         </Food>
         <Food>
             <name>Pears</name>
@@ -1011,6 +1064,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_02/pear_halved.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/pear.html</freezingUrl>
             <dryingUrl>https://www.thespruceeats.com/how-to-dry-pears-in-dehydrator-1327580</dryingUrl>
+            <type>fruit</type>
         </Food>
         <Food>
             <name>Pineapple</name>
@@ -1020,6 +1074,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_02/pineapple.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/pineapple.html</freezingUrl>
             <dryingUrl>https://selfproclaimedfoodie.com/oven-dried-pineapple/</dryingUrl>
+            <type>fruit</type>
         </Food>
         <Food>
             <name>Plums</name>
@@ -1029,6 +1084,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_02/plum_halved.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/plum.html</freezingUrl>
             <dryingUrl>https://frugalfamilyhome.com/food/drying-foods/how-to-dry-plums</dryingUrl>
+            <type>fruit</type>
         </Food>
         <Food>
             <name>Quince</name>
@@ -1038,6 +1094,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_02/asian_pears.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/pear.html</freezingUrl>
             <dryingUrl>http://www.homepreservingbible.com/wp-content/uploads/2013/11/Preserving-Apples-Pears-and-Quince.pdf</dryingUrl>
+            <type>fruit</type>
         </Food>
         <Food>
             <name>Rhubarb</name>
@@ -1047,6 +1104,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_02/rhubarb_stewed.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/rhubarb.html</freezingUrl>
             <dryingUrl>https://madaboutmacarons.com/dried-rhubarb-chips/</dryingUrl>
+            <type>fruit</type>
         </Food>
         <Food>
             <name>Strawberries</name>
@@ -1056,6 +1114,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_02/berries_whole.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/strawberry.html</freezingUrl>
             <dryingUrl>https://www.shelovesbiscotti.com/oven-dried-strawberries/</dryingUrl>
+            <type>fruit</type>
         </Food>
 
     </Fruits>
@@ -1085,6 +1144,7 @@
             <canningUrl>https://nchfp.uga.edu/how/can_05/chicken_rabbit.html</canningUrl>
             <freezingUrl>https://nchfp.uga.edu/how/freeze/poultry.html</freezingUrl>
             <dryingUrl>No links available.</dryingUrl>
+            <type>meat</type>
         </Food>
     </Meats>
 </resources>

@@ -43,14 +43,19 @@
 
         <TextView
             android:id="@+id/food_name"
-            android:layout_width="185dp"
+            android:layout_width="154dp"
             android:layout_height="wrap_content"
-            android:text="@string/food_name" />
+            android:layout_gravity="center"
+            android:fontFamily="casual"
+            android:text="@string/food_name"
+            android:textAlignment="center"
+            android:textSize="18sp" />
 
         <ImageView
             android:id="@+id/food_image"
             android:layout_width="155dp"
-            android:layout_height="112dp" />
+            android:layout_height="112dp"
+            android:layout_gravity="center" />
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -9,6 +9,12 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+import org.xmlpull.v1.XmlPullParser;
+import org.xmlpull.v1.XmlPullParserException;
+import org.xmlpull.v1.XmlPullParserFactory;
+
+import java.io.IOException;
+import java.io.InputStream;
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
@@ -70,6 +76,47 @@ public class FirstFragment extends Fragment {
             mParam1 = getArguments().getString(ARG_PARAM1);
             mParam2 = getArguments().getString(ARG_PARAM2);
         }
+
+//        attempted to use xmlpullparser to pull different types of fruits
+//        try {
+//            InputStream inputStream = getActivity().getAssets().open("fruits.xml");
+//            XmlPullParserFactory parserFactory = XmlPullParserFactory.newInstance();
+//            XmlPullParser parser = parserFactory.newPullParser();
+//            parser.setFeature(XmlPullParser.FEATURE_PROCESS_NAMESPACES,false);
+//            parser.setInput(inputStream,null);
+//            String tag = "" , text = "";
+//            int event = parser.getEventType();
+//            while (event!= XmlPullParser.END_DOCUMENT){
+//                tag = parser.getName();
+//                switch (event) {
+//                    case XmlPullParser.START_TAG:
+//                        if(tag.equals("Food"))
+//                            foods = new Methods();
+//                        break;
+//                    case XmlPullParser.TEXT:
+//                        text=parser.getText();
+//                        break;
+//                    case XmlPullParser.END_TAG:
+//                        switch (tag) {
+//                            case "name": foods.setName(text);
+//                                break;
+//                            case "type": foods.setType(text);
+//                                break;
+//                            case "Food":
+//                                if(foods!=null)
+//                                    foodList.add(foods);
+//                                break;
+//                        }
+//                        break;
+//                }
+//                event = parser.next();
+//            }
+//        }
+//        catch (IOException e) {
+//            e.printStackTrace();
+//        } catch (XmlPullParserException e) {
+//            e.printStackTrace();
+//        }
     }
 
     @Override
@@ -87,31 +134,27 @@ public class FirstFragment extends Fragment {
         recyclerView.setLayoutManager(new LinearLayoutManager(getActivity()));
 
 
-        // add fruit items into the arrayList
-        fruitsList.add(new Food("Apples", "", R.drawable.apples));
-        fruitsList.add(new Food("Apricots", "", R.drawable.apricots));
-        fruitsList.add(new Food("Avocados", "", R.drawable.avocados));
-        fruitsList.add(new Food("Banana", "", R.drawable.banana));
-        fruitsList.add(new Food("Berries", "", R.drawable.berries));
-        fruitsList.add(new Food("Cherries", "", R.drawable.cherries));
-        fruitsList.add(new Food("Chokecherries", "", R.drawable.chokecherries));
-        fruitsList.add(new Food("Citrus Fruits", "", R.drawable.citrus_fruits));
-        fruitsList.add(new Food("Crabapple", "", R.drawable.crabapple));
-        fruitsList.add(new Food("Currants Figs", "", R.drawable.currants_figs));
-        fruitsList.add(new Food("Grapes", "", R.drawable.grapes));
-        fruitsList.add(new Food("Melons", "", R.drawable.melons));
-        fruitsList.add(new Food("Mint", "", R.drawable.mint));
-        fruitsList.add(new Food("Peaches", "", R.drawable.peaches));
-        fruitsList.add(new Food("Pears", "", R.drawable.pears));
-        fruitsList.add(new Food("Pineapples", "", R.drawable.pineapple));
-        fruitsList.add(new Food("Plums", "", R.drawable.plums));
-        fruitsList.add(new Food("Quince", "", R.drawable.quince));
-        fruitsList.add(new Food("Rhubarb", "", R.drawable.rhubarb));
-        fruitsList.add(new Food("Strawberries", "", R.drawable.strawberries));
-
-
-
-
+        // add 19 fruit items into the arrayList
+        fruitsList.add(new Food("Apples", "Fruit", R.drawable.apples));
+        fruitsList.add(new Food("Apricots", "Fruit", R.drawable.apricots));
+        fruitsList.add(new Food("Avocados", "Fruit", R.drawable.avocados));
+        fruitsList.add(new Food("Banana", "Fruit", R.drawable.banana));
+        fruitsList.add(new Food("Berries", "Fruit", R.drawable.berries));
+        fruitsList.add(new Food("Cherries", "Fruit", R.drawable.cherries));
+        fruitsList.add(new Food("Chokecherries", "Fruit", R.drawable.chokecherries));
+        fruitsList.add(new Food("Citrus Fruits", "Fruit", R.drawable.citrus_fruits));
+        fruitsList.add(new Food("Crabapple", "Fruit", R.drawable.crabapple));
+        fruitsList.add(new Food("Currants Figs", "Fruit", R.drawable.currants_figs));
+        fruitsList.add(new Food("Grapes", "Fruit", R.drawable.grapes));
+        fruitsList.add(new Food("Melons", "Fruit", R.drawable.melons));
+        fruitsList.add(new Food("Mint", "Fruit", R.drawable.mint));
+        fruitsList.add(new Food("Peaches", "Fruit", R.drawable.peaches));
+        fruitsList.add(new Food("Pears", "Fruit", R.drawable.pears));
+        fruitsList.add(new Food("Pineapples", "Fruit", R.drawable.pineapple));
+        fruitsList.add(new Food("Plums", "Fruit", R.drawable.plums));
+        fruitsList.add(new Food("Quince", "Fruit", R.drawable.quince));
+        fruitsList.add(new Food("Rhubarb", "Fruit", R.drawable.rhubarb));
+        fruitsList.add(new Food("Strawberries", "Fruit", R.drawable.strawberries));
 
         return view;
 

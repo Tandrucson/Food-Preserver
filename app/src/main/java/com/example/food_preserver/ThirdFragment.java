@@ -84,8 +84,8 @@ public class ThirdFragment extends Fragment {
         recyclerView.setAdapter(myAdapter);
         recyclerView.setLayoutManager(new LinearLayoutManager(getActivity()));
 
-
-        meatsList.add(new Food("chicken", "chicken", R.drawable.chicken));
+        //1 meat item
+        meatsList.add(new Food("Chicken", "Meat", R.drawable.chicken));
         //meatsList.add(new Food("", "chicken", R.drawable.));
         //meatsList.add(new Food("", "chicken", R.drawable.));
 

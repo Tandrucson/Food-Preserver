@@ -50,10 +50,13 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder> impl
             @Override
             public void onClick(View v) {
                 int position = holder.getAdapterPosition();
+                String type = foodList.get(position).getDescription();
+                int image = foodList.get(position).getImage();
                 final Intent intent;
                 intent = new Intent(context, Food_item_instructions.class);
-                //intent.putExtra("image", mCurrent.imageUrl);
                 intent.putExtra("position", position);
+                intent.putExtra("type", type);
+                intent.putExtra("image", image);
                 context.startActivity(intent);
             }
         });
