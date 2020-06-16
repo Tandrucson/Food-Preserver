@@ -1146,5 +1146,31 @@
             <dryingUrl>No links available.</dryingUrl>
             <type>meat</type>
         </Food>
+        <Food>
+            <name>Red Meat</name>
+            <canningMethod>(Hot Pack Method for Canning Meat)
+
+                Beef, venison, elk, or pork; Salt (optional); Water; Canning jars, lids, and rings (quarts or pints are fine); A pressure canner
+                Trim the meat to remove excess fat and gristle. (I usually try to do this when the meat is half-frozen. It makes the trimming much easier) Slice into strips against the grain, and then cut into roughly 1″ cubes (just eyeball it– no need to be exact). how to can beef, venison, or elk with a pressure canner for fork-tender meat! Place the cubes into a large stockpot and brown thoroughly on all sides. If your meat is especially lean, you may need to add a bit of fat (such as bacon grease, lard, or coconut oil) to the pan to prevent stickage. (Yes, that’s a word) The goal here is to simply brown the cubes— you don’t need to cook them all the way through.
+
+                Canning Meat Tutorial
+                Place the browned meat cubes into clean glass jars, leaving 1″ headspace. If using quart jars, add 1 teaspoon of salt. If using pint jars, add 1/2 teaspoon of salt. Canning Meat Tutorial: how to can beef, venison, or elk with a pressure canner for fork-tender meat! Pour water (how much you need will depend on how many jars you are canning) into the pot you used to brown the meat, and bring it to a boil. This will capture all the lovely bits from the bottom of the pot and create extra flavor in your finished product. Ladle the boiling water over the meat in the jars, leaving 1″ headspace. Wipe the rims, adjust the lids/rings, and process in a steam pressure canner as follows:
+
+                Pints: 75 minutes
+                Quarts: 90 minutes
+                Use 10 pounds of pressure, UNLESS you are 1,000 feet or more above sea level. If that is the case, increase to 15 pounds of pressure.</canningMethod>
+            <freezingMethod>Cutting steaks from a big piece of meat like a strip loin or a boneless rib roast
+                allows you to make steaks just the right thickness. Grill some of the steaks now and freeze the
+                remaining ones for another day. Here's how: The key to freezing a steak properly is to prevent
+                air from touching the surface of the meat. Wrap each steak individually with plastic wrap, not
+                butcher paper or aluminum foil, and seal it as tightly as possible. Place the wrapped steaks in a
+                resealable freezer bag and set the freezer as close to 0°F as it will go. The colder, the better.
+                Steaks packaged this way will keep very well for about 3 months. </freezingMethod>
+            <dryingMethod>No links available.</dryingMethod>
+            <canningUrl>https://www.theprairiehomestead.com/2015/01/canning-meat.html</canningUrl>
+            <freezingUrl>https://www.weber.com/CA/en/grill-skills/mastering-red-meat/steak/freezing-steaks/weber-34455.html#:~:text=Wrap%20each%20steak%20individually%20with,well%20for%20about%203%20months.</freezingUrl>
+            <dryingUrl>No links available.</dryingUrl>
+            <type>meat</type>
+        </Food>
     </Meats>
 </resources>

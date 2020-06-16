@@ -86,7 +86,7 @@ public class ThirdFragment extends Fragment {
 
         //1 meat item
         meatsList.add(new Food("Chicken", "Meat", R.drawable.chicken));
-        //meatsList.add(new Food("", "chicken", R.drawable.));
+        meatsList.add(new Food("Red Meat", "Meat", R.drawable.red_meat));
         //meatsList.add(new Food("", "chicken", R.drawable.));
 
         return view;
