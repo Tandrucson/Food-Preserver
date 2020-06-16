@@ -8,6 +8,7 @@
     <Vegetables>
         <Food>
             <name>Artichokes</name>
+            <image>artichokes</image>
             <canningMethod>This kitchen project delivers both flavor and texture unlike any store-bought artichokes. Home-canned, marinated artichoke hearts liven up pizza, a salad or a sandwich.
 
                 Beware: The tannins in raw artichoke will stain your hands. Lemon juice will remove the stain.
@@ -65,6 +66,7 @@
         </Food>
         <Food>
             <name>Asparagus</name>
+            <image>asparagus</image>
             <canningMethod>Quantity: An average of 24½ pounds is needed per canner load of 7 quarts; an average of 16 pounds is needed per canner load of 9 pints. A crate weighs 31 pounds and yields 7 to 12 quarts--an average of 3½ pounds per quart.
 
                 Quality: Use tender, tight-tipped spears, 4 to 6 inches long.
@@ -93,6 +95,7 @@
         </Food>
         <Food>
             <name>Beans: Green, Snap, or Wax</name>
+            <image>beans_green_snap_or_wax</image>
             <canningMethod>Quantity: An average of 14 pounds is needed per canner load of 7 quarts; an average of 9 pounds is needed per canner load of 9 pints. A bushel weighs 30 pounds and yields 12 to 20 quarts – an average of 2 pounds per quart.
 
                 Quality: Select filled but tender, crisp pods. Remove and discard diseased and rusty pods.
@@ -117,6 +120,7 @@
         </Food>
         <Food>
             <name>Beans: Lima, Butter, or Pinto</name>
+            <image>beans_lima</image>
             <canningMethod>Beans or Peas - Shelled, Dried: All Varieties
 
                 Quantity: An average of 5 pounds is needed per canner load of 7 quarts; an average of 3¼ pounds is needed per canner load of 9 pints--an average of ¾ pounds per quart.
@@ -154,6 +158,7 @@
         </Food>
         <Food>
             <name>Beets</name>
+            <image>beets</image>
             <canningMethod>Quantity: An average of 21 pounds (without tops) is needed per canner load of 7 quarts; an average of 13-1/2 pounds is needed per canner load of 9 pints. A bushel (without tops) weighs 52 pounds and yields 15 to 20 quarts--an average of 3 pounds per quart.
 
                 Quality: Beets with a diameter of 1 to 2 inches are preferred for whole packs. Beets larger than 3 inches in diameter are often fibrous.
@@ -197,6 +202,7 @@
         </Food>
         <Food>
             <name>Broccoli</name>
+            <image>broccoli</image>
             <canningMethod>Spicy Quick Pickled Broccoli
 
                 Ingredients
@@ -230,6 +236,7 @@
         </Food>
         <Food>
             <name>Brussel Sprouts</name>
+            <image>brussel_sprouts</image>
             <canningMethod>Zesty Pickled Brussels Sprouts
 
                 Ingredients:
@@ -278,6 +285,7 @@
         </Food>
         <Food>
             <name>Cabbage or Chinese Cabbage</name>
+            <image>cabbage_or_chinese_cabbage</image>
             <canningMethod>Sauerkraut
                 Ingredients:
 
@@ -340,6 +348,7 @@
         </Food>
         <Food>
             <name>Carrots</name>
+            <image>carrots</image>
             <canningMethod>Sliced or Diced
                 Quantity: An average of 17-1/2 pounds (without tops) is needed per canner load of 7 quarts; an average of 11 pounds is needed per canner load of 9 pints. A bushel (without tops) weighs 50 pounds and yields 17 to 25 quarts – an average of 2-1/2 pounds per quart.
 
@@ -369,6 +378,7 @@
         </Food>
         <Food>
             <name>Cauliflower</name>
+            <image>cauliflower</image>
             <canningMethod>https://recipes.howstuffworks.com/pickled-cauliflower-recipe.htm</canningMethod>
             <freezingMethod>Preparation – Choose compact white heads. Trim off leaves and cut head into pieces about 1 inch across. If necessary to remove insects, soak for 30 minutes in solution of salt and water (4 teaspoons salt per gallon water). Drain.
 
@@ -383,6 +393,7 @@
         </Food>
         <Food>
             <name>Celery</name>
+            <image>celery</image>
             <canningMethod>The USDA never backed canning plain celery or had developed directions for it. Also see https://www.healthycanning.com/canning-celery/</canningMethod>
 
             <freezingMethod>Celery loses its crispness when frozen. The frozen product is suitable only for cooked dishes.
@@ -398,6 +409,7 @@
         </Food>
         <Food>
             <name>Corn</name>
+            <image>corn</image>
             <canningMethod>Quantity: An average of 31½ pounds (in husk) of sweet corn is needed per canner load of 7 quarts; an average of 20 pounds is needed per canner load of 9 pints. A bushel weighs 35 pounds and yields 6 to 11 quarts – an average of 4½ pounds per quart.
 
                 Quality: Select ears containing slightly immature kernels or of ideal quality for eating fresh. Canning of some sweeter varieties or too immature kernels may cause browning. Can a small amount, check color and flavor before canning large quantities.
@@ -432,6 +444,7 @@
         </Food>
         <Food>
             <name>Cucumbers</name>
+            <image>cucumbers</image>
             <canningMethod>https://natashaskitchen.com/canned-dill-pickle-recipe/</canningMethod>
             <freezingMethod>https://nchfp.uga.edu/how/freeze/squash_summer.html</freezingMethod>
             <dryingMethod>https://www.keyingredient.com/recipes/3465755032/3-recipes-for-dried-cucumbers/</dryingMethod>
@@ -442,6 +455,7 @@
         </Food>
         <Food>
             <name>Eggplant</name>
+            <image>eggplant</image>
             <canningMethod>https://www.eatwell101.com/canned-eggplant-recipe</canningMethod>
             <freezingMethod>Preparation – Harvest before seeds become mature and when color is uniformly dark. Wash, peel and slice 1/3-inch thick. Prepare quickly, enough eggplant for one blanching at a time.
 
@@ -456,6 +470,7 @@
         </Food>
         <Food>
             <name>Garlic-in-Oil</name>
+            <image>garlic_in_oil</image>
             <canningMethod>https://barefeetinthekitchen.com/preserving-garlic-for-winter/</canningMethod>
             <freezingMethod>Research performed by the National Center for Home Food Preservation confirmed that mixtures of garlic in oil stored at room temperature are at risk for the development of botulism.
 
@@ -468,6 +483,7 @@
         </Food>
         <Food>
             <name>Greens (including Spinach)</name>
+            <image>greens_including_spinach</image>
             <canningMethod>https://nchfp.uga.edu/how/can_04/spinach_greens.html</canningMethod>
             <freezingMethod>Preparation – Select young, tender green leaves. Wash thoroughly and cut off woody stems. Water blanch collards 3 minutes and all other greens 2 minutes.
 
@@ -482,6 +498,7 @@
         </Food>
         <Food>
             <name>Fresh Herbs</name>
+            <image>fresh_herbs</image>
             <canningMethod>https://canningdiva.com/canning-mint-jelly/</canningMethod>
             <freezingMethod>Preparation – Wash, drain and pat dry with paper towels. Wrap a few sprigs or leaves in freezer wrap and place in a freezer bag. Seal and freeze.
 
@@ -496,6 +513,7 @@
         </Food>
         <Food>
             <name>Horseradish</name>
+            <image>horseradish</image>
             <canningMethod>https://www.food.com/recipe/horseradish-canned-30959</canningMethod>
             <freezingMethod>https://nchfp.uga.edu/how/freeze/broccoli.html</freezingMethod>
             <dryingMethod>https://www.leaf.tv/articles/how-to-dry-horseradish-into-powder/</dryingMethod>
@@ -506,6 +524,7 @@
         </Food>
         <Food>
             <name>Kohlrabi</name>
+            <image>kohlrabi</image>
             <canningMethod>https://alexandracooks.com/2015/06/14/csa-week-1-anchovy-butter-pickled-kohlrabi-turnips-what-to-do-with-them/</canningMethod>
             <freezingMethod>Preparation – Select stems when fully grown but tender. Cut off tops and roots. Wash and peel off the tough bark. Leave whole or dice in 1/2 inch cubes. Water blanch whole 3 minutes and cubes 1 minute.
 
@@ -518,6 +537,7 @@
         </Food>
         <Food>
             <name>Mushrooms</name>
+            <image>mushrooms</image>
             <canningMethod>https://nchfp.uga.edu/how/can_04/mushrooms.html</canningMethod>
             <freezingMethod>Preparation – Choose mushrooms free from spots and decay. Sort according to size. Wash thoroughly in cold water. Trim off ends of stems. If mushrooms are larger than 1 inch across, slice them or cut them into quarters.
 
@@ -538,6 +558,7 @@
         </Food>
         <Food>
             <name>Okra</name>
+            <image>okra</image>
             <canningMethod>https://nchfp.uga.edu/how/can_04/okra.html</canningMethod>
             <freezingMethod>The smooth type varieties freeze as well as or better than the ridged varieties because they do not split as easily. Preparation – Select young tender pods and separate into small pods (4 inches or under) and large pods. Wash. Remove the stems at the end of the seed cells, being careful not to expose the seed cell.
 
@@ -554,6 +575,7 @@
         </Food>
         <Food>
             <name>Onions</name>
+            <image>onions</image>
             <canningMethod>https://toriavey.com/toris-kitchen/pickled-red-onions/</canningMethod>
             <freezingMethod>Bulb onions store well in a cool, dry place. Freezing is usually not recommended for preserving whole onions, but see below if desired.
 
@@ -574,6 +596,7 @@
         </Food>
         <Food>
             <name>Peas Blackeye or Field</name>
+            <image>blackeye_or_field_peas</image>
             <canningMethod>https://nchfp.uga.edu/how/can_04/peas_green_shelled.html</canningMethod>
             <freezingMethod>Preparation – Select pods when seeds are tender and well-filled. Wash pods. Shell and discard over-mature and immature seeds and those injured by insects. Wash shelled peas.
 
@@ -586,6 +609,7 @@
         </Food>
         <Food>
             <name>Peas Green</name>
+            <image>green_peas</image>
             <canningMethod>https://nchfp.uga.edu/how/can_04/peas_green_shelled.html</canningMethod>
             <freezingMethod>Preparation – Harvest when pods are filled with young, tender peas that have not become starchy. Wash and shell; water blanch l1/2 minutes, cool and drain. Package, leaving 1/2-inch headspace. Seal and freeze.</freezingMethod>
             <dryingMethod>https://oureverydaylife.com/how-to-dehydrate-peas-12788346.html#:~:text=Place%20the%20peas%20on%20screens,to%20allow%20for%20even%20drying.</dryingMethod>
@@ -596,6 +620,7 @@
         </Food>
         <Food>
             <name>Peas Pods Edible (Sugar, Chinese, Snow Peas or Sugar Snap Peas)</name>
+            <image>peas_pods</image>
             <canningMethod>https://nchfp.uga.edu/how/can_04/peas_green_shelled.html</canningMethod>
             <freezingMethod>Preparation – Select bright green, flat, tender pods. Wash. Remove stems, blossom ends and any strings. Leave whole. Water blanch 11/2 minutes for small pods; 2 minutes for large pods. (NOTE: If the peas have started to develop, follow the directions for green beans. If the peas are already developed, shell and follow the directions for green peas.) Cool, drain and package, leaving 1/2-inch headspace. Seal and freeze.
 
@@ -608,6 +633,7 @@
         </Food>
         <Food>
             <name>Peppers Bell or Sweet</name>
+            <image>bell_or_sweet_peppers</image>
             <canningMethod>https://nchfp.uga.edu/how/can_04/peppers.html</canningMethod>
             <freezingMethod>Preparation – Select crisp, tender, green or bright red pods. Wash, cut out stems, cut in half and remove seeds. If desired, cut into 1/2-inch strips or rings.
 
@@ -622,6 +648,7 @@
         </Food>
         <Food>
             <name>Peppers Hot</name>
+            <image>hot_peppers</image>
             <canningMethod>https://www.thebossykitchen.com/how-to-preserve-hot-peppers-in-vinegar/</canningMethod>
             <freezingMethod>Preparation – Wash and stem peppers. Package, leaving no headspace. Seal and freeze.</freezingMethod>
             <dryingMethod>https://www.cayennediane.com/how-to-dry-peppers/#:~:text=Cut%20your%20peppers%20in%20half,least%20a%20couple%20of%20inches.</dryingMethod>
@@ -632,6 +659,7 @@
         </Food>
         <Food>
             <name>Pimientos</name>
+            <image>pimientos</image>
             <canningMethod>https://www.thebossykitchen.com/how-to-preserve-hot-peppers-in-vinegar/</canningMethod>
             <freezingMethod>Preparation – Select firm, crisp pimientos of deep red color. Peel by roasting in oven 400 to 450ºF for 6 to 8 minutes or until skins can be rubbed off. Wash off the charred skins, cut out stems and remove seeds. Package, leaving 1/2-inch headspace. Seal and freeze.</freezingMethod>
             <dryingMethod>https://www.food.com/recipe/homemade-paprika-494183</dryingMethod>
@@ -642,6 +670,7 @@
         </Food>
         <Food>
             <name>Potatoes New Irish</name>
+            <image>new_irish_potatoes</image>
             <canningMethod>https://practicalselfreliance.com/canning-potatoes/</canningMethod>
             <freezingMethod>Preparation – Select smooth new potatoes directly from the garden. Peel or scrape and wash. Water blanch for 3 to 5 minutes, depending on the size.
 
@@ -660,6 +689,7 @@
         </Food>
         <Food>
             <name>Potatoes Sweet</name>
+            <image>sweet_potatoes</image>
             <canningMethod>https://nchfp.uga.edu/how/can_04/potato_sweet.html</canningMethod>
             <freezingMethod>Preparation – Choose medium to large sweet potatoes that have been cured for at least one week. Sort according to size and wash. Cook until almost tender in water, in steam, in a pressure cooker or in the oven. Let stand at room temperature until cool. Peel sweet potatoes, cut in halves, slice or mash.
 
@@ -680,6 +710,7 @@
         </Food>
         <Food>
             <name>Pumpkin</name>
+            <image>pumpkin</image>
             <canningMethod>https://www.theprairiehomestead.com/2014/10/how-to-can-pumpkin.html</canningMethod>
             <freezingMethod>Preparation – Select full-colored mature pumpkin with fine texture. Wash, cut into cooking-size sections and remove seeds.
 
@@ -692,6 +723,7 @@
         </Food>
         <Food>
             <name>Rhubarb</name>
+            <image>rhubarb</image>
             <canningMethod>https://nchfp.uga.edu/how/can_02/rhubarb_stewed.html</canningMethod>
             <freezingMethod>Preparation – Choose firm, tender, well-colored stalks with good flavor and few fibers. Wash, trim and cut into lengths to fit the package. Heating rhubarb in boiling water for 1 minute and cooling promptly in cold water helps retain color and flavor.
 
@@ -706,6 +738,7 @@
         </Food>
         <Food>
             <name>Rutabagas</name>
+            <image>rutabagas</image>
             <canningMethod>https://www.healthycanning.com/canning-rutabaga/</canningMethod>
             <freezingMethod>Preparation – Select young, medium-sized rutabagas. Cut off tops, wash and peel. Cubed – Cut into cubes and water blanch 3 minutes.
 
@@ -723,6 +756,7 @@
         <Food>
             <name>Squash Summer
                 (Cocozelle, Crookneck, Pattypan, Straightneck, White Scallop, Zucchini)</name>
+            <image>summer_squash</image>
             <canningMethod>https://nchfp.uga.edu/how/can_04/pumpkin_winter_squash.html</canningMethod>
             <freezingMethod>Preparation – Choose young squash with tender skin. Wash and cut in 1/2-inch slices. Water blanch 3 minutes. Cool promptly, drain and package, leaving 1/2-inch headspace. Seal and freeze.
 
@@ -738,6 +772,7 @@
         <Food>
             <name>Squash Winter
                 (Acorn, Banana, Buttercup, Butternut, Golden Delicious, Hubbard, Spaghetti)</name>
+            <image>winter_squash</image>
             <canningMethod>https://nchfp.uga.edu/how/can_04/pumpkin_winter_squash.html</canningMethod>
             <freezingMethod>Preparation – Select firm, mature squash with a hard rind. For spaghetti squash, mashing the cooked pulp is not necessary.
 
@@ -750,6 +785,7 @@
         </Food>
         <Food>
             <name>Tomatoes</name>
+            <image>tomatoes</image>
             <canningMethod>https://food52.com/recipes/347-grandma-s-canned-tomatoes</canningMethod>
             <freezingMethod>Preparation – Select firm, ripe tomatoes with deep red color.
 
@@ -768,6 +804,7 @@
         </Food>
         <Food>
             <name>Tomatoes Green</name>
+            <image>green_tomatoes</image>
             <canningMethod>https://food52.com/recipes/347-grandma-s-canned-tomatoes</canningMethod>
             <freezingMethod>Preparation – Select firm, sound green tomatoes. Wash, core, and slice 1/4-inch thick.
 
@@ -782,6 +819,7 @@
         </Food>
         <Food>
             <name>Turnips or Parsnips</name>
+            <image>turnips_or_parsnips</image>
             <canningMethod>https://nchfp.uga.edu/how/can_04/spinach_greens.html</canningMethod>
             <freezingMethod>Preparation – Select small to medium, firm turnips or parsnips that are tender and have a mild flavor. Wash, peel and cut into 1/2-inch cubes. Water blanch for 2 minutes. Cool promptly in cold water and drain. Pack into containers, leaving 1/2-inch headspace. Seal and freeze,
 
@@ -794,6 +832,7 @@
         </Food>
         <Food>
             <name>Zucchini</name>
+            <image>zucchini</image>
             <canningMethod>https://nchfp.uga.edu/how/can_04/mixed_vegetables.html</canningMethod>
             <freezingMethod>https://nchfp.uga.edu/how/freeze/squash_summer.html</freezingMethod>
             <dryingMethod>https://www.christinascucina.com/dried-zucchini-save-some-for-winter/</dryingMethod>
@@ -807,6 +846,7 @@
     <Fruits>
         <Food>
             <name>Apples</name>
+            <image>apples</image>
             <canningMethod>Quantity: An average of 19 pounds is needed per canner load of 7 quarts; an average of 12-1/4 pounds is needed per canner load of 9 pints. A bushel weighs 48 pounds and yields 16 to 19 quarts-an average of 2-3/4 pounds per quart.
                 Quality: Select apples that are juicy, crispy, and preferably both sweet and tart.
 
@@ -836,6 +876,7 @@
         </Food>
         <Food>
             <name>Apricots</name>
+            <image>apricots</image>
             <canningMethod>Quantity: An average of 16 pounds is needed per canner load of 7 quarts; an average of 10 pounds is needed per canner load of 9 pints. A bushel weighs 50 pounds and yields 20 to 25 quarts-an average of 2¼ pounds per quart.
 
                 Quality: Select firm, well-colored mature fruit of ideal quality for eating fresh.
@@ -870,6 +911,7 @@
         </Food>
         <Food>
             <name>Avocados</name>
+            <image>avocados</image>
             <canningMethod>Here’s a quick and easy pickling solution. Multiply by the number of avocados you have.
 
                 Ingredients
@@ -902,6 +944,7 @@
         </Food>
         <Food>
             <name>Bananas</name>
+            <image>banana</image>
             <canningMethod>Bananas can be used as an ingredient in home canning, but they can’t be canned plain on their own.</canningMethod>
             <freezingMethod>Preparation – Select firm ripe bananas. Peel; mash thoroughly. Add 1/2 teaspoon (1500 mg) ascorbic acid per cup of mashed banana. Package in moisture-vapor resistant container. Seal and freeze.
 
@@ -914,6 +957,7 @@
         </Food>
         <Food>
             <name>Berries</name>
+            <image>berries</image>
             <canningMethod>https://nchfp.uga.edu/how/can_02/berries_whole.html</canningMethod>
             <freezingMethod>Preparation – Select full-flavored, ripe berries. Remove leaves, stems and immature or defective berries.
 
@@ -928,6 +972,7 @@
         </Food>
         <Food>
             <name>Cherries</name>
+            <image>cherries</image>
             <canningMethod>Sweet or Sour Cherries - Whole
                 Quantity: An average of 17½ pounds is needed per canner load of 7 quarts; an average of 11 pounds is needed per canner load of 9 pints. A lug weighs 25 pounds and yields 8 to 12 quarts – an average of 2½ pounds per quart.
 
@@ -951,6 +996,7 @@
         </Food>
         <Food>
             <name>Chokecherries</name>
+            <image>chokecherries</image>
             <canningMethod>ChokeCherry Jelly
 
                 Ingredients
@@ -988,6 +1034,7 @@
         </Food>
         <Food>
             <name>Citrus Fruits</name> //lemon curd
+            <image>citrus_fruits</image>
             <canningMethod>https://nchfp.uga.edu/how/can_02/lemon_curd.html</canningMethod>
             <freezingMethod>https://nchfp.uga.edu/how/freeze/freezer_lemoncurd.html</freezingMethod>
             <dryingMethod>https://www.trail.recipes/dehydrating123/dehydrating123-why-and-how-to-dehydrate-citrus-fruits/</dryingMethod>
@@ -998,6 +1045,7 @@
         </Food>
         <Food>
             <name>Crabapple</name>
+            <image>crabapple</image>
             <canningMethod>https://nchfp.uga.edu/how/can_02/crab_apple_spiced.html</canningMethod>
             <freezingMethod>https://nchfp.uga.edu/how/freeze/apple.html</freezingMethod>
             <dryingMethod>https://homecookedvegan.blogspot.com/2016/01/dehydrated-crab-apples.html</dryingMethod>
@@ -1008,6 +1056,7 @@
         </Food>
         <Food>
             <name>Currants Figs</name>
+            <image>currants_figs</image>
             <canningMethod>https://nchfp.uga.edu/how/can_02/fig.html</canningMethod>
             <freezingMethod>https://nchfp.uga.edu/how/freeze/fig.html</freezingMethod>
             <dryingMethod>https://www.wikihow.com/Dry-Figs#:~:text=To%20dry%20figs%2C%20start%20by,for%20up%20to%2036%20hours.</dryingMethod>
@@ -1018,6 +1067,7 @@
         </Food>
         <Food>
             <name>Grapes</name>
+            <image>grapes</image>
             <canningMethod>https://nchfp.uga.edu/how/can_02/grapes_whole.html</canningMethod>
             <freezingMethod>https://nchfp.uga.edu/how/freeze/grape.html</freezingMethod>
             <dryingMethod>https://www.seriouseats.com/recipes/2017/02/oven-dried-grapes-raisins-recipe.html</dryingMethod>
@@ -1028,6 +1078,7 @@
         </Food>
         <Food>
             <name>Melons</name>
+            <image>melons</image>
             <canningMethod>https://nchfp.uga.edu/how/can_02/green_mangoes.html</canningMethod>
             <freezingMethod>https://nchfp.uga.edu/how/freeze/melon.html</freezingMethod>
             <dryingMethod>http://www.homepreservingbible.com/888-how-to-dry-melon-slices/</dryingMethod>
@@ -1038,6 +1089,7 @@
         </Food>
         <Food>
             <name>Mint/Herbs</name>
+            <image>mint</image>
             <canningMethod>https://canningdiva.com/canning-mint-jelly/</canningMethod>
             <freezingMethod>https://nchfp.uga.edu/how/freeze/herbs.html</freezingMethod>
             <dryingMethod>https://www.thespruce.com/how-to-dry-and-store-herbs-1403397</dryingMethod>
@@ -1048,6 +1100,7 @@
         </Food>
         <Food>
             <name>Peaches</name>
+            <image>peaches</image>
             <canningMethod>https://nchfp.uga.edu/how/can_02/peach_sliced.html</canningMethod>
             <freezingMethod>https://nchfp.uga.edu/how/freeze/peach.html</freezingMethod>
             <dryingMethod>https://www.thespruceeats.com/dry-peaches-in-a-dehydrator-1327526</dryingMethod>
@@ -1058,6 +1111,7 @@
         </Food>
         <Food>
             <name>Pears</name>
+            <image>pears</image>
             <canningMethod>https://nchfp.uga.edu/how/can_02/pear_halved.html</canningMethod>
             <freezingMethod>https://nchfp.uga.edu/how/freeze/pear.html</freezingMethod>
             <dryingMethod>https://www.thespruceeats.com/how-to-dry-pears-in-dehydrator-1327580</dryingMethod>
@@ -1068,6 +1122,7 @@
         </Food>
         <Food>
             <name>Pineapple</name>
+            <image>pineapple</image>
             <canningMethod>https://nchfp.uga.edu/how/can_02/pineapple.html</canningMethod>
             <freezingMethod>https://nchfp.uga.edu/how/freeze/pineapple.html</freezingMethod>
             <dryingMethod>https://selfproclaimedfoodie.com/oven-dried-pineapple/</dryingMethod>
@@ -1078,6 +1133,7 @@
         </Food>
         <Food>
             <name>Plums</name>
+            <image>plums</image>
             <canningMethod>https://nchfp.uga.edu/how/can_02/plum_halved.html</canningMethod>
             <freezingMethod>https://nchfp.uga.edu/how/freeze/plum.html</freezingMethod>
             <dryingMethod>https://frugalfamilyhome.com/food/drying-foods/how-to-dry-plums</dryingMethod>
@@ -1088,6 +1144,7 @@
         </Food>
         <Food>
             <name>Quince</name>
+            <image>quince</image>
             <canningMethod>https://nchfp.uga.edu/how/can_02/asian_pears.html</canningMethod>
             <freezingMethod>https://nchfp.uga.edu/how/freeze/pear.html</freezingMethod>
             <dryingMethod>http://www.homepreservingbible.com/wp-content/uploads/2013/11/Preserving-Apples-Pears-and-Quince.pdf</dryingMethod>
@@ -1098,6 +1155,7 @@
         </Food>
         <Food>
             <name>Rhubarb</name>
+            <image>rhubarb</image>
             <canningMethod>https://nchfp.uga.edu/how/can_02/rhubarb_stewed.html</canningMethod>
             <freezingMethod>https://nchfp.uga.edu/how/freeze/rhubarb.html</freezingMethod>
             <dryingMethod>https://madaboutmacarons.com/dried-rhubarb-chips/</dryingMethod>
@@ -1108,6 +1166,7 @@
         </Food>
         <Food>
             <name>Strawberries</name>
+            <image>strawberries</image>
             <canningMethod>https://nchfp.uga.edu/how/can_02/berries_whole.html</canningMethod>
             <freezingMethod>https://nchfp.uga.edu/how/freeze/strawberry.html</freezingMethod>
             <dryingMethod>https://www.shelovesbiscotti.com/oven-dried-strawberries/</dryingMethod>
@@ -1122,6 +1181,7 @@
     <Meats>
         <Food>
             <name>Chicken</name>
+            <image>chicken</image>
             <canningMethod>Chicken or Rabbit
 
                 Please read Using Pressure Canners before beginning. If this is your first time canning, it is recommended that you read Principles of Home Canning.
@@ -1148,6 +1208,7 @@
         </Food>
         <Food>
             <name>Red Meat</name>
+            <image>red_meat</image>
             <canningMethod>(Hot Pack Method for Canning Meat)
 
                 Beef, venison, elk, or pork; Salt (optional); Water; Canning jars, lids, and rings (quarts or pints are fine); A pressure canner
@@ -1174,6 +1235,7 @@
         </Food>
       <Food>
         <name>Fish</name>
+          <image>fish</image>
         <canningMethod>Gather your canning supplies: Pressure canner,canning jars, canning lids and rings jar lifter and canning funnel, stock pot, bowls, large spoons, sharp knife, towels and dish clothes.
 
             Ingredients: Fish, Canning salt
