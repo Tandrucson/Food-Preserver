@@ -139,20 +139,19 @@ public class canningFragment extends Fragment {
 
         Bundle bundle = getActivity().getIntent().getExtras();
 
-        Intent intent = getActivity().getIntent();
+        String name = bundle.getString("name");
 
-        String type = bundle.getString("type");
+        int i = 0;
+        int value = 0;
+        while(i < foodList.size())
+        {
+            if(name.equals(foodList.get(i).getName())) {
+                value = i;
+            }
+            i++;
+        }
 
-        int position = intent.getIntExtra("position", 0);
-
-        String canning = "";
-
-        if(type.toLowerCase().equals("vegetable"))
-            canning = foodList.get(position).getCanningMethod();
-        if(type.toLowerCase().equals("fruit"))
-            canning = foodList.get(position + vegetable).getCanningMethod();
-        if(type.toLowerCase().equals("meat"))
-            canning = foodList.get(position + vegetable + fruit).getCanningMethod();
+        String canning = foodList.get(value).getCanningMethod();
 
         canningDetails = v.findViewById(R.id.canning);
 

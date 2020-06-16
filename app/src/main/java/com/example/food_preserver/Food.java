@@ -8,16 +8,12 @@ public class Food {
     private String canningUrl;
     private String freezingUrl;
     private String dryingUrl;
-    private String foodName;
-    private String description;
     private int image;
     private String imageURL;
     private String type;
 
     public Food() {
-        this.foodName = foodName;
-        this.description = description;
-        this.image = image;
+        //empty constructor
     }
 
 
@@ -69,14 +65,6 @@ public class Food {
         return dryingUrl;
     }
 
-    public String getFoodName() {
-        return foodName;
-    }
-
-    public String getDescription() {
-        return description;
-    }
-
     public int getImage() {
         return image;
     }
@@ -113,23 +101,6 @@ public class Food {
         this.dryingMethod = dryingMethod;
     }
 
-    //Set methods shouldn't be needed
-    /* public void setName(String name) {
-        this.name = name;
-    }
-
-    public void setCanningMethod(String canningMethod) {
-        this.canningMethod = canningMethod;
-    }
-
-    public void setFreezingMethod(String freezingMethod) {
-        this.freezingMethod = freezingMethod;
-    }
-
-    public void setDryingMethod(String dryingMethod) {
-        this.dryingMethod = dryingMethod;
-    }
-
     public void setCanningUrl(String canningUrl) {
         this.canningUrl = canningUrl;
     }
@@ -140,12 +111,24 @@ public class Food {
 
     public void setDryingUrl(String dryingUrl) {
         this.dryingUrl = dryingUrl;
-    } */
-
-    //toString will need redone if its needed in future
-    public String toString() {
-        return name + canningMethod + freezingMethod + dryingMethod + canningUrl + freezingUrl + dryingUrl;
     }
 
+    //toString will need redone if its needed in future
 
+
+    @Override
+    public String toString() {
+        return "Food{" +
+                "name='" + name + '\'' +
+                ", canningMethod='" + canningMethod + '\'' +
+                ", freezingMethod='" + freezingMethod + '\'' +
+                ", dryingMethod='" + dryingMethod + '\'' +
+                ", canningUrl='" + canningUrl + '\'' +
+                ", freezingUrl='" + freezingUrl + '\'' +
+                ", dryingUrl='" + dryingUrl + '\'' +
+                ", image=" + image +
+                ", imageURL='" + imageURL + '\'' +
+                ", type='" + type + '\'' +
+                '}';
+    }
 }

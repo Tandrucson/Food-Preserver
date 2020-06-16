@@ -135,16 +135,21 @@ public class freezingFragment extends Fragment {
 
         String type = bundle.getString("type");
 
+        String name = bundle.getString("name");
+
         int position = intent.getIntExtra("position", 0);
 
-        String freezing = "";
+        int i = 0;
+        int value = 0;
+        while(i < foodList.size())
+        {
+            if(name.equals(foodList.get(i).getName())) {
+                value = i;
+            }
+            i++;
+        }
 
-        if(type.toLowerCase().equals("vegetable"))
-            freezing = foodList.get(position).getFreezingMethod();
-        if(type.toLowerCase().equals("fruit"))
-            freezing = foodList.get(position + vegetable).getFreezingMethod();
-        if(type.toLowerCase().equals("meat"))
-            freezing = foodList.get(position + vegetable + fruit).getFreezingMethod();
+        String freezing = foodList.get(value).getFreezingMethod();
 
         freezingDetails = v.findViewById(R.id.freezing);
 

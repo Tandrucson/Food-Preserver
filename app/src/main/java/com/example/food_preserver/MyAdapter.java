@@ -24,10 +24,6 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder> impl
      Context context;
 
     public MyAdapter(Context context, List<Food> foodList) {
-    //     context = ct;
-    //    data1 = s1;
-    //    data2 = s2;
-    //    images = img;
         foodListAll = new ArrayList<>(foodList);
         this.foodList = foodList;
         this.context = context;
@@ -50,13 +46,12 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder> impl
             @Override
             public void onClick(View v) {
                 int position = holder.getAdapterPosition();
-                String type = foodList.get(position).getType();
                 int image = foodList.get(position).getImage();
+                String name = foodList.get(position).getName();
                 final Intent intent;
                 intent = new Intent(context, Food_item_instructions.class);
-                intent.putExtra("position", position);
-                intent.putExtra("type", type);
                 intent.putExtra("image", image);
+                intent.putExtra("name", name);
                 context.startActivity(intent);
             }
         });

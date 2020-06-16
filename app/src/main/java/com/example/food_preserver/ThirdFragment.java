@@ -16,7 +16,6 @@ import org.xmlpull.v1.XmlPullParserFactory;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;
-import java.util.List;
 
 
 /**
@@ -25,12 +24,6 @@ import java.util.List;
  * create an instance of this fragment.
  */
 public class ThirdFragment extends Fragment {
-/*
-    //global variables for recyclerview
-
-    String s1[], s2[];
-    int images[] = {R.drawable.ic_carrot, R.drawable.ic_fruit, R.drawable.ic_meat,R.drawable.ic_carrot, R.drawable.ic_fruit, R.drawable.ic_meat, R.drawable.ic_meat,R.drawable.ic_carrot, R.drawable.ic_fruit, R.drawable.ic_meat};
-*/
 
     RecyclerView recyclerView;
 

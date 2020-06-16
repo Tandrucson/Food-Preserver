@@ -131,20 +131,21 @@ public class dryingFragment extends Fragment {
 
         Bundle bundle = getActivity().getIntent().getExtras();
 
-        Intent intent = getActivity().getIntent();
+        String name = bundle.getString("name");
 
-        String type = bundle.getString("type");
-
-        int position = intent.getIntExtra("position", 0);
+        int i = 0;
+        int value = 0;
+        while(i < foodList.size())
+        {
+            if(name.equals(foodList.get(i).getName())) {
+                value = i;
+            }
+            i++;
+        }
 
         String drying = "";
 
-        if(type.toLowerCase().equals("vegetable"))
-            drying = foodList.get(position).getDryingMethod();
-        if(type.toLowerCase().equals("fruit"))
-            drying = foodList.get(position + vegetable).getDryingMethod();
-        if(type.toLowerCase().equals("meat"))
-            drying = foodList.get(position + vegetable + fruit).getDryingMethod();
+        drying = foodList.get(value).getDryingMethod();
 
         dryingDetails = v.findViewById(R.id.drying);
 

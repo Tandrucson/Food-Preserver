@@ -8,9 +8,7 @@ import androidx.navigation.ui.NavigationUI;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.view.MenuItem;
 import android.widget.ImageView;
-import android.widget.ListView;
 import android.widget.TextView;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
@@ -22,12 +20,11 @@ import org.xmlpull.v1.XmlPullParserFactory;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;
-import java.util.HashMap;
 
 public class Food_item_instructions extends AppCompatActivity{
 
     ImageView foodImage;
-    TextView name;
+    TextView nameTV;
     String foodName;
 
     ArrayList<Food> foodList = new ArrayList<Food>();
@@ -44,11 +41,6 @@ public class Food_item_instructions extends AppCompatActivity{
         NavHostFragment navHostFragment = (NavHostFragment) this.getSupportFragmentManager().findFragmentById(R.id.fragment_container);
         NavigationUI.setupWithNavController(nav,navHostFragment.getNavController());
 
-
-        //xmlpullparser code here
-
-//        nav.setOnNavigationItemSelectedListener(navListener);
-//
         try {
             InputStream inputStream = getAssets().open("vegetablesv1.xml");
             XmlPullParserFactory parserFactory = XmlPullParserFactory.newInstance();
@@ -62,7 +54,7 @@ public class Food_item_instructions extends AppCompatActivity{
                 switch (event) {
                     case XmlPullParser.START_TAG:
                         if(tag.equals("Food"))
-                            foods = new Methods();
+                            foods = new Food();
                         break;
                     case XmlPullParser.TEXT:
                         text=parser.getText();
@@ -104,21 +96,13 @@ public class Food_item_instructions extends AppCompatActivity{
 
         Intent intent = getIntent();
         Bundle bundle = getIntent().getExtras();
-        String type = bundle.getString("type");
-        int position = intent.getIntExtra("position", 0);
+        String name = bundle.getString("name");
         int image = intent.getIntExtra("image", 0);
 
         foodImage = findViewById(R.id.food_image);
-        name = findViewById(R.id.food_name);
+        nameTV = findViewById(R.id.food_name);
 
-        if(type.toLowerCase().equals("vegetable"))
-            foodName = foodList.get(position).getName();
-        if(type.toLowerCase().equals("fruit"))
-            foodName = foodList.get(position + vegetable).getName();
-        if(type.toLowerCase().equals("meat"))
-            foodName = foodList.get(position + vegetable + fruit).getName();
-
-        name.setText(foodName);
+        nameTV.setText(name);
         foodImage.setImageResource(image);
     }
 

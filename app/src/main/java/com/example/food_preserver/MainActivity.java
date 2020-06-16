@@ -12,13 +12,6 @@ import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 public class MainActivity extends AppCompatActivity {
 
-
-/* recyclerview initial values
-     RecyclerView recyclerView;
-     String s1[], s2[];
-     int images[] = {R.drawable.ic_carrot, R.drawable.ic_fruit, R.drawable.ic_meat};
-*/
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -55,17 +48,6 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(MainActivity.this, "Go to Hamburger Activity", Toast.LENGTH_SHORT).show();
             }
         });
-
-
-
-/*     recyclerview implementation in MainActivity Template
-          recyclerView = findViewById(R.id.recyclerView);
-          s1 = getResources().getStringArray(R.array.programming_languages);
-          s2 = getResources().getStringArray(R.array.description);
-          MyAdapter myAdapter = new MyAdapter(this, s1, s2, images);
-          recyclerView.setAdapter(myAdapter);
-          recyclerView.setLayoutManager(new LinearLayoutManager(this));
-*/
 
     }
 }

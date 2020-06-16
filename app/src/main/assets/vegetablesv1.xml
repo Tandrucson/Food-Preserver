@@ -2110,17 +2110,6 @@
             <type>fruit</type>
         </Food>
         <Food>
-            <name>Rhubarb</name>
-            <image>rhubarb</image>
-            <canningMethod>https://nchfp.uga.edu/how/can_02/rhubarb_stewed.html</canningMethod>
-            <freezingMethod>https://nchfp.uga.edu/how/freeze/rhubarb.html</freezingMethod>
-            <dryingMethod>https://madaboutmacarons.com/dried-rhubarb-chips/</dryingMethod>
-            <canningUrl>https://nchfp.uga.edu/how/can_02/rhubarb_stewed.html</canningUrl>
-            <freezingUrl>https://nchfp.uga.edu/how/freeze/rhubarb.html</freezingUrl>
-            <dryingUrl>https://madaboutmacarons.com/dried-rhubarb-chips/</dryingUrl>
-            <type>fruit</type>
-        </Food>
-        <Food>
             <name>Strawberries</name>
             <image>strawberries</image>
             <canningMethod>https://nchfp.uga.edu/how/can_02/berries_whole.html</canningMethod>

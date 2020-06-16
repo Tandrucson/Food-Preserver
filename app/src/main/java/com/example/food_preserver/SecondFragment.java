@@ -25,15 +25,8 @@ import java.util.List;
  * create an instance of this fragment.
  */
 public class SecondFragment extends Fragment {
-/*
-    String s1[], s2[];
-    int images[] = {R.drawable.ic_carrot, R.drawable.ic_fruit, R.drawable.ic_meat,
-    R.drawable.ic_carrot, R.drawable.ic_fruit, R.drawable.ic_meat, R.drawable.ic_meat,
-    R.drawable.ic_carrot, R.drawable.ic_fruit, R.drawable.ic_meat};
-*/
 
     RecyclerView recyclerView;
-    List<Food> vegetablesList;
 
     ArrayList<Food> foodList = new ArrayList<>();
     Food foods;
@@ -86,8 +79,6 @@ public class SecondFragment extends Fragment {
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         View view = inflater.inflate(R.layout.fragment_second, container, false);
-
-        //vegetablesList = new ArrayList<>();
 
         act = getActivity();
 
@@ -142,47 +133,6 @@ public class SecondFragment extends Fragment {
         recyclerView.setAdapter(myAdapter);
         recyclerView.setLayoutManager(new LinearLayoutManager(getActivity()));
 
-
-        //38 vegetables
-//        vegetablesList.add(new Food("Artichokes", "Vegetable", R.drawable.artichokes));
-//        vegetablesList.add(new Food("Asparagus", "Vegetable", R.drawable.asparagus));
-//        vegetablesList.add(new Food("Beans: Green, Snap, or Wax", "Vegetable", R.drawable.beans_green_snap_or_wax));
-//        vegetablesList.add(new Food("Beans: Lima, Butter, or Pinto", "Vegetable", R.drawable.beans_lima));
-//        vegetablesList.add(new Food("Beets", "Vegetable", R.drawable.beets));
-//        vegetablesList.add(new Food("Broccoli", "Vegetable", R.drawable.broccoli));
-//        vegetablesList.add(new Food("Brussel Sprouts", "Vegetable", R.drawable.brussel_sprouts));
-//        vegetablesList.add(new Food("Cabbage or Chinese Cabbage", "Vegetable", R.drawable.cabbage_or_chinese_cabbage));
-//        vegetablesList.add(new Food("Carrots", "Vegetable", R.drawable.carrots));
-//        vegetablesList.add(new Food("Cauliflower", "Vegetable", R.drawable.cauliflower));
-//        vegetablesList.add(new Food("Celery", "Vegetable", R.drawable.celery));
-//        vegetablesList.add(new Food("Corn", "Vegetable", R.drawable.corn));
-//        vegetablesList.add(new Food("Cucumbers", "Vegetable", R.drawable.cucumbers));
-//        vegetablesList.add(new Food("Eggplant", "Vegetable", R.drawable.eggplant));
-//        vegetablesList.add(new Food("Garlic-in-Oil", "Vegetable", R.drawable.garlic_in_oil));
-//        vegetablesList.add(new Food("Greens (including Spinach)", "Vegetable", R.drawable.greens_including_spinach));
-//        vegetablesList.add(new Food("Fresh Herbs", "Vegetable", R.drawable.fresh_herbs));
-//        vegetablesList.add(new Food("Horseradish", "Vegetable", R.drawable.horseradish));
-//        vegetablesList.add(new Food("Kohlrabi", "Vegetable", R.drawable.kohlrabi));
-//        vegetablesList.add(new Food("Mushrooms", "Vegetable", R.drawable.mushrooms));
-//        vegetablesList.add(new Food("Okra", "Vegetable", R.drawable.okra));
-//        vegetablesList.add(new Food("Onions", "Vegetable", R.drawable.onions));
-//        vegetablesList.add(new Food("Peas Blackeye or Field", "Vegetable", R.drawable.blackeye_or_field_peas));
-//        vegetablesList.add(new Food("Peas Green", "Vegetable", R.drawable.green_peas));
-//        vegetablesList.add(new Food("Peas Pods Edible (Sugar, Chinese, Snow Peas or Sugar Snap Peas)", "Vegetable", R.drawable.peas_pods));
-//        vegetablesList.add(new Food("Peppers Bell or Sweet", "Vegetable", R.drawable.bell_or_sweet_peppers));
-//        vegetablesList.add(new Food("Peppers Hot", "Vegetable", R.drawable.hot_peppers));
-//        vegetablesList.add(new Food("Pimientos", "Vegetable", R.drawable.pimientos));
-//        vegetablesList.add(new Food("Potatoes New Irish", "Vegetable", R.drawable.new_irish_potatoes));
-//        vegetablesList.add(new Food("Potatoes Sweet", "Vegetable", R.drawable.sweet_potatoes));
-//        vegetablesList.add(new Food("Pumpkin", "Vegetable", R.drawable.pumpkin));
-//        vegetablesList.add(new Food("Rhubarb", "Vegetable", R.drawable.rhubarb));
-//        vegetablesList.add(new Food("Rutabagas", "Vegetable", R.drawable.rutabagas));
-//        vegetablesList.add(new Food("Squash Summer", "Vegetable", R.drawable.summer_squash));
-//        vegetablesList.add(new Food("Squash Winter", "Vegetable", R.drawable.winter_squash));
-//        vegetablesList.add(new Food("Tomatoes", "Vegetable", R.drawable.tomatoes));
-//        vegetablesList.add(new Food("Tomatoes Green", "Vegetable", R.drawable.green_tomatoes));
-//        vegetablesList.add(new Food("Turnips or Parsnips", "Vegetable", R.drawable.turnips_or_parsnips));
-//        vegetablesList.add(new Food("Zucchini", "Vegetable", R.drawable.zucchini));
 
         return view;
     }
