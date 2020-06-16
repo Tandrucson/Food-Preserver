@@ -1172,5 +1172,31 @@
             <dryingUrl>No links available.</dryingUrl>
             <type>meat</type>
         </Food>
+      <Food>
+        <name>Fish</name>
+        <canningMethod>Gather your canning supplies: Pressure canner,canning jars, canning lids and rings jar lifter and canning funnel, stock pot, bowls, large spoons, sharp knife, towels and dish clothes.
+
+            Ingredients: Fish, Canning salt
+            First, clean your fish. You'll need to remove the head, tail, and all fins and scales. Wash well and split fish lengthwise. Cut fish into jar-length pieces.
+
+            Large piece of fish. Washing fish. Cutting fish. Soak your fish in a salty brine for 1 hour. Use 1 cup of salt to 1 gallon of water. (This technique came from my Ball Blue Book, and I would think that brining would be especially helpful for flavor if the fish is fresh caught.)
+
+            While fish is soaking, gather all materials needed. Start your water heating in your canner. See pressure canning for more detailed instructions.
+
+            Drain fish for 10 minutes. You want to be sure it is well drained. Draining fish. Packing jars. Pack fish into hot jars (pints or half pints), skin sides out next to the glass. Leave a 1-inch headspace. Do not add liquid. Place lids and process according to pressure canning instructions.
+
+            Process pints or half pints 1 hour 40 minutes at 10 pounds pressure.</canningMethod>
+        <freezingMethod>Fresh fish is a tasty protein that has a relatively short shelf life. Any fish you are not planning on eating within a few days must be frozen. Properly freezing a fish does not mean tossing it into the freezer. Here's what you need to know to have top-quality fish for months:
+
+            Air is your enemy. Any air that touches your fish will destroy it. It's that simple. So you must prevent air from contacting the fish by vacuum-sealing it, glazing it or wrapping it tightly. (This is in order of preference.)
+            If you catch a lot of fish or buy lots of fresh fish from the market, buy a vacuum sealer. They're worth every penny and you'll use them frequently.
+            If you choose not to vacuum seal, you can glaze the fish by dipping them in cold water and putting the dipped fish on a sheet pan in the freezer. Let that water freeze, then repeat the process several more times to get a 1/4 inch thick ice glaze on the fish. You can then put your glazed fish into a plastic bag and place in the freezer for storage.
+            You can wrap your fish in plastic wrap, then put the wrapped fish into a plastic bag. This method is not as effective at preventing moisture loss and freezer burn like the other methods.</freezingMethod>
+        <dryingMethod>No links available.</dryingMethod>
+        <canningUrl>https://www.simplycanning.com/canning-fish.html</canningUrl>
+        <freezingUrl>https://www.thespruceeats.com/tips-on-freezing-fish-1300632</freezingUrl>
+        <dryingUrl>No links available.</dryingUrl>
+        <type>meat</type>
+    </Food>
     </Meats>
 </resources>

@@ -107,6 +107,7 @@ public class Food_item_instructions extends AppCompatActivity{
         foodList.add(new Food("Strawberries", "Fruit", R.drawable.strawberries));
         foodList.add(new Food("Chicken", "Meat", R.drawable.chicken));
         foodList.add(new Food("Red Meat", "Meat", R.drawable.red_meat));
+        foodList.add(new Food("Fish", "Meat", R.drawable.fish));
 
         Intent intent = getIntent();
         Bundle bundle = getIntent().getExtras();

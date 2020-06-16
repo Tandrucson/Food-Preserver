@@ -54,6 +54,7 @@ public class SearchActivity extends AppCompatActivity {
         foodList.add(new Food("Garlic-in-Oil", "", R.drawable.garlic_in_oil));
         foodList.add(new Food("Grapes", "", R.drawable.grapes));
         foodList.add(new Food("Greens (including Spinach)", "", R.drawable.greens_including_spinach));
+        foodList.add(new Food("Fish", "", R.drawable.fish));
         foodList.add(new Food("Fresh Herbs", "", R.drawable.fresh_herbs));
         foodList.add(new Food("Horseradish", "", R.drawable.horseradish));
         foodList.add(new Food("Kohlrabi", "", R.drawable.kohlrabi));
