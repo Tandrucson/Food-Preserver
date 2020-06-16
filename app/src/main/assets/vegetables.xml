@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!--<Food>
+        <name></name>
+        <canningMethod></canningMethod>
+        <freezingMethod></freezingMethod>
+        <dryingMethod></dryingMethod>
+        <canningUrl></canningUrl>
+        <freezingUrl></freezingUrl>
+        <dryingUrl></dryingUrl>
+    </Food>-->
     <Tutorials>
         <String>https://nchfp.uga.edu/publications/uga/using_press_canners.html</String>
         <String>https://nchfp.uga.edu/publications/usda/GUIDE01_HomeCan_rev0715.pdf</String>
@@ -2071,15 +2080,6 @@
             <freezingUrl>https://nchfp.uga.edu/how/freeze/strawberry.html</freezingUrl>
             <dryingUrl>https://www.shelovesbiscotti.com/oven-dried-strawberries/</dryingUrl>
         </Food>
-        <!--<Food>
-            <name></name>
-            <canningMethod></canningMethod>
-            <freezingMethod></freezingMethod>
-            <dryingMethod></dryingMethod>
-            <canningUrl></canningUrl>
-            <freezingUrl></freezingUrl>
-            <dryingUrl></dryingUrl>
-        </Food>-->
 
     </Fruits>
 
